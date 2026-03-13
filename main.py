@@ -67,7 +67,8 @@ def cli(verbose: bool):
 @click.option("--output-dir", default=None, help="Override output directory")
 @click.option("--from-db", is_flag=True, help="Load portals from SQLite DB instead of portals.yaml")
 @click.option("--sector", default=None, help="Filter portals by sector (use with --from-db)")
-def scrape(ats: str, portal: str, keyword: str, all_jobs: bool, limit: int, dry_run: bool, output_dir: str, from_db: bool, sector: str):
+@click.option("--today-only", is_flag=True, help="Only include jobs posted today")
+def scrape(ats: str, portal: str, keyword: str, all_jobs: bool, limit: int, dry_run: bool, output_dir: str, from_db: bool, sector: str, today_only: bool):
     """Scrape job listings from ATS career portals."""
     logger = logging.getLogger("main")
 
@@ -75,9 +76,9 @@ def scrape(ats: str, portal: str, keyword: str, all_jobs: bool, limit: int, dry_
     output_path.mkdir(parents=True, exist_ok=True)
 
     if ats == "icims":
-        _scrape_icims(portal, keyword, all_jobs, limit, dry_run, output_path, logger, from_db=from_db, sector=sector)
+        _scrape_icims(portal, keyword, all_jobs, limit, dry_run, output_path, logger, from_db=from_db, sector=sector, today_only=today_only)
     elif ats == "workday":
-        _scrape_workday(portal, keyword, all_jobs, limit, dry_run, output_path, logger)
+        _scrape_workday(portal, keyword, all_jobs, limit, dry_run, output_path, logger, today_only=today_only)
     else:
         logger.error(f"ATS '{ats}' scraper not yet implemented. Coming soon!")
         sys.exit(1)
@@ -116,6 +117,41 @@ def _load_companies_from_db(sector: str | None, logger: logging.Logger) -> list[
     return companies
 
 
+def _filter_jobs_by_date(jobs: list, today_only: bool, logger: logging.Logger) -> list:
+    """Filter jobs to only include those posted today."""
+    if not today_only:
+        return jobs
+
+    from datetime import date
+    today = date.today()
+    filtered = []
+
+    for job in jobs:
+        # Check if job was posted today via posted_date field
+        if job.posted_date:
+            if job.posted_date.date() == today:
+                filtered.append(job)
+                continue
+
+        # If no posted_date, check postedOn text for "Posted Today"
+        raw = job.raw_data or {}
+
+        # Workday format: raw_data has listing.posted_on or jobPostingInfo.postedOn
+        posted_on = ""
+        if "listing" in raw:
+            posted_on = raw["listing"].get("posted_on", "")
+        elif "jobPostingInfo" in raw:
+            posted_on = raw["jobPostingInfo"].get("postedOn", "")
+        else:
+            posted_on = raw.get("postedOn", "") or raw.get("posted_on", "")
+
+        if posted_on and "today" in posted_on.lower():
+            filtered.append(job)
+
+    logger.info(f"Filtered to {len(filtered)} jobs posted today (from {len(jobs)} total)")
+    return filtered
+
+
 def _scrape_icims(
     portal_slug: str | None,
     keyword: str | None,
@@ -126,6 +162,7 @@ def _scrape_icims(
     logger: logging.Logger,
     from_db: bool = False,
     sector: str | None = None,
+    today_only: bool = False,
 ):
     """Run the iCIMS scraper."""
     if from_db:
@@ -164,6 +201,10 @@ def _scrape_icims(
         except Exception as e:
             logger.error(f"✗ {company.name}: {e}")
             continue
+
+    # Filter by date if requested
+    if today_only:
+        all_scraped_jobs = _filter_jobs_by_date(all_scraped_jobs, today_only, logger)
 
     # Summary
     logger.info(f"\n{'='*50}")
@@ -209,6 +250,7 @@ def _scrape_workday(
     dry_run: bool,
     output_path: Path,
     logger: logging.Logger,
+    today_only: bool = False,
 ):
     """Run the Workday scraper."""
     if not portal_url:
@@ -250,6 +292,10 @@ def _scrape_workday(
     except Exception as e:
         logger.error(f"✗ {company.name}: {e}")
         sys.exit(1)
+
+    # Filter by date if requested
+    if today_only:
+        jobs = _filter_jobs_by_date(jobs, today_only, logger)
 
     # Summary
     logger.info(f"\n{'='*50}")

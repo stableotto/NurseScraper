@@ -70,6 +70,7 @@ def run_daily(
     discovery_workers: int = 50,
     scrape_limit: int | None = None,
     scrape_portal: str | None = None,
+    today_only: bool = True,
 ):
     """Execute the full daily pipeline."""
     python = sys.executable
@@ -108,6 +109,8 @@ def run_daily(
             cmd.extend(["--limit", str(scrape_limit)])
         if scrape_portal:
             cmd.extend(["--portal", scrape_portal])
+        if today_only:
+            cmd.extend(["--today-only"])
 
         ok, err = run_step("Scrape jobs from active portals", cmd)
         if not ok:
@@ -213,6 +216,7 @@ def main():
     daily_parser.add_argument("--discovery-workers", type=int, default=50)
     daily_parser.add_argument("--scrape-limit", type=int, default=None, help="Max portals to scrape")
     daily_parser.add_argument("--scrape-portal", default=None, help="Scrape a specific portal slug")
+    daily_parser.add_argument("--all-dates", action="store_true", help="Include jobs from all dates (default: today only)")
 
     sub.add_parser("status", help="Show database and pipeline status")
 
@@ -226,6 +230,7 @@ def main():
             discovery_workers=args.discovery_workers,
             scrape_limit=args.scrape_limit,
             scrape_portal=args.scrape_portal,
+            today_only=not args.all_dates,
         )
     elif args.command == "status":
         show_status()

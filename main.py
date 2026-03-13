@@ -118,22 +118,26 @@ def _load_companies_from_db(sector: str | None, logger: logging.Logger) -> list[
 
 
 def _filter_jobs_by_date(jobs: list, today_only: bool, logger: logging.Logger) -> list:
-    """Filter jobs to only include those posted today."""
+    """Filter jobs to only include those posted today or within last 24 hours."""
     if not today_only:
         return jobs
 
-    from datetime import date
+    from datetime import date, datetime, timedelta
     today = date.today()
+    yesterday = today - timedelta(days=1)
     filtered = []
 
     for job in jobs:
-        # Check if job was posted today via posted_date field
+        dominated = False
+
+        # Check if job was posted today or yesterday via posted_date field
         if job.posted_date:
-            if job.posted_date.date() == today:
+            job_date = job.posted_date.date()
+            if job_date == today or job_date == yesterday:
                 filtered.append(job)
                 continue
 
-        # If no posted_date, check postedOn text for "Posted Today"
+        # Check postedOn text for "Posted Today" or "Posted Yesterday"
         raw = job.raw_data or {}
 
         # Workday format: raw_data has listing.posted_on or jobPostingInfo.postedOn
@@ -145,10 +149,15 @@ def _filter_jobs_by_date(jobs: list, today_only: bool, logger: logging.Logger) -
         else:
             posted_on = raw.get("postedOn", "") or raw.get("posted_on", "")
 
-        if posted_on and "today" in posted_on.lower():
+        # iCIMS Jibe format: raw_data has posted_date or publish_date
+        if not posted_on:
+            posted_on = raw.get("posted_date", "") or raw.get("publish_date", "")
+
+        posted_on_lower = posted_on.lower() if posted_on else ""
+        if "today" in posted_on_lower or "yesterday" in posted_on_lower:
             filtered.append(job)
 
-    logger.info(f"Filtered to {len(filtered)} jobs posted today (from {len(jobs)} total)")
+    logger.info(f"Filtered to {len(filtered)} recent jobs (from {len(jobs)} total)")
     return filtered
 
 

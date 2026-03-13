@@ -235,7 +235,14 @@ class ICIMSScraper(BaseScraper):
 
     def _build_icims_url(self) -> str:
         """Build the raw iCIMS career portal URL."""
+        # Use portal_url if available (already has correct format)
+        if self.company.portal_url and "icims.com" in self.company.portal_url:
+            return self.company.portal_url.rstrip("/")
+
+        # Fallback: build from slug, stripping "careers-" prefix if present
         slug = self.company.ats_slug
+        if slug.startswith("careers-"):
+            slug = slug[8:]  # Remove "careers-" prefix
         return f"https://careers-{slug}.icims.com"
 
     def _fetch_icims_search_page(

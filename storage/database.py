@@ -315,6 +315,7 @@ def query_jobs(
     sectors: Optional[list[str]] = None,
     states: Optional[list[str]] = None,
     is_nursing: Optional[bool] = None,
+    categories: Optional[list[str]] = None,
     title_keywords: Optional[list[str]] = None,
     exclude_keywords: Optional[list[str]] = None,
     posted_within_days: Optional[int] = None,
@@ -339,6 +340,12 @@ def query_jobs(
     if is_nursing is not None:
         clauses.append("j.is_nursing = ?")
         params.append(int(is_nursing))
+
+    if categories:
+        # categories is stored as JSON array, use LIKE for each category
+        cat_parts = ["j.categories LIKE ?" for _ in categories]
+        clauses.append(f"({' OR '.join(cat_parts)})")
+        params.extend(f'%"{cat}"%' for cat in categories)
 
     if title_keywords:
         kw_parts = ["j.title LIKE ?" for _ in title_keywords]

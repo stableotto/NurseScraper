@@ -449,16 +449,18 @@ class ICIMSScraper(BaseScraper):
         """Fetch full details for a single job posting."""
         if self._api_mode == "jibe" and job.raw_data:
             # Jibe API already returns full details — just classify
-            job.classify_nursing()
+            job.classify()
             return job
 
         # For raw iCIMS, fetch the detail page
         return self._fetch_icims_job_detail(job)
 
-    def scrape_all(self, keyword: Optional[str] = None, nursing_only: bool = True) -> list[Job]:
+    def scrape_all(self, keyword: Optional[str] = None, category_filter: Optional[str] = None) -> list[Job]:
         """
         Override base scrape_all since Jibe mode doesn't need individual detail fetches.
         """
+        from collections import Counter
+
         logger.info(f"[{self.ATS_NAME}] Scraping {self.company.name} ({self.company.portal_url})")
 
         # Detect API mode
@@ -472,14 +474,14 @@ class ICIMSScraper(BaseScraper):
         if self._api_mode == "jibe":
             # Jibe already has full details, just classify
             for job in jobs:
-                job.classify_nursing()
+                job.classify()
         else:
             # Raw iCIMS needs detail page fetches
             enriched = []
             for i, job in enumerate(jobs):
                 try:
                     job = self.scrape_job_detail(job)
-                    job.classify_nursing()
+                    job.classify()
                     enriched.append(job)
                     if (i + 1) % 25 == 0:
                         logger.info(f"[{self.ATS_NAME}] Processed {i + 1}/{len(jobs)} jobs")
@@ -488,10 +490,16 @@ class ICIMSScraper(BaseScraper):
                     continue
             jobs = enriched
 
-        # Filter
-        if nursing_only:
-            jobs = [j for j in jobs if j.is_nursing]
-            logger.info(f"[{self.ATS_NAME}] {len(jobs)} nursing jobs after filtering")
+        # Log category breakdown
+        all_categories = [cat for job in jobs for cat in job.categories]
+        category_counts = Counter(all_categories)
+        if category_counts:
+            logger.info(f"[{self.ATS_NAME}] Categories: {dict(category_counts)}")
+
+        # Filter by category if requested
+        if category_filter:
+            jobs = [j for j in jobs if category_filter in j.categories]
+            logger.info(f"[{self.ATS_NAME}] {len(jobs)} jobs after {category_filter} filter")
 
         self.company.job_count = len(jobs)
         self.company.verified = True

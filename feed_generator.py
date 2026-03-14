@@ -177,6 +177,7 @@ def generate_feed(config: dict, conn, dry_run: bool = False) -> dict:
         sectors=filters.get("sectors"),
         states=filters.get("states"),
         is_nursing=filters.get("is_nursing"),
+        categories=filters.get("categories"),
         title_keywords=filters.get("title_keywords"),
         exclude_keywords=filters.get("exclude_keywords"),
         posted_within_days=filters.get("posted_within_days"),

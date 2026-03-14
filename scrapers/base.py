@@ -129,13 +129,13 @@ class BaseScraper(abc.ABC):
         """
         ...
 
-    def scrape_all(self, keyword: Optional[str] = None, nursing_only: bool = True) -> list[Job]:
+    def scrape_all(self, keyword: Optional[str] = None, category_filter: Optional[str] = None) -> list[Job]:
         """
         Full scrape workflow: discover jobs, fetch details, classify.
 
         Args:
             keyword: Optional keyword filter for the search
-            nursing_only: If True, only return nursing-classified jobs
+            category_filter: Optional category to filter by (e.g., "nursing", "pharmacy")
 
         Returns:
             List of fully populated Job objects
@@ -146,12 +146,12 @@ class BaseScraper(abc.ABC):
         jobs = self.discover_jobs(keyword=keyword)
         logger.info(f"[{self.ATS_NAME}] Found {len(jobs)} job listings")
 
-        # Step 2: Fetch full details for each job
+        # Step 2: Fetch full details for each job and classify
         detailed_jobs = []
         for i, job in enumerate(jobs):
             try:
                 enriched = self.scrape_job_detail(job)
-                enriched.classify_nursing()
+                enriched.classify()  # Multi-category classification
                 detailed_jobs.append(enriched)
 
                 if (i + 1) % 25 == 0:
@@ -160,12 +160,17 @@ class BaseScraper(abc.ABC):
                 logger.error(f"[{self.ATS_NAME}] Failed to scrape job {job.id}: {e}")
                 continue
 
-        # Step 3: Filter if needed
-        if nursing_only:
-            detailed_jobs = [j for j in detailed_jobs if j.is_nursing]
-            logger.info(
-                f"[{self.ATS_NAME}] {len(detailed_jobs)} nursing jobs after filtering"
-            )
+        # Log category breakdown
+        from collections import Counter
+        all_categories = [cat for job in detailed_jobs for cat in job.categories]
+        category_counts = Counter(all_categories)
+        if category_counts:
+            logger.info(f"[{self.ATS_NAME}] Categories: {dict(category_counts)}")
+
+        # Step 3: Filter by category if requested
+        if category_filter:
+            detailed_jobs = [j for j in detailed_jobs if category_filter in j.categories]
+            logger.info(f"[{self.ATS_NAME}] {len(detailed_jobs)} jobs after {category_filter} filter")
 
         # Update company metadata
         self.company.job_count = len(detailed_jobs)

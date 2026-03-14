@@ -61,14 +61,14 @@ def cli(verbose: bool):
 @click.option("--ats", required=True, type=click.Choice(["icims", "workday", "taleo", "oracle"]))
 @click.option("--portal", default=None, help="Scrape a specific portal by slug (e.g., 'uci')")
 @click.option("--keyword", default=None, help="Search keyword filter (e.g., 'nurse')")
-@click.option("--all-jobs", is_flag=True, help="Include non-nursing jobs")
+@click.option("--category", default=None, help="Filter by category (nursing, pharmacy, physician, allied_health, etc.)")
 @click.option("--limit", default=None, type=int, help="Max number of portals to scrape")
 @click.option("--dry-run", is_flag=True, help="Discover jobs but don't export")
 @click.option("--output-dir", default=None, help="Override output directory")
 @click.option("--from-db", is_flag=True, help="Load portals from SQLite DB instead of portals.yaml")
 @click.option("--sector", default=None, help="Filter portals by sector (use with --from-db)")
 @click.option("--today-only", is_flag=True, help="Only include jobs posted today")
-def scrape(ats: str, portal: str, keyword: str, all_jobs: bool, limit: int, dry_run: bool, output_dir: str, from_db: bool, sector: str, today_only: bool):
+def scrape(ats: str, portal: str, keyword: str, category: str, limit: int, dry_run: bool, output_dir: str, from_db: bool, sector: str, today_only: bool):
     """Scrape job listings from ATS career portals."""
     logger = logging.getLogger("main")
 
@@ -76,9 +76,9 @@ def scrape(ats: str, portal: str, keyword: str, all_jobs: bool, limit: int, dry_
     output_path.mkdir(parents=True, exist_ok=True)
 
     if ats == "icims":
-        _scrape_icims(portal, keyword, all_jobs, limit, dry_run, output_path, logger, from_db=from_db, sector=sector, today_only=today_only)
+        _scrape_icims(portal, keyword, category, limit, dry_run, output_path, logger, from_db=from_db, sector=sector, today_only=today_only)
     elif ats == "workday":
-        _scrape_workday(portal, keyword, all_jobs, limit, dry_run, output_path, logger, today_only=today_only)
+        _scrape_workday(portal, keyword, category, limit, dry_run, output_path, logger, today_only=today_only)
     else:
         logger.error(f"ATS '{ats}' scraper not yet implemented. Coming soon!")
         sys.exit(1)
@@ -164,7 +164,7 @@ def _filter_jobs_by_date(jobs: list, today_only: bool, logger: logging.Logger) -
 def _scrape_icims(
     portal_slug: str | None,
     keyword: str | None,
-    all_jobs: bool,
+    category_filter: str | None,
     limit: int | None,
     dry_run: bool,
     output_path: Path,
@@ -174,6 +174,8 @@ def _scrape_icims(
     today_only: bool = False,
 ):
     """Run the iCIMS scraper."""
+    from collections import Counter
+
     if from_db:
         companies = _load_companies_from_db(sector, logger)
     else:
@@ -200,13 +202,10 @@ def _scrape_icims(
             scraper = ICIMSScraper(company)
             jobs = scraper.scrape_all(
                 keyword=keyword,
-                nursing_only=not all_jobs,
+                category_filter=category_filter,
             )
             all_scraped_jobs.extend(jobs)
-            logger.info(
-                f"✓ {company.name}: {len(jobs)} jobs "
-                f"({'all' if all_jobs else 'nursing only'})"
-            )
+            logger.info(f"✓ {company.name}: {len(jobs)} jobs")
         except Exception as e:
             logger.error(f"✗ {company.name}: {e}")
             continue
@@ -215,10 +214,14 @@ def _scrape_icims(
     if today_only:
         all_scraped_jobs = _filter_jobs_by_date(all_scraped_jobs, today_only, logger)
 
-    # Summary
+    # Summary with category breakdown
+    all_categories = [cat for job in all_scraped_jobs for cat in job.categories]
+    category_counts = Counter(all_categories)
+
     logger.info(f"\n{'='*50}")
     logger.info(f"Total jobs scraped: {len(all_scraped_jobs)}")
-    logger.info(f"Nursing jobs: {sum(1 for j in all_scraped_jobs if j.is_nursing)}")
+    if category_counts:
+        logger.info(f"By category: {dict(category_counts)}")
     logger.info(f"{'='*50}")
 
     # Save to SQLite database
@@ -254,7 +257,7 @@ def _scrape_icims(
 def _scrape_workday(
     portal_url: str | None,
     keyword: str | None,
-    all_jobs: bool,
+    category_filter: str | None,
     limit: int | None,
     dry_run: bool,
     output_path: Path,
@@ -262,6 +265,8 @@ def _scrape_workday(
     today_only: bool = False,
 ):
     """Run the Workday scraper."""
+    from collections import Counter
+
     if not portal_url:
         logger.error("Workday scraper requires --portal with a full URL")
         logger.error("Example: --portal https://rch.wd108.myworkdayjobs.com/Careers")
@@ -292,12 +297,9 @@ def _scrape_workday(
         scraper = WorkdayScraper(company)
         jobs = scraper.scrape_all(
             keyword=keyword,
-            nursing_only=not all_jobs,
+            category_filter=category_filter,
         )
-        logger.info(
-            f"✓ {company.name}: {len(jobs)} jobs "
-            f"({'all' if all_jobs else 'nursing only'})"
-        )
+        logger.info(f"✓ {company.name}: {len(jobs)} jobs")
     except Exception as e:
         logger.error(f"✗ {company.name}: {e}")
         sys.exit(1)
@@ -306,10 +308,14 @@ def _scrape_workday(
     if today_only:
         jobs = _filter_jobs_by_date(jobs, today_only, logger)
 
-    # Summary
+    # Summary with category breakdown
+    all_categories = [cat for job in jobs for cat in job.categories]
+    category_counts = Counter(all_categories)
+
     logger.info(f"\n{'='*50}")
     logger.info(f"Total jobs scraped: {len(jobs)}")
-    logger.info(f"Nursing jobs: {sum(1 for j in jobs if j.is_nursing)}")
+    if category_counts:
+        logger.info(f"By category: {dict(category_counts)}")
     logger.info(f"{'='*50}")
 
     # Save to SQLite database

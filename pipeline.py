@@ -140,6 +140,30 @@ def run_daily(
         if not ok:
             errors.append(f"TalentBrew Scrape: {err}")
 
+    # Step 2d: Scrape Taleo portals
+    if not feeds_only and not skip_scrape:
+        cmd = [python, "main.py", "scrape", "--ats", "taleo", "--from-db"]
+        if scrape_limit:
+            cmd.extend(["--limit", str(scrape_limit)])
+        if today_only:
+            cmd.extend(["--today-only"])
+
+        ok, err = run_step("Scrape Taleo portals", cmd)
+        if not ok:
+            errors.append(f"Taleo Scrape: {err}")
+
+    # Step 2e: Scrape Oracle HCM portals
+    if not feeds_only and not skip_scrape:
+        cmd = [python, "main.py", "scrape", "--ats", "oracle", "--from-db"]
+        if scrape_limit:
+            cmd.extend(["--limit", str(scrape_limit)])
+        if today_only:
+            cmd.extend(["--today-only"])
+
+        ok, err = run_step("Scrape Oracle HCM portals", cmd)
+        if not ok:
+            errors.append(f"Oracle Scrape: {err}")
+
         # Get total job count after all scrapes
         with db_session(DB_PATH) as conn:
             row = conn.execute("SELECT COUNT(*) as cnt FROM jobs").fetchone()

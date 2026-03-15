@@ -29,6 +29,8 @@ from scrapers.icims.scraper import ICIMSScraper
 from scrapers.icims.discovery import ICIMSDiscovery
 from scrapers.workday.scraper import WorkdayScraper
 from scrapers.talentbrew.scraper import TalentBrewScraper
+from scrapers.taleo.scraper import TaleoScraper
+from scrapers.oracle.scraper import OracleScraper
 from storage.export import export_to_csv, export_to_json
 from storage.database import init_db, db_session, get_portal_id, upsert_portal
 
@@ -82,6 +84,10 @@ def scrape(ats: str, portal: str, keyword: str, category: str, limit: int, dry_r
         _scrape_workday(portal, keyword, category, limit, dry_run, output_path, logger, from_db=from_db, today_only=today_only)
     elif ats == "talentbrew":
         _scrape_talentbrew(portal, keyword, category, limit, dry_run, output_path, logger, from_db=from_db, today_only=today_only)
+    elif ats == "taleo":
+        _scrape_taleo(portal, keyword, category, limit, dry_run, output_path, logger, from_db=from_db, today_only=today_only)
+    elif ats == "oracle":
+        _scrape_oracle(portal, keyword, category, limit, dry_run, output_path, logger, from_db=from_db, today_only=today_only)
     else:
         logger.error(f"ATS '{ats}' scraper not yet implemented. Coming soon!")
         sys.exit(1)
@@ -572,6 +578,316 @@ def _scrape_talentbrew(
 
     if OUTPUT_FORMAT in ("json", "both"):
         json_path = export_to_json(all_scraped_jobs, output_path, f"talentbrew_jobs_{date_str}.json")
+        logger.info(f"JSON exported to {json_path}")
+
+
+def _load_taleo_portals_from_config(logger: logging.Logger) -> list[dict]:
+    """Load Taleo portals from config/portals.yaml."""
+    portals = []
+    try:
+        with open(PORTALS_FILE) as f:
+            data = yaml.safe_load(f)
+
+        for entry in data.get("taleo", []):
+            url = entry.get("url", "")
+            if not url:
+                continue
+
+            portals.append({
+                "name": entry.get("name", ""),
+                "url": url,
+                "career_section": entry.get("career_section", "jobsearch"),
+                "slug": entry.get("slug", ""),
+                "sector": entry.get("sector", ""),
+                "state": entry.get("state", ""),
+            })
+
+        logger.info(f"Loaded {len(portals)} Taleo portals from config")
+    except Exception as e:
+        logger.error(f"Failed to load Taleo portals from config: {e}")
+
+    return portals
+
+
+def _load_taleo_portals_from_db(logger: logging.Logger) -> list[dict]:
+    """Load Taleo portals from the SQLite database."""
+    from storage.database import get_connection
+    init_db(DB_PATH)
+    conn = get_connection(DB_PATH)
+
+    rows = conn.execute(
+        "SELECT * FROM portals WHERE ats_type = 'taleo' AND verified = 1 ORDER BY name"
+    ).fetchall()
+    conn.close()
+
+    portals = [{
+        "name": r["name"],
+        "url": r["url"],
+        "career_section": r.get("career_section", "jobsearch"),
+        "slug": r["slug"],
+    } for r in rows]
+    logger.info(f"Loaded {len(portals)} Taleo portals from database")
+    return portals
+
+
+def _scrape_taleo(
+    portal_slug: str | None,
+    keyword: str | None,
+    category_filter: str | None,
+    limit: int | None,
+    dry_run: bool,
+    output_path: Path,
+    logger: logging.Logger,
+    from_db: bool = False,
+    today_only: bool = False,
+):
+    """Run the Taleo scraper."""
+    from collections import Counter
+    from urllib.parse import urlparse
+
+    # Load portals from db or config
+    if from_db:
+        portals = _load_taleo_portals_from_db(logger)
+        if not portals:
+            portals = _load_taleo_portals_from_config(logger)
+    else:
+        portals = _load_taleo_portals_from_config(logger)
+
+    # Filter to specific portal if requested
+    if portal_slug:
+        portals = [p for p in portals if p.get("slug") == portal_slug]
+        if not portals:
+            logger.error(f"Portal '{portal_slug}' not found")
+            sys.exit(1)
+
+    if not portals:
+        logger.warning("No Taleo portals to scrape")
+        return
+
+    # Apply limit
+    if limit:
+        portals = portals[:limit]
+
+    logger.info(f"Scraping {len(portals)} Taleo portals")
+
+    all_scraped_jobs = []
+
+    for portal in portals:
+        try:
+            # Create Company object for the scraper
+            company = Company(
+                name=portal["name"],
+                portal_url=portal["url"],
+                ats_type="taleo",
+                ats_slug=portal.get("slug", ""),
+            )
+
+            scraper = TaleoScraper(company)
+            jobs = scraper.scrape_all(keyword=keyword, fetch_details=True)
+
+            all_scraped_jobs.extend(jobs)
+            logger.info(f"✓ {portal['name']}: {len(jobs)} jobs")
+        except Exception as e:
+            logger.error(f"✗ {portal['name']}: {e}")
+            continue
+
+    # Filter by date if requested
+    if today_only:
+        all_scraped_jobs = _filter_jobs_by_date(all_scraped_jobs, today_only, logger)
+
+    # Summary
+    logger.info(f"\n{'='*50}")
+    logger.info(f"Total jobs scraped: {len(all_scraped_jobs)}")
+    logger.info(f"{'='*50}")
+
+    # Save to SQLite database
+    init_db(DB_PATH)
+    with db_session(DB_PATH) as conn:
+        for portal in portals:
+            portal_id = upsert_portal(
+                conn,
+                subdomain=portal.get("slug", portal["name"].lower().replace(" ", "-")),
+                slug=portal.get("slug", portal["name"].lower().replace(" ", "-")),
+                name=portal["name"],
+                url=portal["url"],
+                ats_type="taleo",
+                verified=True,
+            )
+            portal_jobs = [j for j in all_scraped_jobs if j.company_name == portal["name"]]
+            for job in portal_jobs:
+                job.save_to_db(conn, portal_id)
+        logger.info(f"Saved {len(all_scraped_jobs)} jobs to SQLite database")
+
+    if dry_run:
+        logger.info("Dry run — skipping file export")
+        for job in all_scraped_jobs[:5]:
+            logger.info(f"  [{job.id}] {job.title} @ {job.company_name}")
+        return
+
+    # Export to flat files
+    date_str = datetime.utcnow().strftime("%Y-%m-%d")
+
+    if OUTPUT_FORMAT in ("csv", "both"):
+        csv_path = export_to_csv(all_scraped_jobs, output_path, f"taleo_jobs_{date_str}.csv")
+        logger.info(f"CSV exported to {csv_path}")
+
+    if OUTPUT_FORMAT in ("json", "both"):
+        json_path = export_to_json(all_scraped_jobs, output_path, f"taleo_jobs_{date_str}.json")
+        logger.info(f"JSON exported to {json_path}")
+
+
+def _load_oracle_portals_from_config(logger: logging.Logger) -> list[dict]:
+    """Load Oracle HCM portals from config/portals.yaml."""
+    portals = []
+    try:
+        with open(PORTALS_FILE) as f:
+            data = yaml.safe_load(f)
+
+        for entry in data.get("oracle", []):
+            url = entry.get("url", "")
+            if not url:
+                continue
+
+            portals.append({
+                "name": entry.get("name", ""),
+                "url": url,
+                "site_number": entry.get("site_number", "CX_1"),
+                "slug": entry.get("slug", ""),
+                "sector": entry.get("sector", ""),
+                "state": entry.get("state", ""),
+            })
+
+        logger.info(f"Loaded {len(portals)} Oracle HCM portals from config")
+    except Exception as e:
+        logger.error(f"Failed to load Oracle HCM portals from config: {e}")
+
+    return portals
+
+
+def _load_oracle_portals_from_db(logger: logging.Logger) -> list[dict]:
+    """Load Oracle HCM portals from the SQLite database."""
+    from storage.database import get_connection
+    init_db(DB_PATH)
+    conn = get_connection(DB_PATH)
+
+    rows = conn.execute(
+        "SELECT * FROM portals WHERE ats_type = 'oracle' AND verified = 1 ORDER BY name"
+    ).fetchall()
+    conn.close()
+
+    portals = [{
+        "name": r["name"],
+        "url": r["url"],
+        "site_number": r.get("site_number", "CX_1"),
+        "slug": r["slug"],
+    } for r in rows]
+    logger.info(f"Loaded {len(portals)} Oracle HCM portals from database")
+    return portals
+
+
+def _scrape_oracle(
+    portal_slug: str | None,
+    keyword: str | None,
+    category_filter: str | None,
+    limit: int | None,
+    dry_run: bool,
+    output_path: Path,
+    logger: logging.Logger,
+    from_db: bool = False,
+    today_only: bool = False,
+):
+    """Run the Oracle HCM scraper."""
+    from collections import Counter
+    from urllib.parse import urlparse
+
+    # Load portals from db or config
+    if from_db:
+        portals = _load_oracle_portals_from_db(logger)
+        if not portals:
+            portals = _load_oracle_portals_from_config(logger)
+    else:
+        portals = _load_oracle_portals_from_config(logger)
+
+    # Filter to specific portal if requested
+    if portal_slug:
+        portals = [p for p in portals if p.get("slug") == portal_slug]
+        if not portals:
+            logger.error(f"Portal '{portal_slug}' not found")
+            sys.exit(1)
+
+    if not portals:
+        logger.warning("No Oracle HCM portals to scrape")
+        return
+
+    # Apply limit
+    if limit:
+        portals = portals[:limit]
+
+    logger.info(f"Scraping {len(portals)} Oracle HCM portals")
+
+    all_scraped_jobs = []
+
+    for portal in portals:
+        try:
+            # Create Company object for the scraper
+            company = Company(
+                name=portal["name"],
+                portal_url=portal["url"],
+                ats_type="oracle",
+                ats_slug=portal.get("slug", ""),
+            )
+
+            scraper = OracleScraper(company)
+            jobs = scraper.scrape_all(keyword=keyword, fetch_details=False)
+
+            all_scraped_jobs.extend(jobs)
+            logger.info(f"✓ {portal['name']}: {len(jobs)} jobs")
+        except Exception as e:
+            logger.error(f"✗ {portal['name']}: {e}")
+            continue
+
+    # Filter by date if requested
+    if today_only:
+        all_scraped_jobs = _filter_jobs_by_date(all_scraped_jobs, today_only, logger)
+
+    # Summary
+    logger.info(f"\n{'='*50}")
+    logger.info(f"Total jobs scraped: {len(all_scraped_jobs)}")
+    logger.info(f"{'='*50}")
+
+    # Save to SQLite database
+    init_db(DB_PATH)
+    with db_session(DB_PATH) as conn:
+        for portal in portals:
+            portal_id = upsert_portal(
+                conn,
+                subdomain=portal.get("slug", portal["name"].lower().replace(" ", "-")),
+                slug=portal.get("slug", portal["name"].lower().replace(" ", "-")),
+                name=portal["name"],
+                url=portal["url"],
+                ats_type="oracle",
+                verified=True,
+            )
+            portal_jobs = [j for j in all_scraped_jobs if j.company_name == portal["name"]]
+            for job in portal_jobs:
+                job.save_to_db(conn, portal_id)
+        logger.info(f"Saved {len(all_scraped_jobs)} jobs to SQLite database")
+
+    if dry_run:
+        logger.info("Dry run — skipping file export")
+        for job in all_scraped_jobs[:5]:
+            logger.info(f"  [{job.id}] {job.title} @ {job.company_name}")
+        return
+
+    # Export to flat files
+    date_str = datetime.utcnow().strftime("%Y-%m-%d")
+
+    if OUTPUT_FORMAT in ("csv", "both"):
+        csv_path = export_to_csv(all_scraped_jobs, output_path, f"oracle_jobs_{date_str}.csv")
+        logger.info(f"CSV exported to {csv_path}")
+
+    if OUTPUT_FORMAT in ("json", "both"):
+        json_path = export_to_json(all_scraped_jobs, output_path, f"oracle_jobs_{date_str}.json")
         logger.info(f"JSON exported to {json_path}")
 
 

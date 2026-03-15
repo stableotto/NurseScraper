@@ -584,6 +584,38 @@ talentbrew:
 
   # Add more TalentBrew portals here...
 
-taleo: []
+# ============================================================
+# Taleo Portals (raw Taleo without TalentBrew wrapper)
+# ============================================================
+# URL format: https://{company}.taleo.net/careersection/{section}/joblist.ftl
+# ============================================================
+taleo:
+  - name: "MemorialCare (Physician)"
+    url: "https://memorialcare.taleo.net/careersection/phy/joblist.ftl"
+    career_section: "phy"
+    slug: "memorialcare-phy"
+    sector: "health_system"
+    state: "CA"
 
-oracle: []
+  - name: "MemorialCare (Internal)"
+    url: "https://memorialcare.taleo.net/careersection/in/joblist.ftl"
+    career_section: "in"
+    slug: "memorialcare-in"
+    sector: "health_system"
+    state: "CA"
+
+  # Add more Taleo portals here...
+
+# ============================================================
+# Oracle HCM Recruiting Cloud Portals
+# ============================================================
+# URL format: https://{tenant}.fa.{region}.oraclecloud.com/hcmUI/CandidateExperience/en/sites/{site}/jobs
+# ============================================================
+oracle:
+  - name: "Oracle (EEHO)"
+    url: "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
+    site_number: "CX_1"
+    slug: "eeho"
+    sector: "technology"
+
+  # Add more Oracle HCM portals here...

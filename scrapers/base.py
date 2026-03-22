@@ -104,12 +104,13 @@ class BaseScraper(abc.ABC):
     # --- Abstract interface ---
 
     @abc.abstractmethod
-    def discover_jobs(self, keyword: Optional[str] = None) -> list[Job]:
+    def discover_jobs(self, keyword: Optional[str] = None, **kwargs) -> list[Job]:
         """
         Fetch all job listings from this company's portal.
 
         Args:
             keyword: Optional keyword filter (e.g., "nurse", "RN")
+            **kwargs: Additional options (e.g., today_only for early termination)
 
         Returns:
             List of Job objects
@@ -195,8 +196,8 @@ class BaseScraper(abc.ABC):
         """
         logger.info(f"[{self.ATS_NAME}] Scraping {self.company.name} ({self.company.portal_url})")
 
-        # Step 1: Discover all job listings
-        jobs = self.discover_jobs(keyword=keyword)
+        # Step 1: Discover all job listings (pass today_only for early termination)
+        jobs = self.discover_jobs(keyword=keyword, today_only=today_only)
         logger.info(f"[{self.ATS_NAME}] Found {len(jobs)} job listings")
 
         # Step 2: Filter to today's jobs BEFORE fetching details (huge speedup)

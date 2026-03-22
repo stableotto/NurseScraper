@@ -82,7 +82,7 @@ class OracleScraper(BaseScraper):
     # Job Discovery
     # ──────────────────────────────────────────────
 
-    def discover_jobs(self, keyword: Optional[str] = None) -> list[Job]:
+    def discover_jobs(self, keyword: Optional[str] = None, **kwargs) -> list[Job]:
         """Discover all job listings from the Oracle HCM portal.
 
         Args:

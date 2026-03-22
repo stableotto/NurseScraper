@@ -374,7 +374,7 @@ class ICIMSScraper(BaseScraper):
     # Public Interface (implements BaseScraper)
     # ──────────────────────────────────────────────
 
-    def discover_jobs(self, keyword: Optional[str] = None) -> list[Job]:
+    def discover_jobs(self, keyword: Optional[str] = None, **kwargs) -> list[Job]:
         """Discover all job listings from this portal."""
         if self._api_mode is None:
             self._detect_api_mode()

@@ -199,7 +199,7 @@ jobs:
     needs: prepare
     if: ${{ github.event.inputs.ats == 'all' || github.event.inputs.ats == 'workday' || github.event.inputs.ats == '' }}
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 60
     strategy:
       fail-fast: false
       max-parallel: 10

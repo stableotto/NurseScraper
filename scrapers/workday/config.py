@@ -10,7 +10,7 @@ WORKDAY_JOB_DETAIL_PATH = "/wday/cxs/{tenant}/{site}/job"
 # Domain pattern: {tenant}.{wd_instance}.myworkdayjobs.com
 WORKDAY_DOMAIN_SUFFIX = ".myworkdayjobs.com"
 
-# Default page size (Workday typically allows up to 20)
+# Default page size (Workday CXS API supports up to 20)
 DEFAULT_PAGE_SIZE = 20
 
 # Maximum jobs to fetch (safety limit)

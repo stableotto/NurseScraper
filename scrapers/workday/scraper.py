@@ -204,11 +204,17 @@ class WorkdayScraper(BaseScraper):
     # Public Interface (implements BaseScraper)
     # ──────────────────────────────────────────────
 
-    def discover_jobs(self, keyword: Optional[str] = None) -> list[Job]:
-        """Discover all job listings from this portal."""
+    def discover_jobs(self, keyword: Optional[str] = None, today_only: bool = False) -> list[Job]:
+        """Discover all job listings from this portal.
+
+        Args:
+            keyword: Optional search keyword
+            today_only: If True, stop pagination early once only old jobs are seen
+        """
         all_listings = []
         offset = 0
         total = None
+        consecutive_old_pages = 0
 
         while True:
             logger.debug(f"Fetching Workday jobs offset={offset}...")
@@ -234,11 +240,31 @@ class WorkdayScraper(BaseScraper):
                 logger.debug("No more jobs, stopping pagination")
                 break
 
+            # Check if any jobs on this page are recent (for early termination)
+            page_has_recent = False
             for item in job_postings:
                 listing = self._parse_job_listing(item)
                 all_listings.append(listing)
+                if today_only:
+                    posted = (listing.get("posted_on") or "").lower()
+                    if any(t in posted for t in ["today", "yesterday", "1 day", "just posted"]):
+                        page_has_recent = True
 
             offset += len(job_postings)
+
+            # Early termination: if in today_only mode and we've seen 2
+            # consecutive pages with no recent jobs, stop paginating
+            if today_only:
+                if page_has_recent:
+                    consecutive_old_pages = 0
+                else:
+                    consecutive_old_pages += 1
+                    if consecutive_old_pages >= 2:
+                        logger.info(
+                            f"Stopping pagination early: no recent jobs in last "
+                            f"{consecutive_old_pages} pages (at offset {offset}/{total})"
+                        )
+                        break
 
             # Safety limits
             if offset >= total:
@@ -252,9 +278,12 @@ class WorkdayScraper(BaseScraper):
         # Convert listings to partial Job objects (will be enriched in scrape_job_detail)
         jobs = []
         for listing in all_listings:
-            # Create minimal job with external_path stored for detail fetch
+            # Req ID often in bullet_fields
+            bullet_fields = listing.get("bullet_fields") or []
+            req_id = bullet_fields[0] if bullet_fields else ""
+
             job = Job(
-                id=listing.get("bullet_fields", [""])[0] or "",  # Req ID often in bullet_fields
+                id=req_id,
                 source_ats="workday",
                 company_name=self.company.name,
                 title=listing["title"],

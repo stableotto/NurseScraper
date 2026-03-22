@@ -108,7 +108,10 @@ class WorkdayScraper(BaseScraper):
             "searchText": search_text,
         }
 
-        resp = self._post(url, json=payload)
+        resp = self._post(url, json=payload, headers={
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+        })
         return resp.json()
 
     def _parse_job_listing(self, item: dict) -> dict:
@@ -131,7 +134,7 @@ class WorkdayScraper(BaseScraper):
         # e.g., "/job/Main-Campus---Orange/Registered-Nurse_R-19782"
         url = f"{self._base_url}/wday/cxs/{self._tenant}/{self._site}{external_path}"
 
-        resp = self._get(url)
+        resp = self._get(url, headers={"Accept": "application/json"})
         return resp.json()
 
     def _parse_job_detail(self, data: dict, listing: dict) -> Job:

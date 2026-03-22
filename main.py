@@ -617,10 +617,11 @@ def _load_taleo_portals_from_db(logger: logging.Logger) -> list[dict]:
     ).fetchall()
     conn.close()
 
+    columns = [desc[0] for desc in rows[0].keys()] if rows else []
     portals = [{
         "name": r["name"],
         "url": r["url"],
-        "career_section": r.get("career_section", "jobsearch"),
+        "career_section": r["career_section"] if "career_section" in columns else "jobsearch",
         "slug": r["slug"],
     } for r in rows]
     logger.info(f"Loaded {len(portals)} Taleo portals from database")
@@ -778,10 +779,11 @@ def _load_oracle_portals_from_db(logger: logging.Logger) -> list[dict]:
     ).fetchall()
     conn.close()
 
+    columns = [desc[0] for desc in rows[0].keys()] if rows else []
     portals = [{
         "name": r["name"],
         "url": r["url"],
-        "site_number": r.get("site_number", "CX_1"),
+        "site_number": r["site_number"] if "site_number" in columns else "CX_1",
         "slug": r["slug"],
     } for r in rows]
     logger.info(f"Loaded {len(portals)} Oracle HCM portals from database")

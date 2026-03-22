@@ -322,24 +322,39 @@ class TaleoScraper(BaseScraper):
         self,
         keyword: Optional[str] = None,
         fetch_details: bool = True,
+        max_detail_jobs: int = 0,
+        today_only: bool = False,
     ) -> list[Job]:
         """Full scrape: discover jobs and optionally fetch details.
 
         Args:
             keyword: Optional search keyword
             fetch_details: Whether to fetch full job details
+            max_detail_jobs: Max jobs to fetch details for. 0 = no limit.
+            today_only: If True, filter to recent jobs before detail fetch.
 
         Returns:
             List of Job objects
         """
         jobs = self.discover_jobs(keyword=keyword)
 
+        if today_only:
+            jobs = self._filter_recent_jobs(jobs)
+            logger.info(f"[{self.ATS_NAME}] Filtered to {len(jobs)} recent jobs (today/yesterday)")
+
         if fetch_details:
-            for i, job in enumerate(jobs):
+            jobs_to_detail = jobs
+            if max_detail_jobs > 0 and len(jobs) > max_detail_jobs:
+                jobs_to_detail = jobs[:max_detail_jobs]
+                logger.info(f"[{self.ATS_NAME}] Fetching details for first {max_detail_jobs} jobs (of {len(jobs)})")
+
+            for i, job in enumerate(jobs_to_detail):
                 job = self.scrape_job_detail(job)
-                jobs[i] = job
+                jobs_to_detail[i] = job
 
                 if (i + 1) % 25 == 0:
-                    logger.info(f"[{self.ATS_NAME}] Processed {i + 1}/{len(jobs)} job details")
+                    logger.info(f"[{self.ATS_NAME}] Processed {i + 1}/{len(jobs_to_detail)} job details")
+
+            jobs = jobs_to_detail
 
         return jobs

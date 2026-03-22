@@ -200,10 +200,19 @@ class BaseScraper(abc.ABC):
         jobs = self.discover_jobs(keyword=keyword, today_only=today_only)
         logger.info(f"[{self.ATS_NAME}] Found {len(jobs)} job listings")
 
-        # Step 2: Filter to today's jobs BEFORE fetching details (huge speedup)
+        # Step 2: Try to filter to today's jobs BEFORE fetching details (huge speedup)
+        # If filter drops ALL jobs but we had some, listings likely lack date info —
+        # defer filtering to after detail fetch instead
+        filter_after_details = False
         if today_only:
-            jobs = self._filter_recent_jobs(jobs)
-            logger.info(f"[{self.ATS_NAME}] Filtered to {len(jobs)} recent jobs (today/yesterday)")
+            filtered = self._filter_recent_jobs(jobs)
+            if filtered or not jobs:
+                jobs = filtered
+                logger.info(f"[{self.ATS_NAME}] Filtered to {len(jobs)} recent jobs (today/yesterday)")
+            else:
+                # Listings lack date info; will filter after detail fetch
+                filter_after_details = True
+                logger.info(f"[{self.ATS_NAME}] Listings lack dates, deferring filter to after detail fetch")
 
         # Step 3: Optionally fetch full details for each job
         if not fetch_details:
@@ -233,6 +242,11 @@ class BaseScraper(abc.ABC):
 
             # Add remaining jobs without details
             detailed_jobs.extend(jobs_listing_only)
+
+        # Step 4: Filter after detail fetch if we deferred earlier
+        if filter_after_details:
+            detailed_jobs = self._filter_recent_jobs(detailed_jobs)
+            logger.info(f"[{self.ATS_NAME}] Filtered to {len(detailed_jobs)} recent jobs (today/yesterday)")
 
         logger.info(f"[{self.ATS_NAME}] Scraped {len(detailed_jobs)} jobs total")
 

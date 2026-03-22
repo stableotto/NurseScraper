@@ -474,8 +474,9 @@ class ICIMSScraper(BaseScraper):
         jobs = self.discover_jobs(keyword=keyword)
         logger.info(f"[{self.ATS_NAME}] Found {len(jobs)} job listings")
 
-        # Filter to today's jobs before fetching details
-        if today_only:
+        # For Jibe mode, listings already have dates so we can filter early
+        # For raw iCIMS mode, listings lack dates — filter AFTER detail fetch
+        if today_only and self._api_mode == "jibe":
             jobs = self._filter_recent_jobs(jobs)
             logger.info(f"[{self.ATS_NAME}] Filtered to {len(jobs)} recent jobs (today/yesterday)")
 
@@ -497,6 +498,11 @@ class ICIMSScraper(BaseScraper):
                     logger.error(f"[{self.ATS_NAME}] Failed job {job.id}: {e}")
                     continue
             jobs = enriched
+
+        # For raw iCIMS, filter AFTER detail fetch (now we have dates)
+        if today_only and self._api_mode != "jibe":
+            jobs = self._filter_recent_jobs(jobs)
+            logger.info(f"[{self.ATS_NAME}] Filtered to {len(jobs)} recent jobs (today/yesterday)")
 
         logger.info(f"[{self.ATS_NAME}] Scraped {len(jobs)} jobs total")
 

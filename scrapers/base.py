@@ -132,22 +132,23 @@ class BaseScraper(abc.ABC):
 
     def _filter_recent_jobs(self, jobs: list[Job]) -> list[Job]:
         """
-        Filter jobs to only those posted today or yesterday.
+        Filter jobs to only those posted within the last 2 days.
 
-        Uses listing data (raw_data) before details are fetched.
+        Uses listing data (raw_data) before details are fetched when possible.
         This enables filtering BEFORE the expensive detail fetch.
         """
+        import re
         from datetime import date, timedelta
 
         today = date.today()
-        yesterday = today - timedelta(days=1)
+        cutoff = today - timedelta(days=2)
         filtered = []
 
         for job in jobs:
             # Check posted_date if already parsed
             if job.posted_date:
                 job_date = job.posted_date.date() if hasattr(job.posted_date, 'date') else job.posted_date
-                if job_date >= yesterday:
+                if job_date >= cutoff:
                     filtered.append(job)
                     continue
 
@@ -164,11 +165,32 @@ class BaseScraper(abc.ABC):
             elif "postedOn" in raw:
                 posted_on = raw.get("postedOn", "")
 
-            posted_lower = posted_on.lower() if posted_on else ""
+            if not posted_on:
+                continue
 
-            # Match "Posted Today", "Posted Yesterday", "Posted 1 Day Ago"
-            if any(term in posted_lower for term in ["today", "yesterday", "1 day", "just posted"]):
+            posted_lower = posted_on.lower().strip()
+
+            # Match "Posted Today", "Just Posted", "Posted Yesterday"
+            if any(term in posted_lower for term in ["today", "yesterday", "just posted", "new"]):
                 filtered.append(job)
+                continue
+
+            # Match "Posted X Days Ago" — allow up to 2 days
+            days_match = re.search(r'(\d+)\+?\s*day', posted_lower)
+            if days_match:
+                days_ago = int(days_match.group(1))
+                if days_ago <= 2:
+                    filtered.append(job)
+                continue
+
+            # Try parsing as an actual date string (e.g., "2026-03-22", "03/22/2026")
+            try:
+                from dateutil.parser import parse as parse_date
+                parsed = parse_date(posted_on, fuzzy=True)
+                if parsed.date() >= cutoff:
+                    filtered.append(job)
+            except (ValueError, TypeError, OverflowError):
+                pass
 
         return filtered
 

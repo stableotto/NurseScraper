@@ -87,6 +87,32 @@ class WorkdayScraper(BaseScraper):
         """Build the CXS API URL."""
         return f"{self._base_url}/wday/cxs/{self._tenant}/{self._site}/{endpoint}"
 
+    @staticmethod
+    def _parse_posted_on(posted_on: str) -> Optional[datetime]:
+        """Parse Workday's postedOn text into a datetime.
+
+        Examples: "Posted Today", "Posted Yesterday", "Posted 2 Days Ago",
+                  "Posted 30+ Days Ago"
+        """
+        from datetime import date, timedelta
+
+        text = posted_on.lower().strip()
+        today = date.today()
+
+        if "today" in text or "just posted" in text:
+            return datetime.combine(today, datetime.min.time())
+        if "yesterday" in text:
+            return datetime.combine(today - timedelta(days=1), datetime.min.time())
+
+        # "Posted 3 Days Ago", "Posted 10 Days Ago", "Posted 30+ Days Ago"
+        import re
+        match = re.search(r'(\d+)\+?\s*day', text)
+        if match:
+            days = int(match.group(1))
+            return datetime.combine(today - timedelta(days=days), datetime.min.time())
+
+        return None
+
     # ──────────────────────────────────────────────
     # Job Listing API
     # ──────────────────────────────────────────────
@@ -157,14 +183,20 @@ class WorkdayScraper(BaseScraper):
         # Time type (Full time, Part time)
         time_type = info.get("timeType", "")
 
-        # Posted date
+        # Posted date - derive from listing's postedOn text (actual posting date)
+        # NOT startDate, which is the employee start date
         posted_date = None
-        start_date = info.get("startDate", "")
-        if start_date:
-            try:
-                posted_date = parse_date(start_date)
-            except (ValueError, TypeError):
-                pass
+        posted_on = listing.get("posted_on", "")
+        if posted_on:
+            posted_date = self._parse_posted_on(posted_on)
+        # Fallback: try postedDate from detail API if available
+        if not posted_date:
+            posted_date_str = info.get("postedDate", "") or info.get("postingDate", "")
+            if posted_date_str:
+                try:
+                    posted_date = parse_date(posted_date_str)
+                except (ValueError, TypeError):
+                    pass
 
         # URL
         url = info.get("externalUrl", "")
@@ -247,8 +279,14 @@ class WorkdayScraper(BaseScraper):
                 all_listings.append(listing)
                 if today_only:
                     posted = (listing.get("posted_on") or "").lower()
-                    if any(t in posted for t in ["today", "yesterday", "1 day", "just posted"]):
+                    if any(t in posted for t in ["today", "yesterday", "just posted"]):
                         page_has_recent = True
+                    else:
+                        # Check "X Days Ago" — allow up to 2 days
+                        import re
+                        days_match = re.search(r'(\d+)\+?\s*day', posted)
+                        if days_match and int(days_match.group(1)) <= 2:
+                            page_has_recent = True
 
             offset += len(job_postings)
 

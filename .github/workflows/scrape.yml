@@ -134,7 +134,8 @@ jobs:
                   slug = entry.get('ats_slug', '')
                   url = entry.get('url', '')
                   if slug or url:
-                      subdomain = f"careers-{slug}" if slug else url
+                      # Must match Company.save_to_db format: "{slug}.icims.com"
+                      subdomain = f"{slug}.icims.com" if slug else url
                       upsert_portal(
                           conn, subdomain=subdomain, slug=slug,
                           name=entry.get('name', ''), url=url,

@@ -501,8 +501,14 @@ class ICIMSScraper(BaseScraper):
 
         # For raw iCIMS, filter AFTER detail fetch (now we have dates)
         if today_only and self._api_mode != "jibe":
-            jobs = self._filter_recent_jobs(jobs)
-            logger.info(f"[{self.ATS_NAME}] Filtered to {len(jobs)} recent jobs (today/yesterday)")
+            # Only filter if at least some jobs have dates — many iCIMS sites
+            # don't expose posted dates at all, so filtering would drop everything
+            has_any_dates = any(j.posted_date for j in jobs)
+            if has_any_dates:
+                jobs = self._filter_recent_jobs(jobs)
+                logger.info(f"[{self.ATS_NAME}] Filtered to {len(jobs)} recent jobs (last 2 days)")
+            else:
+                logger.info(f"[{self.ATS_NAME}] No posted dates found on detail pages, skipping date filter")
 
         logger.info(f"[{self.ATS_NAME}] Scraped {len(jobs)} jobs total")
 

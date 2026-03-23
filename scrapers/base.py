@@ -267,8 +267,14 @@ class BaseScraper(abc.ABC):
 
         # Step 4: Filter after detail fetch if we deferred earlier
         if filter_after_details:
-            detailed_jobs = self._filter_recent_jobs(detailed_jobs)
-            logger.info(f"[{self.ATS_NAME}] Filtered to {len(detailed_jobs)} recent jobs (today/yesterday)")
+            # Only filter if at least some jobs have dates — some ATS sites
+            # don't expose posted dates at all, so filtering would drop everything
+            has_any_dates = any(j.posted_date for j in detailed_jobs)
+            if has_any_dates:
+                detailed_jobs = self._filter_recent_jobs(detailed_jobs)
+                logger.info(f"[{self.ATS_NAME}] Filtered to {len(detailed_jobs)} recent jobs (last 2 days)")
+            else:
+                logger.info(f"[{self.ATS_NAME}] No posted dates found on detail pages, skipping date filter")
 
         logger.info(f"[{self.ATS_NAME}] Scraped {len(detailed_jobs)} jobs total")
 

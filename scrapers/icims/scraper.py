@@ -487,24 +487,59 @@ class ICIMSScraper(BaseScraper):
             logger.info(f"[{self.ATS_NAME}] Filtered to {len(jobs)} recent jobs (today/yesterday)")
 
         if self._api_mode != "jibe" and fetch_details:
-            # Raw iCIMS needs detail page fetches
-            jobs_to_detail = jobs
-            if max_detail_jobs > 0 and len(jobs) > max_detail_jobs:
+            # Raw iCIMS needs detail page fetches.
+            # Strategy: sample a small batch first to check if this portal
+            # exposes posted dates.  If it does, fetch in batches and stop
+            # once we pass the recency window.  If not, cap total detail
+            # fetches to avoid CI timeouts on huge portals.
+            SAMPLE_SIZE = 10
+            NO_DATE_CAP = 200  # max details when portal lacks dates
+
+            if max_detail_jobs > 0:
                 jobs_to_detail = jobs[:max_detail_jobs]
                 logger.info(f"[{self.ATS_NAME}] Fetching details for first {max_detail_jobs} jobs (of {len(jobs)})")
+                jobs = self._fetch_details_concurrent(jobs_to_detail)
+            elif today_only and len(jobs) > SAMPLE_SIZE:
+                # Sample first batch to probe for dates
+                sample = self._fetch_details_concurrent(jobs[:SAMPLE_SIZE])
+                has_dates = any(j.posted_date for j in sample)
 
-            jobs = self._fetch_details_concurrent(jobs_to_detail)
+                if has_dates:
+                    # Portal has dates — fetch in batches, stop when jobs are old
+                    logger.info(f"[{self.ATS_NAME}] Portal exposes dates, fetching details with early stop")
+                    all_detailed = list(sample)
+                    BATCH = 50
+                    consecutive_old = 0
+                    offset = SAMPLE_SIZE
+                    while offset < len(jobs) and consecutive_old < 2:
+                        batch_end = min(offset + BATCH, len(jobs))
+                        batch = self._fetch_details_concurrent(jobs[offset:batch_end])
+                        all_detailed.extend(batch)
+                        recent = [j for j in batch if j.posted_date and self._is_recent(j)]
+                        if recent:
+                            consecutive_old = 0
+                        else:
+                            consecutive_old += 1
+                            logger.info(f"[{self.ATS_NAME}] No recent jobs in batch at offset {offset}")
+                        offset = batch_end
+                    jobs = all_detailed
+                else:
+                    # No dates — cap fetches to avoid timeout, iCIMS lists newest first
+                    cap = min(len(jobs), NO_DATE_CAP)
+                    logger.info(f"[{self.ATS_NAME}] No dates on detail pages, capping at {cap} jobs (of {len(jobs)})")
+                    remaining = self._fetch_details_concurrent(jobs[SAMPLE_SIZE:cap])
+                    jobs = list(sample) + remaining
+            else:
+                jobs = self._fetch_details_concurrent(jobs)
 
         # For raw iCIMS, filter AFTER detail fetch (now we have dates)
         if today_only and self._api_mode != "jibe":
-            # Only filter if at least some jobs have dates — many iCIMS sites
-            # don't expose posted dates at all, so filtering would drop everything
             has_any_dates = any(j.posted_date for j in jobs)
             if has_any_dates:
                 jobs = self._filter_recent_jobs(jobs)
                 logger.info(f"[{self.ATS_NAME}] Filtered to {len(jobs)} recent jobs (last 2 days)")
             else:
-                logger.info(f"[{self.ATS_NAME}] No posted dates found on detail pages, skipping date filter")
+                logger.info(f"[{self.ATS_NAME}] No posted dates on detail pages, returning all {len(jobs)} jobs")
 
         logger.info(f"[{self.ATS_NAME}] Scraped {len(jobs)} jobs total")
 
@@ -512,6 +547,15 @@ class ICIMSScraper(BaseScraper):
         self.company.verified = True
 
         return jobs
+
+    @staticmethod
+    def _is_recent(job: Job) -> bool:
+        """Check if a job was posted within the last 2 days."""
+        from datetime import date, timedelta
+        if not job.posted_date:
+            return False
+        job_date = job.posted_date.date() if hasattr(job.posted_date, 'date') else job.posted_date
+        return job_date >= date.today() - timedelta(days=2)
 
     # ──────────────────────────────────────────────
     # Utilities

@@ -1,10 +1,79 @@
 {
   "feed": "All Jobs",
-  "generated_at": "2026-03-27T08:12:53.117501Z",
-  "count": 212,
+  "generated_at": "2026-03-28T07:55:34.736227Z",
+  "count": 238,
   "jobs": [
     {
-      "id": 1412283,
+      "id": 1674038,
+      "external_id": "7990",
+      "title": "Digital Marketing Manager",
+      "department": "Marketing (apetito)",
+      "location": "UK-Wiltshire-Trowbridge",
+      "state": "",
+      "city": "",
+      "job_type": "Fixed-Term (Full-Time)",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-09-04T00:00:00",
+      "url": "https://careers-apetito.icims.com/jobs/jobs/7990/job",
+      "description": "Fixed term contract for 12 months Join our rapidly growing business in a role as Digital Marketing Manager (FTC) focusing primarily on the digital marketing and paid digital strategies to support B2B\u2019s commercial growth, as well as managing the apetito.co.uk website strategy. As a digital marketing specialist, your role will be pivotal in enhancing our online presence. Reporting to the Head of Proposition & Marketing, you will play a key role in contributing to the company\u2019s ambitious growth targets and driving our online brand visibility. This is a fantastic opportunity for a collaborative, analytical and creative marketeer to work within a supportive, experienced and passionate team. This role is based in Trowbridge and you will be required to work on-site at least 3 days per week.",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:28:46.930010",
+      "unique_key": "f8adcf7f0c76edf7",
+      "company_name": "Careers Apetito",
+      "subdomain": "careers-apetito.icims.com",
+      "portal_slug": "careers-apetito",
+      "sector": "other",
+      "ats_type": "icims"
+    },
+    {
+      "id": 1674037,
+      "external_id": "8020",
+      "title": "Senior PR Executive",
+      "department": "PR / Internal Comms",
+      "location": "UK-Wiltshire-Trowbridge",
+      "state": "",
+      "city": "",
+      "job_type": "Permanent (Full-Time)",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-06-04T00:00:00",
+      "url": "https://careers-apetito.icims.com/jobs/jobs/8020/job",
+      "description": "As Senior PR Executive, you will play a key role in delivering high-quality, impactful PR activity that strengthens apetito\u2019s reputation across our priority markets. You will need a high degree of autonomy and judgement, and be trusted to lead the delivery of high-profile PR activity under the direction of the PR Manager. Sitting within the central Brand & Communications team, you will work closely with colleagues across the business and external partners to bring our stories to life, ensuring our voice is credible, consistent and values-led. You will also act as a role model within the PR team, helping to maintain high standards and support the development of others. Most importantly, you will help share how apetito and Wiltshire Farm Foods are making a real difference to customers, communities and colleagues every single day. At apetito | Wiltshire Farm Foods, we are on an ambitious journey. With bold growth targets ahead, how we tell our story and protect our reputation will play a critical role in helping us succeed. We are looking for someone with experience in PR and media relations, able to craft compelling stories as well as demonstrate the commercial\u00a0impact of PR delivery. This role is based in our Trowbridge head office and you will need to be on site at least 3 days per week.",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:28:46.929686",
+      "unique_key": "7cd3650fc4772070",
+      "company_name": "Careers Apetito",
+      "subdomain": "careers-apetito.icims.com",
+      "portal_slug": "careers-apetito",
+      "sector": "other",
+      "ats_type": "icims"
+    },
+    {
+      "id": 1674035,
+      "external_id": "8027",
+      "title": "Customer Delivery Driver/Picker",
+      "department": "Wiltshire Farm Foods (Drivers)",
+      "location": "UK-Hampshire-Newbury",
+      "state": "",
+      "city": "",
+      "job_type": "Permanent (Full-Time)",
+      "salary_min": 13.05,
+      "salary_max": null,
+      "posted_date": "2026-03-31T00:00:00",
+      "url": "https://careers-apetito.icims.com/jobs/jobs/8027/job",
+      "description": "This position is working 40 hours per week, any 5 in 6 days including bank holidays. Our drivers are the face of our business and their interaction with our customers is crucial to our success. In this role you will be delivering frozen Wiltshire Farm Foods meals and bringing sunshine to our customers doors (no matter what the weather is doing). As such, you will enjoy meeting people and always be willing to go above and beyond what is expected. Along with this, you will be working within our coldstore that runs at a chilly -20\u00bac. Protective clothing designed to deal with this temperature will be provided along with breaks to warm up and have a hot drink when necessary. You will need to work as part of the wider team always looking to help out the office team. We encourage movement between teams to provide flexibility, job satisfaction, personal development and knowledge of the whole business. We\u2019re passionate about Making a Real Difference to people\u2019s lives with delicious and nutritious meals for everyone to enjoy. View our latest TV ad here: https://www.wiltshirefarmfoods.com/blog/our-new-tv-ad-launches \u00a313.05 per hour(\u00a313.45 per hour from 1 May 2026) + bonus + company benefits.",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:28:46.929444",
+      "unique_key": "aaf28f01a43c6fc3",
+      "company_name": "Careers Apetito",
+      "subdomain": "careers-apetito.icims.com",
+      "portal_slug": "careers-apetito",
+      "sector": "other",
+      "ats_type": "icims"
+    },
+    {
+      "id": 1706199,
       "external_id": "8019",
       "title": "Technical Manager",
       "department": "Other",
@@ -27,7 +96,30 @@
       "ats_type": "icims"
     },
     {
-      "id": 1412284,
+      "id": 1674036,
+      "external_id": "8026",
+      "title": "Customer Service Advisor",
+      "department": "Wiltshire Farm Foods",
+      "location": "UK-Devon-South Molton",
+      "state": "",
+      "city": "",
+      "job_type": "Permanent (Full-Time)",
+      "salary_min": 1.0,
+      "salary_max": 2026.0,
+      "posted_date": "2026-03-30T00:00:00",
+      "url": "https://careers-apetito.icims.com/jobs/jobs/8026/job",
+      "description": "This role is working 30 hours per week, any 4 in 6 days The role of our Customer Services Advisor is critical to the success of our business. Our customers are predominantly elderly and rely upon our office teams to take their orders over the phone or via the internet. The defining characteristics of our Customer Services Advisors are that they\u2019re organised and efficient. However, apart from the technical skills that are required with the role, the most important attributes are that we demonstrate empathy, patience, kindness, friendliness, care and warmth to all our customers. The role involves the taking of customer orders and also the making of outbound courtesy calls. These calls are particularly important as many customers live alone and the phone calls they receive are often the only contact they may have in a single day. As such, many customers become very attached to their \u201cfriends\u201d at Wiltshire Farm Foods. Wiltshire Farm Foods supplies frozen meal solutions direct to the consumer. We have a cold store to accommodate the stock necessary to be able to be able to deliver to our customers each week. The ultimate goal is to provide a service to our customers that exceed expectations while at the same time continuously improving efficiencies. \u00a313.05 per hour (\u00a313.45 per hour from 1st May 2026) + bonus + company benefits.",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:28:46.929606",
+      "unique_key": "37f3fce6263337b5",
+      "company_name": "Careers Apetito",
+      "subdomain": "careers-apetito.icims.com",
+      "portal_slug": "careers-apetito",
+      "sector": "other",
+      "ats_type": "icims"
+    },
+    {
+      "id": 1706200,
       "external_id": "8018",
       "title": "Customer Delivery Driver/Picker",
       "department": "Wiltshire Farm Foods (Drivers)",
@@ -50,7 +142,398 @@
       "ats_type": "icims"
     },
     {
-      "id": 1368757,
+      "id": 1642655,
+      "external_id": "162941",
+      "title": "Clinical Risk Manager",
+      "department": "Nursing",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-27T19:45:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/162941/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:55:01.136097",
+      "unique_key": "0acb3be9307971f0",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 1642664,
+      "external_id": "161419",
+      "title": "Data Analyst III - Transplant",
+      "department": "Information Technology",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-27T16:24:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/161419/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:55:01.137054",
+      "unique_key": "81cf2d625745af86",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 1642656,
+      "external_id": "162937",
+      "title": "Pharmacy Technician",
+      "department": "Pharmacy",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-27T15:06:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/162937/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:55:01.136121",
+      "unique_key": "751be2c2d2ccac99",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 1642650,
+      "external_id": "163142",
+      "title": "Director, Patient Care Service / Physician Division",
+      "department": "Nursing",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-27T14:46:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163142/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:55:01.135953",
+      "unique_key": "c02462b85df9605f",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 1674039,
+      "external_id": "3397",
+      "title": "Project Architect",
+      "department": "Architecture",
+      "location": "",
+      "state": "",
+      "city": "",
+      "job_type": "Regular Full-Time",
+      "salary_min": 108200.0,
+      "salary_max": 130000.0,
+      "posted_date": "2026-03-27T14:43:00",
+      "url": "https://careers-hga.icims.com/jobs/jobs/3397/job",
+      "description": "Shape the future of healthcare design with HGA! Project Architect \u2013 Healthcare in Sacramento, San Francisco, Santa Monica or San Diego, CA HGA, a leading architectural, engineering, and planning firm, is seeking a talented and driven Project Architect to join our growing healthcare practice group in Northern and Southern California. We\u2019re looking for someone with strong communication, presentation, time management, and interpersonal skills who thrives in a collaborative environment and is passionate about advancing healthcare design. In this role, you\u2019ll work closely with Senior Designers, Project Managers, and other Project Architects to develop innovative and technically sound design solutions. You\u2019ll lead the creation of detailed documentation while maintaining our firm\u2019s high standards for design quality and client service. What You\u2019ll Do: Lead the development of construction documents and ensure design intent is accurately carried through. Translate complex project goals into creative and functional design solutions. Collaborate across disciplines to coordinate architectural and engineering systems. Participate in client meetings and maintain strong relationships with key stakeholders. Ensure project milestones and deadlines are met with attention to detail and quality. Why HGA? Collaborative Culture: be part of a firm known for its integrated, cross-disciplinary teamwork and strong design ethos; Professional Growth: access to mentorship, continuing education, and leadership opportunities; and Meaningful Work: contribute to impactful healthcare projects that improve patient outcomes and shape the future of care in Calfornia. In this role you will: Design and u nderstand and contribute to the project's design philosophy. Provide major input in developing design and building performance strategies and convey these effectively to team members. Lead project teams to develop complete document sets based on the project phase. Provide technical design input and solutions to project challenges, supporting the overall design concept. Oversee technical design efforts, detailed design development, project coordination, and quality control during all project phases, collaborating closely with the Senior Designer. Execute applicable agency review analysis (accessibility, zoning, life-safety, etc.). Actively collaborate with and coordinate the work of consultants and knowledge resources to ensure project deliverables are coordinated, integrated, and support the design concept and performance goals. Set an example for team effort through the spirit of cooperation while directing, organizing, and mentoring junior staff. C ontribute to the preparation of design documents and lead the detailed development of construction documents during all project phases. Ensure complete, accurate, and coordinated project documentation. Oversee and perform construction administration duties, including reviewing shop drawings, material samples, RFI\u2019s, RFP\u2019s, and change orders for conformance with design. What you will need to have: Bachelor\u2019s degree in Architecture California Architectural Licensure required LEED accreditation preferred 10+ years of experience, including work on small to large-scale projects. Understanding of the healthcare industry, especially in areas of clinical innovation, operational improvement, planning, and strategic positioning for complex hospital systems Deep understanding of healthcare programming, codes, and technical detailing Strong leadership and collaboration skills in team environments Proficiency in Revit required; experience with AutoCAD, SketchUp, Enscape, and other graphic tools desired. Expertise with project management software and Microsoft Office Suite products needed Excellent communication, presentation, and time management skills Experience with Lean and Evidence-based design is a plus. Experience with alternative delivery methods (IPD, Design Build, IFOA) preferred Salary Information: The pay range listed aligns to the geography of the office for which this position is posted. Actual compensation will be based upon work experience, education, licensure requirements and/or skill level and will be finalized at the time of offer. Individuals in this role working more than 24 hours a week on a regular basis are eligible to participate in HGA\u2019s robust benefit programs which include an annual bonus and success sharing bonus program, 401(k) guaranteed contribution, paid parental leave, medical, dental and life insurance plans as well as PTO and short- and long-term disability programs. Salary Range: $108,200 - $130,000 depending on location (SAC, SF, LA or SD), qualifications and experience. Additional Information: At HGA, you\u2019ll do the best work of your career. We design with impact by diving deep into the people and passions that shape every place. Empathy fuels us, curiosity drives us, and meaningful work leads to innovation. We celebrate individuality, embrace flexibility, and thrive together in the office three days a week. Join our nationally recognized, award-winning team of architects, engineers, and interior designers \u2014 help us shape what\u2019s next. Learn more about us here . Application Requirements & Instructions Please submit resume and portfolio for consideration.",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:28:46.933759",
+      "unique_key": "55acca270727b71c",
+      "company_name": "Careers Hga",
+      "subdomain": "careers-hga.icims.com",
+      "portal_slug": "careers-hga",
+      "sector": "other",
+      "ats_type": "icims"
+    },
+    {
+      "id": 1674040,
+      "external_id": "3395",
+      "title": "Project Manager",
+      "department": "Architecture",
+      "location": "",
+      "state": "",
+      "city": "",
+      "job_type": "Regular Full-Time",
+      "salary_min": 107000.0,
+      "salary_max": 131200.0,
+      "posted_date": "2026-03-27T14:15:00",
+      "url": "https://careers-hga.icims.com/jobs/jobs/3395/job",
+      "description": "Join HGA and learn what passion for design really means in spaces that touch people's lives! Locations: Sacramento, San Fransisco, Santa Monica, or San Diego, CA Bring your experience and design expertise to an innovative architecture, engineering and interior design firm dedicated to designing exceptional spaces that inspire and transform communities. We are looking for a talented, design-sensitive, and ambitious Project Manager to join our California healthcare architecture teams and help shape the future of healthcare design. In this role, you will be an integral member of our project teams, contributing at every stage of the design process. Our practice encompasses a broad array of project types and scales, so versatility and adaptability to various collaborative design team settings are essential. Why HGA? Collaborative Culture: be part of a firm known for its integrated, cross-disciplinary teamwork and strong design ethos; Professional Growth: access to mentorship, continuing education, and leadership opportunities; and Meaningful Work: contribute to impactful projects that improve and shape the future architectural design. In this role you will: Collaborate with Principal in evaluation of project requirements and help to negotiate an acceptable owner-architect agreement including the fee, scope, and time schedule. Demonstrate task-focused mastery of project scope, schedule, budget and profitability. Complete projects on schedule, within budget and with maximum client satisfaction. Manage a program of multiple projects and associated client relationships effectively. Negotiate critical issues with Owner and Contractor as well as Architects, Engineers and Specialty Consultants within HGA and of other organizations and firms. Supervise the production of architectural construction documents for multiple small renovation projects. Lead a full-service architectural and engineering team, using past experience and technical knowledge to efficiently deliver quality documents, specifications, reports and cost estimates, keeping in mind schedules/budgets and provides coaching/communication as appropriate with team leaders and/or team members who are responsible for work flow/timelines, etc. Develop discipline cost and work-hour budgets for each project and monitor project costs, completion status against budget schedules/timelines. Oversee all correspondence and pertinent documents, making sure they are accurate; sign or obtain signatures and seek legal counsel as appropriate. Coordinate review and evaluation of contractor bids and work with Principal so that award recommendation can be submitted to owner. Provide day-to-day leadership in the absence of and as delegated by the Principal and/or Practice Group Leader keeping lines of communication open with all office management leaders and assist with preparation of client billings prior to submittal for signature. Collaborate with Practice Group Leader as requested in the marketing of projects including development of proposals and possible participation in client interviews. What you will need to have: Bachelor\u2019s or master\u2019s degree in architecture or related field Licensed professional preferred 8-10 years of project management experience honed on increasingly more complex projects Demonstrated skill in working on multiple smaller-sized to mid-sized, challenging projects simultaneously Exceptional interpersonal skills and the ability to communicate clearly with team members and clients and lead discussions on project budgets and management of project delivery Proficiency with industry accepted software and Microsoft Office products is needed, experience with Project Management software (Vision, Microsoft Project) is beneficial Salary Information: The pay range listed aligns to the geography of the office for which this position is posted. Actual compensation will be based upon work experience, education, licensure requirements and/or skill level and will be finalized at the time of offer. Individuals in this role working more than 24 hours a week on a regular basis are eligible to participate in HGA\u2019s robust benefit programs which include an annual bonus and success sharing bonus program, 401(k) guaranteed contribution, paid parental leave, medical, dental and life insurance plans as well as PTO and short- and long-term disability programs. Salary Range: $107,000 - $131,200 depending on location (SAC, SF, LA or SD), qualifications and experience. Additional Information: At HGA, you\u2019ll do the best work of your career. We design with impact by diving deep into the people and passions that shape every place. Empathy fuels us, curiosity drives us, and meaningful work leads to innovation. We celebrate individuality, embrace flexibility, and thrive together in the office three days a week. Join our nationally recognized, award-winning team of architects, engineers, and interior designers \u2014 help us shape what\u2019s next. Learn more about us here . Application Requirements & Instructions Please submit resume and portfolio for consideration.",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:28:46.933800",
+      "unique_key": "3a895e287e032141",
+      "company_name": "Careers Hga",
+      "subdomain": "careers-hga.icims.com",
+      "portal_slug": "careers-hga",
+      "sector": "other",
+      "ats_type": "icims"
+    },
+    {
+      "id": 1642654,
+      "external_id": "162944",
+      "title": "Administrative Assistant",
+      "department": "Clerical & Administrative",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-27T14:08:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/162944/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:55:01.136080",
+      "unique_key": "04f77be7a6e66475",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 1642661,
+      "external_id": "161968",
+      "title": "Food & Nutrition Associate Sanitation",
+      "department": "Food Services",
+      "location": "US-GA-Decatur",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-27T10:28:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/161968/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:55:01.136789",
+      "unique_key": "eab2c8f1868bf68c",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 1642662,
+      "external_id": "161966",
+      "title": "Food & Nutrition Associate (sanitation)",
+      "department": "Food Services",
+      "location": "US-GA-Decatur",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-27T10:27:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/161966/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:55:01.136840",
+      "unique_key": "ba5553e0995533b8",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 1642663,
+      "external_id": "161641",
+      "title": "Phlebotomy Tech",
+      "department": "Laboratory",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-27T10:13:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/161641/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:55:01.136949",
+      "unique_key": "503834faacaa4330",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 1642657,
+      "external_id": "162915",
+      "title": "Patient Access Specialist",
+      "department": "Clerical & Administrative",
+      "location": "US-GA-Hiawassee",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-27T04:20:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/162915/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:55:01.136149",
+      "unique_key": "baca88f23caaab2c",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 1642659,
+      "external_id": "162865",
+      "title": "Supervisor, Operations",
+      "department": "Clerical & Administrative",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-27T04:18:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/162865/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:55:01.136206",
+      "unique_key": "445e7963c5c8db9f",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 1642658,
+      "external_id": "162880",
+      "title": "Patient Services Coordinator One",
+      "department": "Clerical & Administrative",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-27T04:17:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/162880/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:55:01.136181",
+      "unique_key": "ea25326afab9e590",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 1642653,
+      "external_id": "163004",
+      "title": "Unit Clerk",
+      "department": "Clerical & Administrative",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-27T04:15:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163004/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:55:01.136062",
+      "unique_key": "c293ef6779441290",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 1642652,
+      "external_id": "163071",
+      "title": "Call Center Associate",
+      "department": "Food Services",
+      "location": "US-GA-Johns Creek",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-27T04:14:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163071/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:55:01.136041",
+      "unique_key": "2f801e7a2fa68a6d",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 1642660,
+      "external_id": "162442",
+      "title": "Dining Services Associate",
+      "department": "Food Services",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-27T04:13:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/162442/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:55:01.136498",
+      "unique_key": "04fa091a2f743d7b",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 1642651,
+      "external_id": "163105",
+      "title": "Food & Nutrition Associate",
+      "department": "Food Services",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-27T04:13:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163105/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:55:01.136015",
+      "unique_key": "063a09ecb56b1ed3",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 1706197,
       "external_id": "330314",
       "title": "Senior Software Developer - Data Analytics - US Citizenship Required",
       "department": "",
@@ -73,7 +556,99 @@
       "ats_type": "oracle"
     },
     {
-      "id": 1281053,
+      "id": 1532565,
+      "external_id": "329964",
+      "title": "Software Developer 5",
+      "department": "",
+      "location": "United States",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-27T00:00:00",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/329964",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:11:05.104347",
+      "unique_key": "e75c4274e246a237",
+      "company_name": "Oracle (EEHO)",
+      "subdomain": "eeho",
+      "portal_slug": "eeho",
+      "sector": "",
+      "ats_type": "oracle"
+    },
+    {
+      "id": 1532564,
+      "external_id": "329957",
+      "title": "Software Developer 4",
+      "department": "",
+      "location": "United States",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-27T00:00:00",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/329957",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:11:05.104331",
+      "unique_key": "854816a0b1f01a2d",
+      "company_name": "Oracle (EEHO)",
+      "subdomain": "eeho",
+      "portal_slug": "eeho",
+      "sector": "",
+      "ats_type": "oracle"
+    },
+    {
+      "id": 1532563,
+      "external_id": "329956",
+      "title": "Software Developer 3",
+      "department": "",
+      "location": "United States",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-27T00:00:00",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/329956",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:11:05.104313",
+      "unique_key": "d233030eba44ae48",
+      "company_name": "Oracle (EEHO)",
+      "subdomain": "eeho",
+      "portal_slug": "eeho",
+      "sector": "",
+      "ats_type": "oracle"
+    },
+    {
+      "id": 1532562,
+      "external_id": "329955",
+      "title": "Software Developer 3",
+      "department": "",
+      "location": "United States",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-27T00:00:00",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/329955",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:11:05.104262",
+      "unique_key": "8752d31092114612",
+      "company_name": "Oracle (EEHO)",
+      "subdomain": "eeho",
+      "portal_slug": "eeho",
+      "sector": "",
+      "ats_type": "oracle"
+    },
+    {
+      "id": 1705561,
       "external_id": "162825",
       "title": "Maintenance Mechanic",
       "department": "Facility Support and Building Maintenance",
@@ -96,7 +671,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281052,
+      "id": 1705560,
       "external_id": "162829",
       "title": "Maintenance Mechanic Specialist",
       "department": "Facility Support and Building Maintenance",
@@ -119,7 +694,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281051,
+      "id": 1705559,
       "external_id": "162833",
       "title": "Maintenance Mechanic Specialist",
       "department": "Facility Support and Building Maintenance",
@@ -142,7 +717,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281050,
+      "id": 1705558,
       "external_id": "162834",
       "title": "Maintenance Mechanic Specialist",
       "department": "Facility Support and Building Maintenance",
@@ -165,7 +740,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281049,
+      "id": 1705557,
       "external_id": "162835",
       "title": "Maintenance Mechanic Specialist",
       "department": "Facility Support and Building Maintenance",
@@ -188,7 +763,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281057,
+      "id": 1705565,
       "external_id": "162657",
       "title": "Maintenance Supervisor",
       "department": "Facility Support and Building Maintenance",
@@ -211,7 +786,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281114,
+      "id": 1705622,
       "external_id": "152782",
       "title": "Medical Physicist Assistant",
       "department": "Business Operations",
@@ -234,7 +809,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281061,
+      "id": 1705569,
       "external_id": "162458",
       "title": "Anesthesia Technologist / PRN",
       "department": "Clinical & Nursing Support",
@@ -257,7 +832,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281058,
+      "id": 1705566,
       "external_id": "162580",
       "title": "Sterile Processing Technician / Evenings",
       "department": "Clinical & Nursing Support",
@@ -280,7 +855,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281054,
+      "id": 1705562,
       "external_id": "162720",
       "title": "Endoscopy Technician / PRN",
       "department": "Clinical & Nursing Support",
@@ -303,7 +878,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281055,
+      "id": 1705563,
       "external_id": "162686",
       "title": "Endoscopy Technician",
       "department": "Clinical & Nursing Support",
@@ -326,7 +901,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281079,
+      "id": 1705587,
       "external_id": "160329",
       "title": "Endoscopy Technician",
       "department": "Clinical & Nursing Support",
@@ -349,7 +924,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1412296,
+      "id": 1706212,
       "external_id": "1887",
       "title": "Analyste CYberSOC sp\u00e9cialis\u00e9 SPLUNK",
       "department": "",
@@ -372,7 +947,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1412295,
+      "id": 1706211,
       "external_id": "2039",
       "title": "Manager de l\u2019\u00e9quipe Plateform & Databrain (F/H)",
       "department": "",
@@ -395,7 +970,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281123,
+      "id": 1705631,
       "external_id": "115834",
       "title": "Orthopedic and Spine OR First Assistant",
       "department": "Nursing",
@@ -418,7 +993,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281092,
+      "id": 1705600,
       "external_id": "157514",
       "title": "RN / General GI Surgery Clinic",
       "department": "Nursing",
@@ -441,7 +1016,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281056,
+      "id": 1705564,
       "external_id": "162659",
       "title": "Medical Lab Scientist / Weekends",
       "department": "Laboratory",
@@ -464,7 +1039,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281063,
+      "id": 1705571,
       "external_id": "162351",
       "title": "Medical ICU Registered Nurse / RN",
       "department": "Nursing",
@@ -487,7 +1062,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281062,
+      "id": 1705570,
       "external_id": "162412",
       "title": "Medical Lab Scientist / Generalist",
       "department": "Laboratory",
@@ -510,7 +1085,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281048,
+      "id": 1705556,
       "external_id": "162859",
       "title": "Medical Lab Scientist",
       "department": "Laboratory",
@@ -533,7 +1108,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281097,
+      "id": 1705605,
       "external_id": "156973",
       "title": "Occupational Therapist",
       "department": "Therapy",
@@ -556,7 +1131,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281077,
+      "id": 1705585,
       "external_id": "160659",
       "title": "Clinical Assistant Manager / Athletic Training",
       "department": "Therapy",
@@ -579,7 +1154,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281078,
+      "id": 1705586,
       "external_id": "160612",
       "title": "Occupational Therapist / Outpatient",
       "department": "Therapy",
@@ -602,7 +1177,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281096,
+      "id": 1705604,
       "external_id": "157054",
       "title": "Certified Hand Specialist",
       "department": "Therapy",
@@ -625,7 +1200,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281117,
+      "id": 1705625,
       "external_id": "151369",
       "title": "Physical Therapist / PRN / Outpatient",
       "department": "Therapy",
@@ -648,7 +1223,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281116,
+      "id": 1705624,
       "external_id": "151370",
       "title": "Physical Therapist Assistant / Outpatient",
       "department": "Therapy",
@@ -671,7 +1246,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281109,
+      "id": 1705617,
       "external_id": "154955",
       "title": "Physical Therapist / PRN",
       "department": "Therapy",
@@ -694,7 +1269,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281115,
+      "id": 1705623,
       "external_id": "151435",
       "title": "Occupational Therapist / PRN",
       "department": "Therapy",
@@ -717,7 +1292,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281113,
+      "id": 1705621,
       "external_id": "153156",
       "title": "Speech Pathologist / PRN",
       "department": "Therapy",
@@ -740,7 +1315,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281083,
+      "id": 1705591,
       "external_id": "159533",
       "title": "Physical Therapist / PRN",
       "department": "Therapy",
@@ -763,7 +1338,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281074,
+      "id": 1705582,
       "external_id": "161473",
       "title": "Occupational Therapist / Part Time",
       "department": "Therapy",
@@ -786,7 +1361,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281073,
+      "id": 1705581,
       "external_id": "161599",
       "title": "Speech Pathologist / PRN",
       "department": "Therapy",
@@ -809,7 +1384,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281080,
+      "id": 1705588,
       "external_id": "160016",
       "title": "Speech Pathologist / Weekends",
       "department": "Therapy",
@@ -832,7 +1407,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281102,
+      "id": 1705610,
       "external_id": "155676",
       "title": "Occupational Therapist / PRN",
       "department": "Therapy",
@@ -855,7 +1430,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281067,
+      "id": 1705575,
       "external_id": "162017",
       "title": "Mental Health Associate / Nights",
       "department": "Clinical & Nursing Support",
@@ -878,7 +1453,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281103,
+      "id": 1705611,
       "external_id": "155675",
       "title": "Physical Therapist / PRN",
       "department": "Therapy",
@@ -901,7 +1476,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281090,
+      "id": 1705598,
       "external_id": "157875",
       "title": "Occupational Therapist / Outpatient",
       "department": "Therapy",
@@ -924,7 +1499,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281089,
+      "id": 1705597,
       "external_id": "158070",
       "title": "Rehab Clinic Manager / Physical Therapy",
       "department": "Therapy",
@@ -947,7 +1522,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281106,
+      "id": 1705614,
       "external_id": "155326",
       "title": "Physical Therapist / PRN / Outpatient",
       "department": "Therapy",
@@ -970,7 +1545,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281105,
+      "id": 1705613,
       "external_id": "155333",
       "title": "Occupational Therapist / Outpatient",
       "department": "Therapy",
@@ -993,7 +1568,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281107,
+      "id": 1705615,
       "external_id": "155156",
       "title": "Addiction Counselor",
       "department": "Social Work/Behavioral Health",
@@ -1016,7 +1591,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281070,
+      "id": 1705578,
       "external_id": "161705",
       "title": "Athletic Trainer / Surgical",
       "department": "Therapy",
@@ -1039,7 +1614,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281104,
+      "id": 1705612,
       "external_id": "155516",
       "title": "Athletic Trainer",
       "department": "Therapy",
@@ -1062,7 +1637,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281121,
+      "id": 1705629,
       "external_id": "147792",
       "title": "Occupational Therapist / PRN",
       "department": "Therapy",
@@ -1085,7 +1660,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281119,
+      "id": 1705627,
       "external_id": "150159",
       "title": "Speech Pathologist / PRN",
       "department": "Therapy",
@@ -1108,7 +1683,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281118,
+      "id": 1705626,
       "external_id": "151100",
       "title": "Occupational Therapist / PRN",
       "department": "Therapy",
@@ -1131,7 +1706,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281088,
+      "id": 1705596,
       "external_id": "158282",
       "title": "Speech Pathologist / PRN",
       "department": "Therapy",
@@ -1154,7 +1729,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281122,
+      "id": 1705630,
       "external_id": "147459",
       "title": "Occupational Therapist / PRN",
       "department": "Therapy",
@@ -1177,7 +1752,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281059,
+      "id": 1705567,
       "external_id": "162527",
       "title": "Senior Manager, Operations",
       "department": "Business Operations",
@@ -1200,7 +1775,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281094,
+      "id": 1705602,
       "external_id": "157360",
       "title": "Exercise Physiologist",
       "department": "Therapy",
@@ -1223,7 +1798,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281085,
+      "id": 1705593,
       "external_id": "159149",
       "title": "Speech Pathologist / PRN",
       "department": "Therapy",
@@ -1246,7 +1821,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281075,
+      "id": 1705583,
       "external_id": "161377",
       "title": "Physical Therapist / Outpatient",
       "department": "Therapy",
@@ -1269,7 +1844,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281087,
+      "id": 1705595,
       "external_id": "159137",
       "title": "Physical Therapist / PRN",
       "department": "Therapy",
@@ -1292,7 +1867,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281086,
+      "id": 1705594,
       "external_id": "159138",
       "title": "Physical Therapist / PRN",
       "department": "Therapy",
@@ -1315,7 +1890,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281091,
+      "id": 1705599,
       "external_id": "157674",
       "title": "Occupational Therapist / Outpatient",
       "department": "Therapy",
@@ -1338,7 +1913,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281076,
+      "id": 1705584,
       "external_id": "161376",
       "title": "Physical Therapist / PRN / Outpatient",
       "department": "Therapy",
@@ -1361,7 +1936,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281099,
+      "id": 1705607,
       "external_id": "156958",
       "title": "Physical Therapist / PRN / Outpatient",
       "department": "Therapy",
@@ -1384,7 +1959,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281098,
+      "id": 1705606,
       "external_id": "156959",
       "title": "Physical Therapist / Outpatient / PRN",
       "department": "Therapy",
@@ -1407,7 +1982,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281111,
+      "id": 1705619,
       "external_id": "154115",
       "title": "Physical Therapist / PRN / Outpatient",
       "department": "Therapy",
@@ -1430,7 +2005,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1412289,
+      "id": 1706205,
       "external_id": "3394",
       "title": "Plumbing Designer",
       "department": "Engineering - Mechanical",
@@ -1453,7 +2028,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281095,
+      "id": 1705603,
       "external_id": "157173",
       "title": "Critical Care Stepdown LTAC Registered Nurse / RN",
       "department": "Nursing",
@@ -1476,7 +2051,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281120,
+      "id": 1705628,
       "external_id": "148840",
       "title": "Critical Care Stepdown LTAC Charge Nurse / RN",
       "department": "Nursing",
@@ -1499,7 +2074,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281072,
+      "id": 1705580,
       "external_id": "161614",
       "title": "Critical Care Stepdown Registered Nurse / RN",
       "department": "Nursing",
@@ -1522,7 +2097,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281112,
+      "id": 1705620,
       "external_id": "153278",
       "title": "Unit Charge Nurse Critical Care Stepdown / RN",
       "department": "Nursing",
@@ -1545,7 +2120,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281071,
+      "id": 1705579,
       "external_id": "161634",
       "title": "Unit Charge Nurse Critical Care Stepdown / RN",
       "department": "Nursing",
@@ -1568,7 +2143,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1412290,
+      "id": 1706206,
       "external_id": "3393",
       "title": "Plumbing Designer",
       "department": "Engineering - Mechanical",
@@ -1591,7 +2166,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281101,
+      "id": 1705609,
       "external_id": "156140",
       "title": "Allergy, Asthma, Immunology NP / PA",
       "department": "Advanced Practice Providers",
@@ -1614,7 +2189,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281100,
+      "id": 1705608,
       "external_id": "156588",
       "title": "Nephrology Advanced Practice Provider ACNP / PA",
       "department": "Advanced Practice Providers",
@@ -1637,7 +2212,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281060,
+      "id": 1705568,
       "external_id": "162526",
       "title": "Patient Arrival Specialist",
       "department": "Clerical & Administrative",
@@ -1660,7 +2235,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281066,
+      "id": 1705574,
       "external_id": "162096",
       "title": "Patient Arrival Specialist",
       "department": "Clerical & Administrative",
@@ -1683,7 +2258,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281084,
+      "id": 1705592,
       "external_id": "159268",
       "title": "Supervisor, Priority Access",
       "department": "Clerical & Administrative",
@@ -1706,7 +2281,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281082,
+      "id": 1705590,
       "external_id": "159806",
       "title": "Patient Access Engagement Liaison - MyChart",
       "department": "Clerical & Administrative",
@@ -1729,7 +2304,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281065,
+      "id": 1705573,
       "external_id": "162103",
       "title": "Patient Access Priority Engagement Specialist Lead",
       "department": "Clerical & Administrative",
@@ -1752,7 +2327,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281093,
+      "id": 1705601,
       "external_id": "157447",
       "title": "Patient Access Engagement Liaison",
       "department": "Clerical & Administrative",
@@ -1775,7 +2350,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281110,
+      "id": 1705618,
       "external_id": "154570",
       "title": "Lead Orthopedic APP Ambulatory Clinic - NP / PA",
       "department": "Advanced Practice Providers",
@@ -1798,7 +2373,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281068,
+      "id": 1705576,
       "external_id": "161890",
       "title": "Infusion Registered Nurse / PRN",
       "department": "Nursing",
@@ -1821,7 +2396,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281081,
+      "id": 1705589,
       "external_id": "159820",
       "title": "RN / Outpatient Cardiology",
       "department": "Nursing",
@@ -1844,7 +2419,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281069,
+      "id": 1705577,
       "external_id": "161715",
       "title": "Patient Access Consultant",
       "department": "Business Operations",
@@ -1867,7 +2442,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281064,
+      "id": 1705572,
       "external_id": "162222",
       "title": "Maintenance Mechanic",
       "department": "Facility Support and Building Maintenance",
@@ -1890,7 +2465,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1281108,
+      "id": 1705616,
       "external_id": "155049",
       "title": "Imaging Services Assistant",
       "department": "Imaging & Radiology",
@@ -1913,7 +2488,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1470802,
+      "id": 1706686,
       "external_id": "31145850",
       "title": "(Sr.) Financial Planning & Analysis Manager",
       "department": "",
@@ -1936,7 +2511,7 @@
       "ats_type": "workday"
     },
     {
-      "id": 1426842,
+      "id": 1706250,
       "external_id": "R-041255",
       "title": "Pharmacy Tech (Tech I), 6-Week Training Program, Rotating Shift, Pharmacy",
       "department": "",
@@ -1959,7 +2534,7 @@
       "ats_type": "workday"
     },
     {
-      "id": 1426841,
+      "id": 1706249,
       "external_id": "R-041257",
       "title": "Student Pharmacy Intern, Variable Part-Time,  Pharmacy",
       "department": "",
@@ -1982,7 +2557,7 @@
       "ats_type": "workday"
     },
     {
-      "id": 1368758,
+      "id": 1706198,
       "external_id": "330394",
       "title": "Federal Project Manager III - Oracle Health (EHR Pre & Post Go-live Readiness)",
       "department": "",
@@ -2005,7 +2580,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 1368756,
+      "id": 1706196,
       "external_id": "357706",
       "title": "Physician, Cardiac Surgery",
       "department": "Physician Group",
@@ -2028,7 +2603,30 @@
       "ats_type": "taleo"
     },
     {
-      "id": 1471131,
+      "id": 1532566,
+      "external_id": "330321",
+      "title": "Oracle Health Lead Organizational Change Consultant",
+      "department": "",
+      "location": "United States",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-26T00:00:00",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/330321",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-03-28T07:11:05.104379",
+      "unique_key": "3391812df4195279",
+      "company_name": "Oracle (EEHO)",
+      "subdomain": "eeho",
+      "portal_slug": "eeho",
+      "sector": "",
+      "ats_type": "oracle"
+    },
+    {
+      "id": 1707015,
       "external_id": "162689",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -2051,7 +2649,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471138,
+      "id": 1707022,
       "external_id": "161633",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -2074,7 +2672,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471142,
+      "id": 1707026,
       "external_id": "159239",
       "title": "CVOR Registered Nurse",
       "department": "Nursing",
@@ -2097,7 +2695,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471136,
+      "id": 1707020,
       "external_id": "162386",
       "title": "Manager, Language Access Services",
       "department": "Clerical & Administrative",
@@ -2120,7 +2718,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471145,
+      "id": 1707029,
       "external_id": "146085",
       "title": "Patient Care Tech / Float Pool",
       "department": "Clinical & Nursing Support",
@@ -2143,7 +2741,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471141,
+      "id": 1707025,
       "external_id": "159452",
       "title": "Medical Lab Technician/ Blood Bank",
       "department": "Laboratory",
@@ -2166,7 +2764,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471130,
+      "id": 1707014,
       "external_id": "162916",
       "title": "Patient Care Technician / PCT / Acute Rehab",
       "department": "Clinical & Nursing Support",
@@ -2189,7 +2787,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471128,
+      "id": 1707012,
       "external_id": "163055",
       "title": "Occupational Therapist / Outpatient / Part Time",
       "department": "Therapy",
@@ -2212,7 +2810,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471144,
+      "id": 1707028,
       "external_id": "158054",
       "title": "Phlebotomy Tech Float",
       "department": "Laboratory",
@@ -2235,7 +2833,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471135,
+      "id": 1707019,
       "external_id": "162406",
       "title": "Phlebotomy Tech",
       "department": "Laboratory",
@@ -2258,7 +2856,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471139,
+      "id": 1707023,
       "external_id": "161537",
       "title": "Part Time Phlebotomist",
       "department": "Laboratory",
@@ -2281,7 +2879,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471143,
+      "id": 1707027,
       "external_id": "159080",
       "title": "PRN Phlebotomy Tech",
       "department": "Laboratory",
@@ -2304,7 +2902,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471140,
+      "id": 1707024,
       "external_id": "160257",
       "title": "Phlebotomy Tech",
       "department": "Laboratory",
@@ -2327,7 +2925,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471137,
+      "id": 1707021,
       "external_id": "161789",
       "title": "PRN Phlebotomy Tech",
       "department": "Laboratory",
@@ -2350,7 +2948,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471129,
+      "id": 1707013,
       "external_id": "162957",
       "title": "Radiologic Technologist Outpatient / Part-Time Days",
       "department": "Imaging & Radiology",
@@ -2373,7 +2971,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471132,
+      "id": 1707016,
       "external_id": "162673",
       "title": "Neurodiagnostic Tech / WEO",
       "department": "Neurodiagnostics",
@@ -2396,7 +2994,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471133,
+      "id": 1707017,
       "external_id": "162669",
       "title": "Neurodiagnostic Specialist",
       "department": "Clinical & Nursing Support",
@@ -2419,7 +3017,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471134,
+      "id": 1707018,
       "external_id": "162633",
       "title": "Phlebotomy Tech / PRN",
       "department": "Laboratory",
@@ -2442,7 +3040,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471806,
+      "id": 1707690,
       "external_id": "159702",
       "title": "PCC - Complex Scheduler",
       "department": "Clerical & Administrative",
@@ -2465,7 +3063,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471172,
+      "id": 1707056,
       "external_id": "3334",
       "title": "Sr Interior Designer",
       "department": "Interior Design",
@@ -2488,7 +3086,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471784,
+      "id": 1707668,
       "external_id": "161898",
       "title": "Pharmacy Intern",
       "department": "Pharmacy",
@@ -2511,7 +3109,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471777,
+      "id": 1707661,
       "external_id": "162494",
       "title": "Guest Services Associate",
       "department": "Clerical & Administrative",
@@ -2534,7 +3132,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471775,
+      "id": 1707659,
       "external_id": "162530",
       "title": "Guest Services Associate",
       "department": "Clerical & Administrative",
@@ -2557,7 +3155,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471774,
+      "id": 1707658,
       "external_id": "162532",
       "title": "Guest Services Associate",
       "department": "Clerical & Administrative",
@@ -2580,7 +3178,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471842,
+      "id": 1707726,
       "external_id": "148884",
       "title": "Guest Services Associate",
       "department": "Clerical & Administrative",
@@ -2603,7 +3201,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471837,
+      "id": 1707721,
       "external_id": "153340",
       "title": "Guest Services Associate",
       "department": "Clerical & Administrative",
@@ -2626,7 +3224,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471764,
+      "id": 1707648,
       "external_id": "162976",
       "title": "LPN / Primary Care",
       "department": "Nursing",
@@ -2649,7 +3247,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471767,
+      "id": 1707651,
       "external_id": "162869",
       "title": "RN Clinician / Ortho",
       "department": "Nursing",
@@ -2672,7 +3270,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471760,
+      "id": 1707644,
       "external_id": "163052",
       "title": "Emergency Medical Tech / Delta",
       "department": "Clinical & Nursing Support",
@@ -2695,7 +3293,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471835,
+      "id": 1707719,
       "external_id": "154292",
       "title": "Sterile Processing Tech III",
       "department": "Clinical & Nursing Support",
@@ -2718,7 +3316,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471795,
+      "id": 1707679,
       "external_id": "161317",
       "title": "RN Care Coordinator / Infectious Disease",
       "department": "Nursing",
@@ -2741,7 +3339,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471801,
+      "id": 1707685,
       "external_id": "161036",
       "title": "Medical Assistant / Nephrology",
       "department": "Clinical & Nursing Support",
@@ -2764,7 +3362,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471768,
+      "id": 1707652,
       "external_id": "162739",
       "title": "Medical Assistant / Primary Care",
       "department": "Clinical & Nursing Support",
@@ -2787,7 +3385,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471785,
+      "id": 1707669,
       "external_id": "161857",
       "title": "LPN Patient Navigator / Transplant",
       "department": "Nursing",
@@ -2810,7 +3408,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471786,
+      "id": 1707670,
       "external_id": "161856",
       "title": "LPN Patient Navigator / Transplant",
       "department": "Nursing",
@@ -2833,7 +3431,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471778,
+      "id": 1707662,
       "external_id": "162467",
       "title": "Patient Transporter",
       "department": "Facility Support and Building Maintenance",
@@ -2856,7 +3454,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471799,
+      "id": 1707683,
       "external_id": "161253",
       "title": "Courier PRN",
       "department": "Facility Support and Building Maintenance",
@@ -2879,7 +3477,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471825,
+      "id": 1707709,
       "external_id": "156892",
       "title": "Patient Care Tech",
       "department": "Clinical & Nursing Support",
@@ -2902,7 +3500,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471761,
+      "id": 1707645,
       "external_id": "163050",
       "title": "Barista - Starbucks",
       "department": "Food Services",
@@ -2925,7 +3523,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471780,
+      "id": 1707664,
       "external_id": "162363",
       "title": "Recovery Room Registered Nurse",
       "department": "Nursing",
@@ -2948,7 +3546,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471804,
+      "id": 1707688,
       "external_id": "159955",
       "title": "Respiratory Care Practitioner / RCP / Internal Travel Team",
       "department": "Nursing",
@@ -2971,7 +3569,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471817,
+      "id": 1707701,
       "external_id": "158142",
       "title": "CVOR Surgical Technologist",
       "department": "Clinical & Nursing Support",
@@ -2994,7 +3592,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471818,
+      "id": 1707702,
       "external_id": "158141",
       "title": "CVOR Surgical Technologist",
       "department": "Clinical & Nursing Support",
@@ -3017,7 +3615,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471819,
+      "id": 1707703,
       "external_id": "158140",
       "title": "CVOR Surgical Technologist",
       "department": "Clinical & Nursing Support",
@@ -3040,7 +3638,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471792,
+      "id": 1707676,
       "external_id": "161459",
       "title": "Social Work Care Manager / PRN",
       "department": "Care Management",
@@ -3063,7 +3661,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471821,
+      "id": 1707705,
       "external_id": "157934",
       "title": "CVOR Surgical Technologist",
       "department": "Clinical & Nursing Support",
@@ -3086,7 +3684,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471829,
+      "id": 1707713,
       "external_id": "155953",
       "title": "CVOR Surgical Technologist",
       "department": "Clinical & Nursing Support",
@@ -3109,7 +3707,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471800,
+      "id": 1707684,
       "external_id": "161191",
       "title": "Endoscopy Technician Coordinator",
       "department": "Clinical & Nursing Support",
@@ -3132,7 +3730,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471812,
+      "id": 1707696,
       "external_id": "159086",
       "title": "Care Manager IP",
       "department": "Care Management",
@@ -3155,7 +3753,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471759,
+      "id": 1707643,
       "external_id": "163114",
       "title": "Same Day Surgery Registered Nurse",
       "department": "Nursing",
@@ -3178,7 +3776,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471127,
+      "id": 1707011,
       "external_id": "163115",
       "title": "Same Day Surgery Registered Nurse",
       "department": "Nursing",
@@ -3201,7 +3799,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471797,
+      "id": 1707681,
       "external_id": "161302",
       "title": "Cardiovascular Operating Room Registered Nurse",
       "department": "Nursing",
@@ -3224,7 +3822,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471796,
+      "id": 1707680,
       "external_id": "161303",
       "title": "Cardiovascular Operating Room Registered Nurse",
       "department": "Nursing",
@@ -3247,7 +3845,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471798,
+      "id": 1707682,
       "external_id": "161264",
       "title": "Corporate Advanced Practice Provider NP / PA",
       "department": "Advanced Practice Providers",
@@ -3270,7 +3868,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471830,
+      "id": 1707714,
       "external_id": "155263",
       "title": "Cardiovascular Operating Room Registered Nurse",
       "department": "Nursing",
@@ -3293,7 +3891,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471802,
+      "id": 1707686,
       "external_id": "160700",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -3316,7 +3914,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471832,
+      "id": 1707716,
       "external_id": "154468",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -3339,7 +3937,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471773,
+      "id": 1707657,
       "external_id": "162563",
       "title": "Nursing Professional Development Practitioner",
       "department": "Nursing",
@@ -3362,7 +3960,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471833,
+      "id": 1707717,
       "external_id": "154466",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -3385,7 +3983,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471834,
+      "id": 1707718,
       "external_id": "154464",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -3408,7 +4006,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471765,
+      "id": 1707649,
       "external_id": "162939",
       "title": "Occupational Therapist",
       "department": "Therapy",
@@ -3431,7 +4029,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471776,
+      "id": 1707660,
       "external_id": "162504",
       "title": "Surgical Tech Education Coordinator",
       "department": "Clinical & Nursing Support",
@@ -3454,7 +4052,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471763,
+      "id": 1707647,
       "external_id": "163017",
       "title": "CVICU Registered Nurse / RN",
       "department": "Nursing",
@@ -3477,7 +4075,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471827,
+      "id": 1707711,
       "external_id": "156517",
       "title": "Radiation Oncology Registered Nurse / RN",
       "department": "Nursing",
@@ -3500,7 +4098,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471771,
+      "id": 1707655,
       "external_id": "162629",
       "title": "Chef",
       "department": "Food Services",
@@ -3523,7 +4121,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1473415,
+      "id": 1709299,
       "external_id": "31106618",
       "title": "\uff1c\u8a3a\u65ad\u85ac\u30fb\u6a5f\u5668\u4e8b\u696d\u90e8\uff1e Field Service Engineer\uff08\u5168\u56fd\u30aa\u30fc\u30d7\u30f3\u30dd\u30b8\u30b7\u30e7\u30f3\uff09",
       "department": "",
@@ -3546,7 +4144,7 @@
       "ats_type": "workday"
     },
     {
-      "id": 1472403,
+      "id": 1708287,
       "external_id": "31145704",
       "title": "Senior TA Manager",
       "department": "",
@@ -3569,7 +4167,7 @@
       "ats_type": "workday"
     },
     {
-      "id": 1472402,
+      "id": 1708286,
       "external_id": "31134789",
       "title": "CRM Operations Manager I Head of Telesales",
       "department": "",
@@ -3592,7 +4190,7 @@
       "ats_type": "workday"
     },
     {
-      "id": 1471762,
+      "id": 1707646,
       "external_id": "163023",
       "title": "OBGYN Medical Assistant / MA",
       "department": "Clinical & Nursing Support",
@@ -3615,7 +4213,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471831,
+      "id": 1707715,
       "external_id": "154930",
       "title": "Patient Care Tech II",
       "department": "Clinical & Nursing Support",
@@ -3638,7 +4236,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471782,
+      "id": 1707666,
       "external_id": "162246",
       "title": "Supply Chain Technician",
       "department": "",
@@ -3661,7 +4259,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471811,
+      "id": 1707695,
       "external_id": "159193",
       "title": "Patient Care Tech II",
       "department": "Clinical & Nursing Support",
@@ -3684,7 +4282,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471770,
+      "id": 1707654,
       "external_id": "162637",
       "title": "Clinical Transplant Coordinator Registered Nurse / RN",
       "department": "Nursing",
@@ -3707,7 +4305,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471826,
+      "id": 1707710,
       "external_id": "156801",
       "title": "ICU/ Facility Float/ Registered Nurse / RN",
       "department": "Nursing",
@@ -3730,7 +4328,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471783,
+      "id": 1707667,
       "external_id": "162156",
       "title": "Pre Op Holding Area Registered Nurse",
       "department": "Nursing",
@@ -3753,7 +4351,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471838,
+      "id": 1707722,
       "external_id": "150519",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -3776,7 +4374,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471793,
+      "id": 1707677,
       "external_id": "161413",
       "title": "RN Pre Op Holding Area - Orthopedic and Spine/ PRN",
       "department": "Nursing",
@@ -3799,7 +4397,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471794,
+      "id": 1707678,
       "external_id": "161411",
       "title": "Registered Nurse /PACU / Orthopedics & Spine / PRN",
       "department": "Nursing",
@@ -3822,7 +4420,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471766,
+      "id": 1707650,
       "external_id": "162907",
       "title": "Clinical Decision Unit Registered Nurse / 7am - 7:30pm / Part Time",
       "department": "Nursing",
@@ -3845,7 +4443,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471788,
+      "id": 1707672,
       "external_id": "161610",
       "title": "Pre-Op Holding Area Nurse",
       "department": "Nursing",
@@ -3868,7 +4466,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471772,
+      "id": 1707656,
       "external_id": "162582",
       "title": "Emergency Department Registered Nurse / 7pm - 7:30am",
       "department": "Nursing",
@@ -3891,7 +4489,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471769,
+      "id": 1707653,
       "external_id": "162682",
       "title": "Emergency Department Registered Nurse / 1pm -1am",
       "department": "Nursing",
@@ -3914,7 +4512,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471839,
+      "id": 1707723,
       "external_id": "150167",
       "title": "Radiologic Technologist",
       "department": "Imaging & Radiology",
@@ -3937,7 +4535,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471781,
+      "id": 1707665,
       "external_id": "162284",
       "title": "Registry Telemetry Registered Nurse / RN Clinician",
       "department": "Nursing",
@@ -3960,7 +4558,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471823,
+      "id": 1707707,
       "external_id": "157577",
       "title": "RN Clinician",
       "department": "Nursing",
@@ -3983,7 +4581,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471779,
+      "id": 1707663,
       "external_id": "162415",
       "title": "Senior Lab Technical Specialist / POC",
       "department": "Laboratory",
@@ -4006,7 +4604,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471828,
+      "id": 1707712,
       "external_id": "156510",
       "title": "Assistant Director, Clinical Nutrition Services/Director, DI",
       "department": "Business Operations",
@@ -4029,7 +4627,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471814,
+      "id": 1707698,
       "external_id": "158786",
       "title": "Acute Care Registered Nurse / RN",
       "department": "Nursing",
@@ -4052,7 +4650,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471803,
+      "id": 1707687,
       "external_id": "160162",
       "title": "Claim Data Process Manager",
       "department": "Business Operations",
@@ -4075,7 +4673,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471791,
+      "id": 1707675,
       "external_id": "161524",
       "title": "Cardiovascular Specialist",
       "department": "Nursing",
@@ -4098,7 +4696,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471836,
+      "id": 1707720,
       "external_id": "154264",
       "title": "Interventional Vascular Specialist",
       "department": "Therapy",
@@ -4121,7 +4719,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471844,
+      "id": 1707728,
       "external_id": "142125",
       "title": "Cardiovascular Specialist",
       "department": "Clinical & Nursing Support",
@@ -4144,7 +4742,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471809,
+      "id": 1707693,
       "external_id": "159519",
       "title": "Emergency Department Registered Nurse / 7am - 7:30pm",
       "department": "Nursing",
@@ -4167,7 +4765,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471840,
+      "id": 1707724,
       "external_id": "150132",
       "title": "Electrophysiology Registered Nurse / RN",
       "department": "Nursing",
@@ -4190,7 +4788,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471841,
+      "id": 1707725,
       "external_id": "149028",
       "title": "Cardiovascular Specialist",
       "department": "Nursing",
@@ -4213,7 +4811,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471824,
+      "id": 1707708,
       "external_id": "157456",
       "title": "Mammography Technologist",
       "department": "Imaging & Radiology",
@@ -4236,7 +4834,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471807,
+      "id": 1707691,
       "external_id": "159534",
       "title": "Patient Care Coordinator",
       "department": "Clerical & Administrative",
@@ -4259,7 +4857,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471816,
+      "id": 1707700,
       "external_id": "158488",
       "title": "Emergency Department Nursing Professional Development Practitioner / RN",
       "department": "Nursing",
@@ -4282,7 +4880,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471815,
+      "id": 1707699,
       "external_id": "158723",
       "title": "PCT, OU Float, I",
       "department": "Clinical & Nursing Support",
@@ -4305,7 +4903,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471820,
+      "id": 1707704,
       "external_id": "158135",
       "title": "Surgical Oncology Nurse Development Practitioner / RN",
       "department": "Nursing",
@@ -4328,7 +4926,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471822,
+      "id": 1707706,
       "external_id": "157885",
       "title": "Breast GYN and Ortho / RN",
       "department": "Nursing",
@@ -4351,7 +4949,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471810,
+      "id": 1707694,
       "external_id": "159261",
       "title": "Patient Access Engagement Specialist",
       "department": "Clerical & Administrative",
@@ -4374,7 +4972,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1473414,
+      "id": 1709298,
       "external_id": "330203",
       "title": "Director, Hyperscale Data Center Security Operations",
       "department": "",
@@ -4397,7 +4995,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 1473413,
+      "id": 1709297,
       "external_id": "330124",
       "title": "Principal Member of Technical Staff - US Citizenship Required",
       "department": "",
@@ -4420,7 +5018,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 1473412,
+      "id": 1709296,
       "external_id": "330119",
       "title": "Senior Software Engineer (IC3) - US Citizenship Required",
       "department": "",
@@ -4443,7 +5041,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 1473410,
+      "id": 1709294,
       "external_id": "330114",
       "title": "Senior Clinical Consultant - Cerner Millennium",
       "department": "",
@@ -4466,7 +5064,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 1473409,
+      "id": 1709293,
       "external_id": "330113",
       "title": "Federal Project Manager II - Oracle Health (EHR Pre & Post Go-live Readiness)",
       "department": "",
@@ -4489,7 +5087,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 1473407,
+      "id": 1709291,
       "external_id": "329816",
       "title": "Federal Program Cost Control Analyst I - Oracle Health Government Services -  Must work in office Arlington VA",
       "department": "",
@@ -4512,7 +5110,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 1473406,
+      "id": 1709290,
       "external_id": "325964",
       "title": "Electrical Engineer - Power Systems Engineer",
       "department": "",
@@ -4535,7 +5133,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 1473405,
+      "id": 1709289,
       "external_id": "325963",
       "title": "Electrical Engineer - Power Systems Engineer",
       "department": "",
@@ -4558,7 +5156,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 1473404,
+      "id": 1709288,
       "external_id": "321285",
       "title": "Physician, Pediatric Cardiac Intensivist (Full-Time)",
       "department": "Physician Group",
@@ -4581,7 +5179,7 @@
       "ats_type": "taleo"
     },
     {
-      "id": 1473403,
+      "id": 1709287,
       "external_id": "357609",
       "title": "Physician, Family Medicine (F/T) - Anaheim, CA",
       "department": "Physician Group",
@@ -4604,7 +5202,7 @@
       "ats_type": "taleo"
     },
     {
-      "id": 1473402,
+      "id": 1709286,
       "external_id": "357675",
       "title": "Physician, Gastroenterology (Advanced Endoscopy)",
       "department": "Physician Group",
@@ -4627,7 +5225,7 @@
       "ats_type": "taleo"
     },
     {
-      "id": 1473401,
+      "id": 1709285,
       "external_id": "350228",
       "title": "Physician, Aortic Surgery Fellow",
       "department": "Physician Group",
@@ -4650,7 +5248,7 @@
       "ats_type": "taleo"
     },
     {
-      "id": 1471787,
+      "id": 1707671,
       "external_id": "161739",
       "title": "Social Work Inpatient Care Manager",
       "department": "Care Management",
@@ -4673,7 +5271,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471808,
+      "id": 1707692,
       "external_id": "159528",
       "title": "Senior Patient Experience Business Partner",
       "department": "Business Operations",
@@ -4696,7 +5294,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471789,
+      "id": 1707673,
       "external_id": "161602",
       "title": "Emory Winship at Midtown Inpatient Oncology Registered Nurse Virtual Hiring Event",
       "department": "Nursing",
@@ -4719,7 +5317,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471805,
+      "id": 1707689,
       "external_id": "159836",
       "title": "Emory University Hospital Heart & Vascular Registered Nurse Virtual Hiring Event",
       "department": "Nursing",
@@ -4742,7 +5340,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471843,
+      "id": 1707727,
       "external_id": "145606",
       "title": "Physician Liaison",
       "department": "Clinical & Nursing Support",
@@ -4765,7 +5363,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471813,
+      "id": 1707697,
       "external_id": "158924",
       "title": "Operating Room Surgical Tech / Orthopedics & Spine",
       "department": "Clinical & Nursing Support",
@@ -4788,7 +5386,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1471790,
+      "id": 1707674,
       "external_id": "161551",
       "title": "Info Sec Healthcare Data Privacy and Audit Analyst",
       "department": "Information Technology",
@@ -4811,7 +5409,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 1484352,
+      "id": 1720236,
       "external_id": "31145443",
       "title": "Regulatory Affairs Executive",
       "department": "",
@@ -4834,7 +5432,7 @@
       "ats_type": "workday"
     },
     {
-      "id": 1473411,
+      "id": 1709295,
       "external_id": "330118",
       "title": "Senior Software Engineer (IC3) - US Citizenship Required",
       "department": "",
@@ -4857,7 +5455,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 1473408,
+      "id": 1709292,
       "external_id": "330126",
       "title": "Principal Software Engineer",
       "department": "",

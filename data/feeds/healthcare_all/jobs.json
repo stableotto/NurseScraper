@@ -1,10 +1,907 @@
 {
   "feed": "All Healthcare Jobs",
-  "generated_at": "2026-04-01T08:28:24.708752Z",
-  "count": 339,
+  "generated_at": "2026-04-02T08:19:25.836227Z",
+  "count": 381,
   "jobs": [
     {
-      "id": 2634121,
+      "id": 2911603,
+      "external_id": "158373",
+      "title": "RN / Outpatient Cardiology",
+      "department": "Nursing",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T17:00:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/158373/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.260222",
+      "unique_key": "6faa73708a903a23",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911583,
+      "external_id": "163390",
+      "title": "RN / Colorectal Surgery / Outpatient",
+      "department": "Nursing",
+      "location": "US-GA-Decatur",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T16:55:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163390/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.258892",
+      "unique_key": "aae227c1bcfdbdfd",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911608,
+      "external_id": "149039",
+      "title": "Project Mgr, Supply Chain",
+      "department": "Business Operations",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T16:01:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/149039/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.260535",
+      "unique_key": "13c64cdc6dba3a5b",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911607,
+      "external_id": "154326",
+      "title": "NICU Registered Nurse / RN",
+      "department": "Nursing",
+      "location": "US-GA-Decatur",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T15:46:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/154326/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.260478",
+      "unique_key": "615c0f3f8847fc16",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911589,
+      "external_id": "162967",
+      "title": "Pre op Charge Nurse",
+      "department": "Nursing",
+      "location": "US-GA-Decatur",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T15:12:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/162967/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.259311",
+      "unique_key": "83465e16e6589a58",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911592,
+      "external_id": "162420",
+      "title": "Medical Lab Scientist / Microbiology",
+      "department": "Laboratory",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T14:46:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/162420/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.259698",
+      "unique_key": "2329b5683e5d283b",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911600,
+      "external_id": "160356",
+      "title": "Patient Care Technician / PCT / General Surgical Bar & Ot",
+      "department": "Clinical & Nursing Support",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T14:20:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/160356/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.260114",
+      "unique_key": "96b715103d43cd19",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911588,
+      "external_id": "163240",
+      "title": "Patient Care Technician / PCT / 3T Prep and Recovery",
+      "department": "Clinical & Nursing Support",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T14:07:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163240/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.259049",
+      "unique_key": "85bb0d04ae54ab2c",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911584,
+      "external_id": "163360",
+      "title": "Barista - Starbucks",
+      "department": "Food Services",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T13:24:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163360/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.258913",
+      "unique_key": "b8dd129c26fda322",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911596,
+      "external_id": "161373",
+      "title": "Registered Nurse / Interventional Procedures",
+      "department": "Nursing",
+      "location": "US-GA-Lithonia",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T12:57:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/161373/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.259938",
+      "unique_key": "a1943433354ae704",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911581,
+      "external_id": "163437",
+      "title": "Director, Media Strategy",
+      "department": "Business Operations",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T12:57:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163437/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.258853",
+      "unique_key": "c896022e6e7940df",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911568,
+      "external_id": "163746",
+      "title": "Respiratory Therapist / RRT",
+      "department": "Therapy",
+      "location": "US-GA-Decatur",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T12:45:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163746/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.258368",
+      "unique_key": "60be032cf5036f8a",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911593,
+      "external_id": "162073",
+      "title": "Environmental Services Technician",
+      "department": "Facility Support and Building Maintenance",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T12:38:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/162073/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.259837",
+      "unique_key": "b335e84f6e13c054",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911586,
+      "external_id": "163322",
+      "title": "Registry Soc Work Care Mgr IP",
+      "department": "",
+      "location": "US-GA-Decatur",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T12:27:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163322/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.258970",
+      "unique_key": "d9bd229b6a214bd3",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911605,
+      "external_id": "156196",
+      "title": "Medical Assistant Coordinator / Outpatient Cardiology",
+      "department": "Clinical & Nursing Support",
+      "location": "US-GA-Lithonia",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T12:03:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/156196/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.260373",
+      "unique_key": "9bc6b2ba799b9d85",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911580,
+      "external_id": "163444",
+      "title": "Assistant Director, Patient Care Service",
+      "department": "Nursing",
+      "location": "US-GA-Johns Creek",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T11:50:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163444/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.258824",
+      "unique_key": "f56d4b475a6049b1",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911595,
+      "external_id": "161527",
+      "title": "Procedural Service Line Coordinator Registered Nurse / RN",
+      "department": "Nursing",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T11:42:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/161527/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.259916",
+      "unique_key": "cc71a04538619c32",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911579,
+      "external_id": "163451",
+      "title": "Administrator, Operations",
+      "department": "Business Operations",
+      "location": "US-GA-Johns Creek",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T11:35:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163451/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.258806",
+      "unique_key": "0d819e124d633bad",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911606,
+      "external_id": "155353",
+      "title": "Medical Lab Scientist / Microbiology",
+      "department": "Laboratory",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T10:46:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/155353/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.260392",
+      "unique_key": "fa7d1d112960a90c",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911577,
+      "external_id": "163487",
+      "title": "Radiation Therapy Registered Nurse / RN",
+      "department": "Nursing",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T10:18:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163487/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.258648",
+      "unique_key": "84c96ed38a2c5449",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911609,
+      "external_id": "139939",
+      "title": "Orthopedic & Spine OR Surgical Tech",
+      "department": "Clinical & Nursing Support",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T09:59:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/139939/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.260607",
+      "unique_key": "ea470159a4f7135f",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911602,
+      "external_id": "159163",
+      "title": "Patient Care Technician / PCT / PRN OU Float Pool",
+      "department": "Clinical & Nursing Support",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T09:28:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/159163/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.260198",
+      "unique_key": "8877c6f6e2076d47",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911601,
+      "external_id": "160221",
+      "title": "Anesthesia Technologist",
+      "department": "Clinical & Nursing Support",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T09:24:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/160221/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.260141",
+      "unique_key": "47a4279b2b0fcfbc",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911599,
+      "external_id": "160643",
+      "title": "Medical Lab Scientist / Generalist",
+      "department": "Laboratory",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T09:09:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/160643/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.260080",
+      "unique_key": "85240c85e3684ab2",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911591,
+      "external_id": "162561",
+      "title": "Senior Medical Equipment Planner",
+      "department": "Business Operations",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T08:37:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/162561/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.259676",
+      "unique_key": "0f60600b413f6e22",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911590,
+      "external_id": "162562",
+      "title": "Capital Program Manager",
+      "department": "Business Operations",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T08:27:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/162562/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.259647",
+      "unique_key": "fef0348c1094ee1b",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911587,
+      "external_id": "163267",
+      "title": "MRI Technologist",
+      "department": "Imaging & Radiology",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T08:11:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163267/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.259009",
+      "unique_key": "05b4a84c3fb9de42",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911585,
+      "external_id": "163340",
+      "title": "Patient Care Technician / PCT  / ED",
+      "department": "Clinical & Nursing Support",
+      "location": "US-GA-Johns Creek",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T08:10:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163340/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.258948",
+      "unique_key": "4246ac887a0f1c3a",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911571,
+      "external_id": "163721",
+      "title": "Patient Care Technician / PCT / OU Float",
+      "department": "Clinical & Nursing Support",
+      "location": "US-GA-Johns Creek",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T08:09:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163721/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.258454",
+      "unique_key": "b899100497aa773f",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911604,
+      "external_id": "157817",
+      "title": "Nuclear Medicine Technologist",
+      "department": "Imaging & Radiology",
+      "location": "US-GA-Lithonia",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T08:07:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/157817/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.260318",
+      "unique_key": "43668558ba9332a5",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911598,
+      "external_id": "160775",
+      "title": "Nuclear Medicine Technologist",
+      "department": "Imaging & Radiology",
+      "location": "US-GA-Decatur",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T08:07:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/160775/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.260041",
+      "unique_key": "15fcdc4b94ffb452",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911597,
+      "external_id": "160884",
+      "title": "RN / Outpatient Cardiology",
+      "department": "Nursing",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T07:56:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/160884/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.260021",
+      "unique_key": "a0059ee6d1cc7a98",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911582,
+      "external_id": "163421",
+      "title": "Preoperative and Post Anesthesia Care Unit Registered Nurse",
+      "department": "Nursing",
+      "location": "US-GA-Johns Creek",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T07:48:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163421/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.258870",
+      "unique_key": "64c5a0660805ea78",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911569,
+      "external_id": "163723",
+      "title": "Acute Care Float Pool WEO Registered Nurse / RN",
+      "department": "Nursing",
+      "location": "US-GA-Johns Creek",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T07:30:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163723/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.258415",
+      "unique_key": "35f9c9869543cbcb",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911570,
+      "external_id": "163722",
+      "title": "Acute Care Float Pool Registered Nurse / RN",
+      "department": "Nursing",
+      "location": "US-GA-Johns Creek",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T07:28:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163722/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.258435",
+      "unique_key": "8bf57586fd761f38",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911594,
+      "external_id": "161928",
+      "title": "Medical Assistant / Radiology / 9:30pm- 6am",
+      "department": "Clinical & Nursing Support",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T06:59:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/161928/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.259874",
+      "unique_key": "7ac2f39d096c5b5d",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911578,
+      "external_id": "163486",
+      "title": "Coord, Specialty Referral",
+      "department": "Clerical & Administrative",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T06:59:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163486/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.258670",
+      "unique_key": "1b86d0f28a5730d6",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911576,
+      "external_id": "163519",
+      "title": "Specialty Referral Coordinator",
+      "department": "Clerical & Administrative",
+      "location": "US-GA-Atlanta",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T06:57:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163519/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.258588",
+      "unique_key": "0cc056f04106a02c",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911575,
+      "external_id": "163592",
+      "title": "Registry F&N Assoc",
+      "department": "Food Services",
+      "location": "US-GA-Johns Creek",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-01T06:55:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163592/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.258534",
+      "unique_key": "c3ab18ba5e2c6065",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2987255,
       "external_id": "162917",
       "title": "RN Nurse Residency Program, Fall 2026 - Acute Care",
       "department": "Nurse Residency",
@@ -27,7 +924,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634120,
+      "id": 2987254,
       "external_id": "162919",
       "title": "RN Nurse Residency Program, Fall 2026 - OR",
       "department": "Nurse Residency",
@@ -50,7 +947,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634119,
+      "id": 2987253,
       "external_id": "162920",
       "title": "RN Nurse Residency Program, Fall 2026 - Emergency Services",
       "department": "Nurse Residency",
@@ -73,7 +970,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634118,
+      "id": 2987252,
       "external_id": "162921",
       "title": "RN Nurse Residency Program, Fall 2026 - Oncology",
       "department": "Nurse Residency",
@@ -96,7 +993,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634117,
+      "id": 2987251,
       "external_id": "162922",
       "title": "RN Nurse Residency Program, Fall 2026 - Critical Care",
       "department": "Nurse Residency",
@@ -119,7 +1016,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634116,
+      "id": 2987250,
       "external_id": "162923",
       "title": "RN Nurse Residency Program, Fall 2026 - Women's Services",
       "department": "Nurse Residency",
@@ -142,7 +1039,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634147,
+      "id": 2987281,
       "external_id": "154883",
       "title": "RN / Outpatient Cardiology",
       "department": "Nursing",
@@ -165,7 +1062,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634146,
+      "id": 2987280,
       "external_id": "154886",
       "title": "RN / Vascular Surgery Clinic",
       "department": "Nursing",
@@ -188,7 +1085,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634140,
+      "id": 2987274,
       "external_id": "159355",
       "title": "Maintenance Mechanic Specialist",
       "department": "Facility Support and Building Maintenance",
@@ -211,7 +1108,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634108,
+      "id": 2987242,
       "external_id": "163072",
       "title": "Environmental Services Technician",
       "department": "Facility Support and Building Maintenance",
@@ -234,7 +1131,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634109,
+      "id": 2987243,
       "external_id": "163069",
       "title": "Maintenance Supervisor",
       "department": "Facility Support and Building Maintenance",
@@ -257,7 +1154,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634104,
+      "id": 2987238,
       "external_id": "163153",
       "title": "Supply Chain Technician",
       "department": "",
@@ -280,7 +1177,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634105,
+      "id": 2987239,
       "external_id": "163152",
       "title": "Supply Chain Technician",
       "department": "",
@@ -303,7 +1200,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634135,
+      "id": 2987269,
       "external_id": "161198",
       "title": "Public Safety Supervisor",
       "department": "Public Safety and Security",
@@ -326,7 +1223,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634122,
+      "id": 2987256,
       "external_id": "162842",
       "title": "Cardiovascular Step Down Registered Nurse / RN",
       "department": "Nursing",
@@ -349,7 +1246,30 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634138,
+      "id": 2911572,
+      "external_id": "163644",
+      "title": "Radiologic Technologist / Days",
+      "department": "Imaging & Radiology",
+      "location": "US-GA-Johns Creek",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-31T16:35:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163644/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.258473",
+      "unique_key": "e604d927c9d5038b",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2987272,
       "external_id": "160530",
       "title": "Patient Care Technician / PCT / Transplant 6T",
       "department": "Clinical & Nursing Support",
@@ -372,7 +1292,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634136,
+      "id": 2987270,
       "external_id": "161166",
       "title": "Guest Services Coordinator (ETS) | Temporary",
       "department": "Customer Service",
@@ -395,7 +1315,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634098,
+      "id": 2987232,
       "external_id": "163452",
       "title": "Patient Access Representative",
       "department": "Revenue Cycle & Managed Care",
@@ -418,7 +1338,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634110,
+      "id": 2987244,
       "external_id": "163063",
       "title": "RN Clinician / Primary Care",
       "department": "Nursing",
@@ -441,7 +1361,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634127,
+      "id": 2987261,
       "external_id": "162670",
       "title": "Neurodiagnostic Tech / WEO",
       "department": "Neurodiagnostics",
@@ -464,7 +1384,53 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634103,
+      "id": 2911574,
+      "external_id": "163629",
+      "title": "Phlebotomy Tech",
+      "department": "Laboratory",
+      "location": "US-GA-Johns Creek",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-31T14:50:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163629/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.258508",
+      "unique_key": "2437a6b39d425bf4",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2911573,
+      "external_id": "163632",
+      "title": "Specimen Processing Tech",
+      "department": "Laboratory",
+      "location": "US-GA-Johns Creek",
+      "state": "",
+      "city": "",
+      "job_type": "",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-03-31T14:48:00",
+      "url": "https://ehccareers-emory.icims.com/jobs/jobs/163632/job",
+      "description": "",
+      "qualifications": "",
+      "scraped_at": "2026-04-02T08:17:25.258491",
+      "unique_key": "d94d9f6f86e003ae",
+      "company_name": "Emory Healthcare",
+      "subdomain": "ehccareers-emory.icims.com",
+      "portal_slug": "ehccareers-emory",
+      "sector": "university_hospital",
+      "ats_type": "icims"
+    },
+    {
+      "id": 2987237,
       "external_id": "163198",
       "title": "PCC - Complex Scheduler",
       "department": "",
@@ -487,7 +1453,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634126,
+      "id": 2987260,
       "external_id": "162691",
       "title": "Oncology Medical Assistant Proceduralist / MA",
       "department": "Clinical & Nursing Support",
@@ -510,7 +1476,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634137,
+      "id": 2987271,
       "external_id": "160740",
       "title": "RN Clinician Educator",
       "department": "Nursing",
@@ -533,7 +1499,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634134,
+      "id": 2987268,
       "external_id": "161477",
       "title": "Patient Arrival Specialist",
       "department": "Clerical & Administrative",
@@ -556,7 +1522,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634113,
+      "id": 2987247,
       "external_id": "162965",
       "title": "Surgical ICU Registered Nurse / RN",
       "department": "Nursing",
@@ -579,7 +1545,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634133,
+      "id": 2987267,
       "external_id": "161769",
       "title": "Patient Arrival Specialist",
       "department": "Clerical & Administrative",
@@ -602,7 +1568,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634092,
+      "id": 2987226,
       "external_id": "163504",
       "title": "Paramedic / Mobile ICU / 7pm - 7:30am",
       "department": "Clinical & Nursing Support",
@@ -625,7 +1591,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634093,
+      "id": 2987227,
       "external_id": "163502",
       "title": "Paramedic / Mobile ICU / 7am - 7:30pm",
       "department": "Clinical & Nursing Support",
@@ -648,7 +1614,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634128,
+      "id": 2987262,
       "external_id": "162573",
       "title": "Neuro ICU Registered Nurse / RN",
       "department": "Nursing",
@@ -671,7 +1637,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634139,
+      "id": 2987273,
       "external_id": "159553",
       "title": "Registered Nurse / Cardiac Observation",
       "department": "Nursing",
@@ -694,7 +1660,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634130,
+      "id": 2987264,
       "external_id": "162399",
       "title": "CVICU Registered Nurse / RN",
       "department": "Nursing",
@@ -717,7 +1683,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634129,
+      "id": 2987263,
       "external_id": "162400",
       "title": "CVICU Registered Nurse / RN",
       "department": "Nursing",
@@ -740,7 +1706,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634111,
+      "id": 2987245,
       "external_id": "163045",
       "title": "Patient Care Technician / PCT / WEM Lung/Hem Onc Inpatient",
       "department": "Clinical & Nursing Support",
@@ -763,7 +1729,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634112,
+      "id": 2987246,
       "external_id": "163043",
       "title": "Patient Care Technician / PCT / WEM Lung/Hem Onc Inpatient",
       "department": "Clinical & Nursing Support",
@@ -786,7 +1752,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634150,
+      "id": 2987284,
       "external_id": "150075",
       "title": "Data Analyst II- Supply Chain",
       "department": "Information Technology",
@@ -809,7 +1775,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634131,
+      "id": 2987265,
       "external_id": "162249",
       "title": "Patient Arrival Specialist",
       "department": "Clerical & Administrative",
@@ -832,7 +1798,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634097,
+      "id": 2987231,
       "external_id": "163479",
       "title": "Patient Arrival Specialist",
       "department": "",
@@ -855,7 +1821,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634096,
+      "id": 2987230,
       "external_id": "163480",
       "title": "Patient Arrival Specialist",
       "department": "",
@@ -878,7 +1844,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634142,
+      "id": 2987276,
       "external_id": "158222",
       "title": "Interventional Radiology Registered Nurse / RN",
       "department": "Nursing",
@@ -901,7 +1867,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634144,
+      "id": 2987278,
       "external_id": "157170",
       "title": "Cardiovascular Specialist II",
       "department": "Nursing",
@@ -924,7 +1890,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634145,
+      "id": 2987279,
       "external_id": "156397",
       "title": "Cardiovascular Specialist",
       "department": "Nursing",
@@ -947,7 +1913,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634148,
+      "id": 2987282,
       "external_id": "154874",
       "title": "Patient Care Coordinator",
       "department": "Clinical & Nursing Support",
@@ -970,7 +1936,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634149,
+      "id": 2987283,
       "external_id": "153993",
       "title": "Interventional Vascular Specialist",
       "department": "Nursing",
@@ -993,7 +1959,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634115,
+      "id": 2987249,
       "external_id": "162930",
       "title": "PACU Registered Nurse",
       "department": "Nursing",
@@ -1016,7 +1982,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634114,
+      "id": 2987248,
       "external_id": "162931",
       "title": "PACU Charge Nurse",
       "department": "Nursing",
@@ -1039,7 +2005,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634141,
+      "id": 2987275,
       "external_id": "158264",
       "title": "Surgical Oncology Registered Nurse / RN",
       "department": "Nursing",
@@ -1062,7 +2028,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634124,
+      "id": 2987258,
       "external_id": "162836",
       "title": "Maintenance Mechanic Specialist",
       "department": "Facility Support and Building Maintenance",
@@ -1085,7 +2051,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634125,
+      "id": 2987259,
       "external_id": "162702",
       "title": "Patient Arrival Specialist",
       "department": "",
@@ -1108,7 +2074,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634090,
+      "id": 2987224,
       "external_id": "163529",
       "title": "Patient Arrival Specialist",
       "department": "Clerical & Administrative",
@@ -1131,7 +2097,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634106,
+      "id": 2987240,
       "external_id": "163133",
       "title": "Endoscopy Unit Nurse Educator",
       "department": "Nursing",
@@ -1154,7 +2120,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634143,
+      "id": 2987277,
       "external_id": "158011",
       "title": "Patient Care Coordinator",
       "department": "Clerical & Administrative",
@@ -1177,7 +2143,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634095,
+      "id": 2987229,
       "external_id": "163483",
       "title": "RN / Outpatient Cardiology",
       "department": "Nursing",
@@ -1200,7 +2166,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634094,
+      "id": 2987228,
       "external_id": "163484",
       "title": "RN / CT Surgery Clinic",
       "department": "Nursing",
@@ -1223,7 +2189,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634100,
+      "id": 2987234,
       "external_id": "163295",
       "title": "RN / Vascular Surgery Clinic",
       "department": "Nursing",
@@ -1246,7 +2212,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634132,
+      "id": 2987266,
       "external_id": "161930",
       "title": "Breast,GYN and Ortho Oncology / RN",
       "department": "Nursing",
@@ -1269,7 +2235,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634101,
+      "id": 2987235,
       "external_id": "163256",
       "title": "Patient Care Coordinator",
       "department": "Clinical & Nursing Support",
@@ -1292,7 +2258,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634102,
+      "id": 2987236,
       "external_id": "163216",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -1315,7 +2281,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634151,
+      "id": 2987285,
       "external_id": "146594",
       "title": "Charge Nurse / RN / General Surgery Clinic",
       "department": "Nursing",
@@ -1338,7 +2304,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634107,
+      "id": 2987241,
       "external_id": "163099",
       "title": "Oncology Infusion Registered Nurse / RN",
       "department": "Nursing",
@@ -1361,7 +2327,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634099,
+      "id": 2987233,
       "external_id": "163355",
       "title": "RN / Outpatient Cardiology",
       "department": "Nursing",
@@ -1384,7 +2350,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634152,
+      "id": 2987286,
       "external_id": "145134",
       "title": "Nurse Manager / Cardiac Device / Outpatient Cardiology",
       "department": "Nursing",
@@ -1407,7 +2373,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634091,
+      "id": 2987225,
       "external_id": "163523",
       "title": "Patient Arrival Specialist",
       "department": "",
@@ -1430,7 +2396,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634123,
+      "id": 2987257,
       "external_id": "162840",
       "title": "Unit Clerk",
       "department": "Clerical & Administrative",
@@ -1453,7 +2419,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706722,
+      "id": 2988312,
       "external_id": "162749",
       "title": "Medical Surgical Registered Nurse / RN",
       "department": "Nursing",
@@ -1476,7 +2442,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706725,
+      "id": 2988315,
       "external_id": "162664",
       "title": "RN / WEO plus 2 Weekdays / Telehealth Nursing",
       "department": "Nursing",
@@ -1499,7 +2465,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706724,
+      "id": 2988314,
       "external_id": "162696",
       "title": "RN / Outpatient Cardiology",
       "department": "Nursing",
@@ -1522,7 +2488,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706749,
+      "id": 2988339,
       "external_id": "157168",
       "title": "Medical Assistant / PRN / General Surgery Clinic",
       "department": "Clinical & Nursing Support",
@@ -1545,7 +2511,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706752,
+      "id": 2988342,
       "external_id": "153918",
       "title": "Patient Care Tech I",
       "department": "Clinical & Nursing Support",
@@ -1568,7 +2534,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706703,
+      "id": 2988293,
       "external_id": "163277",
       "title": "NICU  Nurse Manager / RN",
       "department": "Nursing",
@@ -1591,7 +2557,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706701,
+      "id": 2988291,
       "external_id": "163362",
       "title": "Enterprise Denials Strategy, Lead",
       "department": "Business Operations",
@@ -1614,7 +2580,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706734,
+      "id": 2988324,
       "external_id": "161550",
       "title": "Pre/Post op RN",
       "department": "Nursing",
@@ -1637,7 +2603,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706747,
+      "id": 2988337,
       "external_id": "157572",
       "title": "Intensive Care Unit / Oncology RN",
       "department": "Nursing",
@@ -1660,7 +2626,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706737,
+      "id": 2988327,
       "external_id": "160644",
       "title": "Hemapheresis Unit Educator Registered Nurse / RN",
       "department": "Nursing",
@@ -1683,7 +2649,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706740,
+      "id": 2988330,
       "external_id": "159705",
       "title": "Ophthalmic Assistant / COA",
       "department": "Clinical & Nursing Support",
@@ -1706,7 +2672,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634089,
+      "id": 2987223,
       "external_id": "163571",
       "title": "Addiction Counselor",
       "department": "Social Work/Behavioral Health",
@@ -1729,7 +2695,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706736,
+      "id": 2988326,
       "external_id": "160980",
       "title": "Barista - Starbucks",
       "department": "Facility Support and Building Maintenance",
@@ -1752,7 +2718,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706721,
+      "id": 2988311,
       "external_id": "162772",
       "title": "Dining Services Associate",
       "department": "Food Services",
@@ -1775,7 +2741,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706746,
+      "id": 2988336,
       "external_id": "157627",
       "title": "Food & Nutrition Associate",
       "department": "Food Services",
@@ -1798,7 +2764,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706744,
+      "id": 2988334,
       "external_id": "158322",
       "title": "Sterile Processing Tech",
       "department": "Clinical & Nursing Support",
@@ -1821,7 +2787,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706728,
+      "id": 2988318,
       "external_id": "162462",
       "title": "Patient Transporter",
       "department": "Facility Support and Building Maintenance",
@@ -1844,7 +2810,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706709,
+      "id": 2988299,
       "external_id": "163116",
       "title": "Patient Access Representative",
       "department": "Revenue Cycle & Managed Care",
@@ -1867,7 +2833,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706710,
+      "id": 2988300,
       "external_id": "163108",
       "title": "Patient Access Representative",
       "department": "Revenue Cycle & Managed Care",
@@ -1890,7 +2856,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706708,
+      "id": 2988298,
       "external_id": "163185",
       "title": "Patient Transporter",
       "department": "Facility Support and Building Maintenance",
@@ -1913,7 +2879,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706723,
+      "id": 2988313,
       "external_id": "162714",
       "title": "Winship Immediate Care Center Registered Nurse / RN",
       "department": "Nursing",
@@ -1936,7 +2902,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706741,
+      "id": 2988331,
       "external_id": "159703",
       "title": "Environmental Services Technician",
       "department": "Facility Support and Building Maintenance",
@@ -1959,7 +2925,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706727,
+      "id": 2988317,
       "external_id": "162476",
       "title": "PRN APP Interventional Radiology",
       "department": "Advanced Practice Providers",
@@ -1982,7 +2948,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706751,
+      "id": 2988341,
       "external_id": "154865",
       "title": "Accreditation Manager",
       "department": "Nursing",
@@ -2005,7 +2971,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706750,
+      "id": 2988340,
       "external_id": "156164",
       "title": "ICU Registered Nurse/ RN",
       "department": "Nursing",
@@ -2028,7 +2994,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706726,
+      "id": 2988316,
       "external_id": "162548",
       "title": "ICU Registered Nurse / RN",
       "department": "Nursing",
@@ -2051,7 +3017,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634157,
+      "id": 2987291,
       "external_id": "117549",
       "title": "CRNA / CAA - Weekdays only, No Call",
       "department": "Advanced Practice Providers",
@@ -2074,7 +3040,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634154,
+      "id": 2987288,
       "external_id": "122547",
       "title": "CRNA / CAA PRN - ESA ASC LaGrange GA",
       "department": "Advanced Practice Providers",
@@ -2097,7 +3063,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634156,
+      "id": 2987290,
       "external_id": "117583",
       "title": "CRNA / CAA - Cardiac Team",
       "department": "Advanced Practice Providers",
@@ -2120,7 +3086,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634155,
+      "id": 2987289,
       "external_id": "118608",
       "title": "CRNA / CAA - Emory University Hospital",
       "department": "Advanced Practice Providers",
@@ -2143,7 +3109,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706745,
+      "id": 2988335,
       "external_id": "158023",
       "title": "Patient Arrival Specialist",
       "department": "Clerical & Administrative",
@@ -2166,7 +3132,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706729,
+      "id": 2988319,
       "external_id": "161999",
       "title": "Oncology Registered Nurse / RN",
       "department": "Nursing",
@@ -2189,7 +3155,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706748,
+      "id": 2988338,
       "external_id": "157356",
       "title": "Director of Oncology Navigation & Support Services",
       "department": "Nursing",
@@ -2212,7 +3178,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706735,
+      "id": 2988325,
       "external_id": "161444",
       "title": "Intermediate Surgical Oncology / RN",
       "department": "Nursing",
@@ -2235,7 +3201,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706711,
+      "id": 2988301,
       "external_id": "163040",
       "title": "Inpatient Oncology Unit Charge Nurse / RN",
       "department": "Nursing",
@@ -2258,7 +3224,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706712,
+      "id": 2988302,
       "external_id": "163038",
       "title": "Inpatient Oncology Unit Charge Nurse / RN",
       "department": "Nursing",
@@ -2281,7 +3247,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706713,
+      "id": 2988303,
       "external_id": "163026",
       "title": "Inpatient Oncology Registered Nurse / RN",
       "department": "Nursing",
@@ -2304,7 +3270,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706732,
+      "id": 2988322,
       "external_id": "161858",
       "title": "Environmental Services Technician",
       "department": "Facility Support and Building Maintenance",
@@ -2327,7 +3293,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706715,
+      "id": 2988305,
       "external_id": "163012",
       "title": "Surgical Oncology Registered Nurse / RN",
       "department": "Nursing",
@@ -2350,7 +3316,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706719,
+      "id": 2988309,
       "external_id": "162876",
       "title": "Unit Educator Medical Oncology / RN",
       "department": "Nursing",
@@ -2373,7 +3339,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706718,
+      "id": 2988308,
       "external_id": "162878",
       "title": "Medical Oncology Registered Nurse / RN",
       "department": "Nursing",
@@ -2396,7 +3362,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706738,
+      "id": 2988328,
       "external_id": "160293",
       "title": "Pharmacy Technician",
       "department": "Pharmacy",
@@ -2419,7 +3385,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706698,
+      "id": 2988288,
       "external_id": "163528",
       "title": "Administrative Assistant",
       "department": "Clerical & Administrative",
@@ -2442,7 +3408,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706702,
+      "id": 2988292,
       "external_id": "163301",
       "title": "Interventional Radiology Technologist",
       "department": "Imaging & Radiology",
@@ -2465,7 +3431,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706707,
+      "id": 2988297,
       "external_id": "163188",
       "title": "Radiologic Technologist / Nights",
       "department": "Imaging & Radiology",
@@ -2488,7 +3454,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706731,
+      "id": 2988321,
       "external_id": "161908",
       "title": "Physical Therapist / PRN",
       "department": "Therapy",
@@ -2511,7 +3477,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706704,
+      "id": 2988294,
       "external_id": "163263",
       "title": "Medical Oncology Registered Nurse / RN",
       "department": "Nursing",
@@ -2534,7 +3500,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2634153,
+      "id": 2987287,
       "external_id": "144553",
       "title": "Medical Assistant Apprentice",
       "department": "Clinical & Nursing Support",
@@ -2557,7 +3523,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706730,
+      "id": 2988320,
       "external_id": "161911",
       "title": "Breast GYN and Ortho Oncology / RN",
       "department": "Nursing",
@@ -2580,7 +3546,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706742,
+      "id": 2988332,
       "external_id": "158798",
       "title": "Patient Care Tech II",
       "department": "Clinical & Nursing Support",
@@ -2603,7 +3569,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706733,
+      "id": 2988323,
       "external_id": "161851",
       "title": "RN / Nights with Rotating Weekends / Telehealth Nursing",
       "department": "Nursing",
@@ -2626,7 +3592,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706706,
+      "id": 2988296,
       "external_id": "163195",
       "title": "RN Clinician / Dermatology",
       "department": "Nursing",
@@ -2649,7 +3615,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706717,
+      "id": 2988307,
       "external_id": "162991",
       "title": "Rehab Therapy Aide / PRN",
       "department": "Therapy",
@@ -2672,7 +3638,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706716,
+      "id": 2988306,
       "external_id": "162992",
       "title": "Physical Therapist / PRN",
       "department": "Therapy",
@@ -2695,7 +3661,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706739,
+      "id": 2988329,
       "external_id": "160096",
       "title": "RN / Vascular Surgery Clinic",
       "department": "Nursing",
@@ -2718,7 +3684,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706699,
+      "id": 2988289,
       "external_id": "163464",
       "title": "Athletic Trainer",
       "department": "Therapy",
@@ -2741,7 +3707,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706700,
+      "id": 2988290,
       "external_id": "163372",
       "title": "NP/PA, Hospital Medicine, Emory Long Term Acute Care",
       "department": "Advanced Practice Providers",
@@ -2764,7 +3730,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706714,
+      "id": 2988304,
       "external_id": "163018",
       "title": "Licensed Practical Nurse",
       "department": "Nursing",
@@ -2787,7 +3753,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706720,
+      "id": 2988310,
       "external_id": "162775",
       "title": "Food & Nutrition Associate, Lead",
       "department": "Food Services",
@@ -2810,7 +3776,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706743,
+      "id": 2988333,
       "external_id": "158680",
       "title": "Op Excellence Specialist II",
       "department": "Business Operations",
@@ -2833,7 +3799,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706705,
+      "id": 2988295,
       "external_id": "163231",
       "title": "Onboarding Specialist (ETS) | Temporary",
       "department": "Business Operations",
@@ -2856,7 +3822,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706961,
+      "id": 2988551,
       "external_id": "163161",
       "title": "Medical Lab Assistant",
       "department": "Laboratory",
@@ -2879,7 +3845,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706960,
+      "id": 2988550,
       "external_id": "163172",
       "title": "Phlebotomy Tech",
       "department": "Laboratory",
@@ -2902,7 +3868,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2706959,
+      "id": 2988549,
       "external_id": "163174",
       "title": "Phlebotomy Tech",
       "department": "Laboratory",
@@ -2925,7 +3891,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707226,
+      "id": 2988816,
       "external_id": "162427",
       "title": "Patient Care Technician / PCT / ICU",
       "department": "Clinical & Nursing Support",
@@ -2948,7 +3914,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707225,
+      "id": 2988815,
       "external_id": "162428",
       "title": "Patient Care Technician / PCT / ICU",
       "department": "Clinical & Nursing Support",
@@ -2971,7 +3937,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707228,
+      "id": 2988818,
       "external_id": "162424",
       "title": "Patient Care Technician / PCT / ICU",
       "department": "Clinical & Nursing Support",
@@ -2994,7 +3960,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707227,
+      "id": 2988817,
       "external_id": "162425",
       "title": "Patient Care Technician / PCT / ICU",
       "department": "Clinical & Nursing Support",
@@ -3017,7 +3983,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707216,
+      "id": 2988806,
       "external_id": "162984",
       "title": "Patient Care Technician / PCT / Cardiology",
       "department": "Clinical & Nursing Support",
@@ -3040,7 +4006,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707215,
+      "id": 2988805,
       "external_id": "162985",
       "title": "Patient Care Technician / PCT / Cardiology",
       "department": "Clinical & Nursing Support",
@@ -3063,7 +4029,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707217,
+      "id": 2988807,
       "external_id": "162983",
       "title": "Patient Care Technician / PCT / Cardiology",
       "department": "Clinical & Nursing Support",
@@ -3086,7 +4052,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707221,
+      "id": 2988811,
       "external_id": "162934",
       "title": "Patient Care Technician / PCT / PACU",
       "department": "Clinical & Nursing Support",
@@ -3109,7 +4075,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707218,
+      "id": 2988808,
       "external_id": "162973",
       "title": "Patient Care Technician / Complex Med 6G",
       "department": "Clinical & Nursing Support",
@@ -3132,7 +4098,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707219,
+      "id": 2988809,
       "external_id": "162972",
       "title": "Patient Care Technician / PCT / Complex Med 6G",
       "department": "Clinical & Nursing Support",
@@ -3155,7 +4121,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707222,
+      "id": 2988812,
       "external_id": "162479",
       "title": "Patient Care Technician / PCT / Moderate Care Unit",
       "department": "Clinical & Nursing Support",
@@ -3178,7 +4144,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707223,
+      "id": 2988813,
       "external_id": "162478",
       "title": "Patient Care Technician / PCT / Moderate Care Unit",
       "department": "Clinical & Nursing Support",
@@ -3201,7 +4167,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707224,
+      "id": 2988814,
       "external_id": "162477",
       "title": "Patient Care Technician / PCT / Moderate Care Unit",
       "department": "Clinical & Nursing Support",
@@ -3224,7 +4190,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707229,
+      "id": 2988819,
       "external_id": "162374",
       "title": "Patient Care Technician /PCT/ Neuro- Neuro/Surgery",
       "department": "Clinical & Nursing Support",
@@ -3247,7 +4213,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707230,
+      "id": 2988820,
       "external_id": "162372",
       "title": "Patient Care Technician / PCT / Neuro -Neuro/ Surgery",
       "department": "Clinical & Nursing Support",
@@ -3270,7 +4236,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707220,
+      "id": 2988810,
       "external_id": "162959",
       "title": "Patient Care Technician / PCT / Cardiology",
       "department": "Clinical & Nursing Support",
@@ -3293,7 +4259,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707870,
+      "id": 2989460,
       "external_id": "162941",
       "title": "Clinical Risk Manager",
       "department": "Nursing",
@@ -3316,7 +4282,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707879,
+      "id": 2989469,
       "external_id": "161419",
       "title": "Data Analyst III - Transplant",
       "department": "Information Technology",
@@ -3339,7 +4305,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707871,
+      "id": 2989461,
       "external_id": "162937",
       "title": "Pharmacy Technician",
       "department": "Pharmacy",
@@ -3362,7 +4328,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707865,
+      "id": 2989455,
       "external_id": "163142",
       "title": "Director, Patient Care Service / Physician Division",
       "department": "Nursing",
@@ -3385,7 +4351,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707869,
+      "id": 2989459,
       "external_id": "162944",
       "title": "Administrative Assistant",
       "department": "Clerical & Administrative",
@@ -3408,7 +4374,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707876,
+      "id": 2989466,
       "external_id": "161968",
       "title": "Food & Nutrition Associate Sanitation",
       "department": "Food Services",
@@ -3431,7 +4397,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707877,
+      "id": 2989467,
       "external_id": "161966",
       "title": "Food & Nutrition Associate (sanitation)",
       "department": "Food Services",
@@ -3454,7 +4420,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707878,
+      "id": 2989468,
       "external_id": "161641",
       "title": "Phlebotomy Tech",
       "department": "Laboratory",
@@ -3477,7 +4443,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707872,
+      "id": 2989462,
       "external_id": "162915",
       "title": "Patient Access Specialist",
       "department": "Clerical & Administrative",
@@ -3500,7 +4466,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707874,
+      "id": 2989464,
       "external_id": "162865",
       "title": "Supervisor, Operations",
       "department": "Clerical & Administrative",
@@ -3523,7 +4489,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707873,
+      "id": 2989463,
       "external_id": "162880",
       "title": "Patient Services Coordinator One",
       "department": "Clerical & Administrative",
@@ -3546,7 +4512,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707868,
+      "id": 2989458,
       "external_id": "163004",
       "title": "Unit Clerk",
       "department": "Clerical & Administrative",
@@ -3569,7 +4535,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707867,
+      "id": 2989457,
       "external_id": "163071",
       "title": "Call Center Associate",
       "department": "Food Services",
@@ -3592,7 +4558,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707875,
+      "id": 2989465,
       "external_id": "162442",
       "title": "Dining Services Associate",
       "department": "Food Services",
@@ -3615,7 +4581,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2707866,
+      "id": 2989456,
       "external_id": "163105",
       "title": "Food & Nutrition Associate",
       "department": "Food Services",
@@ -3638,7 +4604,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708080,
+      "id": 2989670,
       "external_id": "162825",
       "title": "Maintenance Mechanic",
       "department": "Facility Support and Building Maintenance",
@@ -3661,7 +4627,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708079,
+      "id": 2989669,
       "external_id": "162829",
       "title": "Maintenance Mechanic Specialist",
       "department": "Facility Support and Building Maintenance",
@@ -3684,7 +4650,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708078,
+      "id": 2989668,
       "external_id": "162833",
       "title": "Maintenance Mechanic Specialist",
       "department": "Facility Support and Building Maintenance",
@@ -3707,7 +4673,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708077,
+      "id": 2989667,
       "external_id": "162834",
       "title": "Maintenance Mechanic Specialist",
       "department": "Facility Support and Building Maintenance",
@@ -3730,7 +4696,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708076,
+      "id": 2989666,
       "external_id": "162835",
       "title": "Maintenance Mechanic Specialist",
       "department": "Facility Support and Building Maintenance",
@@ -3753,7 +4719,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708084,
+      "id": 2989674,
       "external_id": "162657",
       "title": "Maintenance Supervisor",
       "department": "Facility Support and Building Maintenance",
@@ -3776,7 +4742,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708141,
+      "id": 2989731,
       "external_id": "152782",
       "title": "Medical Physicist Assistant",
       "department": "Business Operations",
@@ -3799,7 +4765,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708088,
+      "id": 2989678,
       "external_id": "162458",
       "title": "Anesthesia Technologist / PRN",
       "department": "Clinical & Nursing Support",
@@ -3822,7 +4788,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708085,
+      "id": 2989675,
       "external_id": "162580",
       "title": "Sterile Processing Technician / Evenings",
       "department": "Clinical & Nursing Support",
@@ -3845,7 +4811,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708081,
+      "id": 2989671,
       "external_id": "162720",
       "title": "Endoscopy Technician / PRN",
       "department": "Clinical & Nursing Support",
@@ -3868,7 +4834,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708082,
+      "id": 2989672,
       "external_id": "162686",
       "title": "Endoscopy Technician",
       "department": "Clinical & Nursing Support",
@@ -3891,7 +4857,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708106,
+      "id": 2989696,
       "external_id": "160329",
       "title": "Endoscopy Technician",
       "department": "Clinical & Nursing Support",
@@ -3914,7 +4880,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708150,
+      "id": 2989740,
       "external_id": "115834",
       "title": "Orthopedic and Spine OR First Assistant",
       "department": "Nursing",
@@ -3937,7 +4903,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708119,
+      "id": 2989709,
       "external_id": "157514",
       "title": "RN / General GI Surgery Clinic",
       "department": "Nursing",
@@ -3960,7 +4926,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708083,
+      "id": 2989673,
       "external_id": "162659",
       "title": "Medical Lab Scientist / Weekends",
       "department": "Laboratory",
@@ -3983,7 +4949,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708090,
+      "id": 2989680,
       "external_id": "162351",
       "title": "Medical ICU Registered Nurse / RN",
       "department": "Nursing",
@@ -4006,7 +4972,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708089,
+      "id": 2989679,
       "external_id": "162412",
       "title": "Medical Lab Scientist / Generalist",
       "department": "Laboratory",
@@ -4029,7 +4995,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708075,
+      "id": 2989665,
       "external_id": "162859",
       "title": "Medical Lab Scientist",
       "department": "Laboratory",
@@ -4052,7 +5018,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708124,
+      "id": 2989714,
       "external_id": "156973",
       "title": "Occupational Therapist",
       "department": "Therapy",
@@ -4075,7 +5041,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708104,
+      "id": 2989694,
       "external_id": "160659",
       "title": "Clinical Assistant Manager / Athletic Training",
       "department": "Therapy",
@@ -4098,7 +5064,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708105,
+      "id": 2989695,
       "external_id": "160612",
       "title": "Occupational Therapist / Outpatient",
       "department": "Therapy",
@@ -4121,7 +5087,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708123,
+      "id": 2989713,
       "external_id": "157054",
       "title": "Certified Hand Specialist",
       "department": "Therapy",
@@ -4144,7 +5110,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708144,
+      "id": 2989734,
       "external_id": "151369",
       "title": "Physical Therapist / PRN / Outpatient",
       "department": "Therapy",
@@ -4167,7 +5133,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708143,
+      "id": 2989733,
       "external_id": "151370",
       "title": "Physical Therapist Assistant / Outpatient",
       "department": "Therapy",
@@ -4190,7 +5156,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708136,
+      "id": 2989726,
       "external_id": "154955",
       "title": "Physical Therapist / PRN",
       "department": "Therapy",
@@ -4213,7 +5179,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708142,
+      "id": 2989732,
       "external_id": "151435",
       "title": "Occupational Therapist / PRN",
       "department": "Therapy",
@@ -4236,7 +5202,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708140,
+      "id": 2989730,
       "external_id": "153156",
       "title": "Speech Pathologist / PRN",
       "department": "Therapy",
@@ -4259,7 +5225,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708110,
+      "id": 2989700,
       "external_id": "159533",
       "title": "Physical Therapist / PRN",
       "department": "Therapy",
@@ -4282,7 +5248,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708101,
+      "id": 2989691,
       "external_id": "161473",
       "title": "Occupational Therapist / Part Time",
       "department": "Therapy",
@@ -4305,7 +5271,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708100,
+      "id": 2989690,
       "external_id": "161599",
       "title": "Speech Pathologist / PRN",
       "department": "Therapy",
@@ -4328,7 +5294,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708107,
+      "id": 2989697,
       "external_id": "160016",
       "title": "Speech Pathologist / Weekends",
       "department": "Therapy",
@@ -4351,7 +5317,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708129,
+      "id": 2989719,
       "external_id": "155676",
       "title": "Occupational Therapist / PRN",
       "department": "Therapy",
@@ -4374,7 +5340,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708094,
+      "id": 2989684,
       "external_id": "162017",
       "title": "Mental Health Associate / Nights",
       "department": "Clinical & Nursing Support",
@@ -4397,7 +5363,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708130,
+      "id": 2989720,
       "external_id": "155675",
       "title": "Physical Therapist / PRN",
       "department": "Therapy",
@@ -4420,7 +5386,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708117,
+      "id": 2989707,
       "external_id": "157875",
       "title": "Occupational Therapist / Outpatient",
       "department": "Therapy",
@@ -4443,7 +5409,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708116,
+      "id": 2989706,
       "external_id": "158070",
       "title": "Rehab Clinic Manager / Physical Therapy",
       "department": "Therapy",
@@ -4466,7 +5432,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708133,
+      "id": 2989723,
       "external_id": "155326",
       "title": "Physical Therapist / PRN / Outpatient",
       "department": "Therapy",
@@ -4489,7 +5455,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708132,
+      "id": 2989722,
       "external_id": "155333",
       "title": "Occupational Therapist / Outpatient",
       "department": "Therapy",
@@ -4512,7 +5478,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708134,
+      "id": 2989724,
       "external_id": "155156",
       "title": "Addiction Counselor",
       "department": "Social Work/Behavioral Health",
@@ -4535,7 +5501,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708097,
+      "id": 2989687,
       "external_id": "161705",
       "title": "Athletic Trainer / Surgical",
       "department": "Therapy",
@@ -4558,7 +5524,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708131,
+      "id": 2989721,
       "external_id": "155516",
       "title": "Athletic Trainer",
       "department": "Therapy",
@@ -4581,7 +5547,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708148,
+      "id": 2989738,
       "external_id": "147792",
       "title": "Occupational Therapist / PRN",
       "department": "Therapy",
@@ -4604,7 +5570,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708146,
+      "id": 2989736,
       "external_id": "150159",
       "title": "Speech Pathologist / PRN",
       "department": "Therapy",
@@ -4627,7 +5593,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708145,
+      "id": 2989735,
       "external_id": "151100",
       "title": "Occupational Therapist / PRN",
       "department": "Therapy",
@@ -4650,7 +5616,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708115,
+      "id": 2989705,
       "external_id": "158282",
       "title": "Speech Pathologist / PRN",
       "department": "Therapy",
@@ -4673,7 +5639,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708149,
+      "id": 2989739,
       "external_id": "147459",
       "title": "Occupational Therapist / PRN",
       "department": "Therapy",
@@ -4696,7 +5662,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708086,
+      "id": 2989676,
       "external_id": "162527",
       "title": "Senior Manager, Operations",
       "department": "Business Operations",
@@ -4719,7 +5685,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708121,
+      "id": 2989711,
       "external_id": "157360",
       "title": "Exercise Physiologist",
       "department": "Therapy",
@@ -4742,7 +5708,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708112,
+      "id": 2989702,
       "external_id": "159149",
       "title": "Speech Pathologist / PRN",
       "department": "Therapy",
@@ -4765,7 +5731,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708102,
+      "id": 2989692,
       "external_id": "161377",
       "title": "Physical Therapist / Outpatient",
       "department": "Therapy",
@@ -4788,7 +5754,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708114,
+      "id": 2989704,
       "external_id": "159137",
       "title": "Physical Therapist / PRN",
       "department": "Therapy",
@@ -4811,7 +5777,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708113,
+      "id": 2989703,
       "external_id": "159138",
       "title": "Physical Therapist / PRN",
       "department": "Therapy",
@@ -4834,7 +5800,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708118,
+      "id": 2989708,
       "external_id": "157674",
       "title": "Occupational Therapist / Outpatient",
       "department": "Therapy",
@@ -4857,7 +5823,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708103,
+      "id": 2989693,
       "external_id": "161376",
       "title": "Physical Therapist / PRN / Outpatient",
       "department": "Therapy",
@@ -4880,7 +5846,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708126,
+      "id": 2989716,
       "external_id": "156958",
       "title": "Physical Therapist / PRN / Outpatient",
       "department": "Therapy",
@@ -4903,7 +5869,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708125,
+      "id": 2989715,
       "external_id": "156959",
       "title": "Physical Therapist / Outpatient / PRN",
       "department": "Therapy",
@@ -4926,7 +5892,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708138,
+      "id": 2989728,
       "external_id": "154115",
       "title": "Physical Therapist / PRN / Outpatient",
       "department": "Therapy",
@@ -4949,7 +5915,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708122,
+      "id": 2989712,
       "external_id": "157173",
       "title": "Critical Care Stepdown LTAC Registered Nurse / RN",
       "department": "Nursing",
@@ -4972,7 +5938,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708147,
+      "id": 2989737,
       "external_id": "148840",
       "title": "Critical Care Stepdown LTAC Charge Nurse / RN",
       "department": "Nursing",
@@ -4995,7 +5961,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708099,
+      "id": 2989689,
       "external_id": "161614",
       "title": "Critical Care Stepdown Registered Nurse / RN",
       "department": "Nursing",
@@ -5018,7 +5984,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708139,
+      "id": 2989729,
       "external_id": "153278",
       "title": "Unit Charge Nurse Critical Care Stepdown / RN",
       "department": "Nursing",
@@ -5041,7 +6007,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708098,
+      "id": 2989688,
       "external_id": "161634",
       "title": "Unit Charge Nurse Critical Care Stepdown / RN",
       "department": "Nursing",
@@ -5064,7 +6030,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708128,
+      "id": 2989718,
       "external_id": "156140",
       "title": "Allergy, Asthma, Immunology NP / PA",
       "department": "Advanced Practice Providers",
@@ -5087,7 +6053,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708127,
+      "id": 2989717,
       "external_id": "156588",
       "title": "Nephrology Advanced Practice Provider ACNP / PA",
       "department": "Advanced Practice Providers",
@@ -5110,7 +6076,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708087,
+      "id": 2989677,
       "external_id": "162526",
       "title": "Patient Arrival Specialist",
       "department": "Clerical & Administrative",
@@ -5133,7 +6099,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708093,
+      "id": 2989683,
       "external_id": "162096",
       "title": "Patient Arrival Specialist",
       "department": "Clerical & Administrative",
@@ -5156,7 +6122,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708111,
+      "id": 2989701,
       "external_id": "159268",
       "title": "Supervisor, Priority Access",
       "department": "Clerical & Administrative",
@@ -5179,7 +6145,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708109,
+      "id": 2989699,
       "external_id": "159806",
       "title": "Patient Access Engagement Liaison - MyChart",
       "department": "Clerical & Administrative",
@@ -5202,7 +6168,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708092,
+      "id": 2989682,
       "external_id": "162103",
       "title": "Patient Access Priority Engagement Specialist Lead",
       "department": "Clerical & Administrative",
@@ -5225,7 +6191,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708120,
+      "id": 2989710,
       "external_id": "157447",
       "title": "Patient Access Engagement Liaison",
       "department": "Clerical & Administrative",
@@ -5248,7 +6214,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708137,
+      "id": 2989727,
       "external_id": "154570",
       "title": "Lead Orthopedic APP Ambulatory Clinic - NP / PA",
       "department": "Advanced Practice Providers",
@@ -5271,7 +6237,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708095,
+      "id": 2989685,
       "external_id": "161890",
       "title": "Infusion Registered Nurse / PRN",
       "department": "Nursing",
@@ -5294,7 +6260,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708108,
+      "id": 2989698,
       "external_id": "159820",
       "title": "RN / Outpatient Cardiology",
       "department": "Nursing",
@@ -5317,7 +6283,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708096,
+      "id": 2989686,
       "external_id": "161715",
       "title": "Patient Access Consultant",
       "department": "Business Operations",
@@ -5340,7 +6306,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708091,
+      "id": 2989681,
       "external_id": "162222",
       "title": "Maintenance Mechanic",
       "department": "Facility Support and Building Maintenance",
@@ -5363,7 +6329,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2708135,
+      "id": 2989725,
       "external_id": "155049",
       "title": "Imaging Services Assistant",
       "department": "Imaging & Radiology",
@@ -5386,7 +6352,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2709534,
+      "id": 2991124,
       "external_id": "162689",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -5409,7 +6375,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2709541,
+      "id": 2991131,
       "external_id": "161633",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -5432,7 +6398,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2709545,
+      "id": 2991135,
       "external_id": "159239",
       "title": "CVOR Registered Nurse",
       "department": "Nursing",
@@ -5455,7 +6421,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2709539,
+      "id": 2991129,
       "external_id": "162386",
       "title": "Manager, Language Access Services",
       "department": "Clerical & Administrative",
@@ -5478,7 +6444,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2709548,
+      "id": 2991138,
       "external_id": "146085",
       "title": "Patient Care Tech / Float Pool",
       "department": "Clinical & Nursing Support",
@@ -5501,7 +6467,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2709544,
+      "id": 2991134,
       "external_id": "159452",
       "title": "Medical Lab Technician/ Blood Bank",
       "department": "Laboratory",
@@ -5524,7 +6490,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2709533,
+      "id": 2991123,
       "external_id": "162916",
       "title": "Patient Care Technician / PCT / Acute Rehab",
       "department": "Clinical & Nursing Support",
@@ -5547,7 +6513,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2709531,
+      "id": 2991121,
       "external_id": "163055",
       "title": "Occupational Therapist / Outpatient / Part Time",
       "department": "Therapy",
@@ -5570,7 +6536,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2709547,
+      "id": 2991137,
       "external_id": "158054",
       "title": "Phlebotomy Tech Float",
       "department": "Laboratory",
@@ -5593,7 +6559,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2709538,
+      "id": 2991128,
       "external_id": "162406",
       "title": "Phlebotomy Tech",
       "department": "Laboratory",
@@ -5616,7 +6582,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2709542,
+      "id": 2991132,
       "external_id": "161537",
       "title": "Part Time Phlebotomist",
       "department": "Laboratory",
@@ -5639,7 +6605,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2709546,
+      "id": 2991136,
       "external_id": "159080",
       "title": "PRN Phlebotomy Tech",
       "department": "Laboratory",
@@ -5662,7 +6628,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2709543,
+      "id": 2991133,
       "external_id": "160257",
       "title": "Phlebotomy Tech",
       "department": "Laboratory",
@@ -5685,7 +6651,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2709540,
+      "id": 2991130,
       "external_id": "161789",
       "title": "PRN Phlebotomy Tech",
       "department": "Laboratory",
@@ -5708,7 +6674,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2709532,
+      "id": 2991122,
       "external_id": "162957",
       "title": "Radiologic Technologist Outpatient / Part-Time Days",
       "department": "Imaging & Radiology",
@@ -5731,7 +6697,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2709535,
+      "id": 2991125,
       "external_id": "162673",
       "title": "Neurodiagnostic Tech / WEO",
       "department": "Neurodiagnostics",
@@ -5754,7 +6720,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2709536,
+      "id": 2991126,
       "external_id": "162669",
       "title": "Neurodiagnostic Specialist",
       "department": "Clinical & Nursing Support",
@@ -5777,7 +6743,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2709537,
+      "id": 2991127,
       "external_id": "162633",
       "title": "Phlebotomy Tech / PRN",
       "department": "Laboratory",
@@ -5800,7 +6766,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710209,
+      "id": 2991799,
       "external_id": "159702",
       "title": "PCC - Complex Scheduler",
       "department": "Clerical & Administrative",
@@ -5823,7 +6789,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710187,
+      "id": 2991777,
       "external_id": "161898",
       "title": "Pharmacy Intern",
       "department": "Pharmacy",
@@ -5846,7 +6812,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710180,
+      "id": 2991770,
       "external_id": "162494",
       "title": "Guest Services Associate",
       "department": "Clerical & Administrative",
@@ -5869,7 +6835,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710178,
+      "id": 2991768,
       "external_id": "162530",
       "title": "Guest Services Associate",
       "department": "Clerical & Administrative",
@@ -5892,7 +6858,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710177,
+      "id": 2991767,
       "external_id": "162532",
       "title": "Guest Services Associate",
       "department": "Clerical & Administrative",
@@ -5915,7 +6881,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710245,
+      "id": 2991835,
       "external_id": "148884",
       "title": "Guest Services Associate",
       "department": "Clerical & Administrative",
@@ -5938,7 +6904,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710240,
+      "id": 2991830,
       "external_id": "153340",
       "title": "Guest Services Associate",
       "department": "Clerical & Administrative",
@@ -5961,7 +6927,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710167,
+      "id": 2991757,
       "external_id": "162976",
       "title": "LPN / Primary Care",
       "department": "Nursing",
@@ -5984,7 +6950,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710170,
+      "id": 2991760,
       "external_id": "162869",
       "title": "RN Clinician / Ortho",
       "department": "Nursing",
@@ -6007,7 +6973,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710163,
+      "id": 2991753,
       "external_id": "163052",
       "title": "Emergency Medical Tech / Delta",
       "department": "Clinical & Nursing Support",
@@ -6030,7 +6996,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710238,
+      "id": 2991828,
       "external_id": "154292",
       "title": "Sterile Processing Tech III",
       "department": "Clinical & Nursing Support",
@@ -6053,7 +7019,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710198,
+      "id": 2991788,
       "external_id": "161317",
       "title": "RN Care Coordinator / Infectious Disease",
       "department": "Nursing",
@@ -6076,7 +7042,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710204,
+      "id": 2991794,
       "external_id": "161036",
       "title": "Medical Assistant / Nephrology",
       "department": "Clinical & Nursing Support",
@@ -6099,7 +7065,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710171,
+      "id": 2991761,
       "external_id": "162739",
       "title": "Medical Assistant / Primary Care",
       "department": "Clinical & Nursing Support",
@@ -6122,7 +7088,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710188,
+      "id": 2991778,
       "external_id": "161857",
       "title": "LPN Patient Navigator / Transplant",
       "department": "Nursing",
@@ -6145,7 +7111,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710189,
+      "id": 2991779,
       "external_id": "161856",
       "title": "LPN Patient Navigator / Transplant",
       "department": "Nursing",
@@ -6168,7 +7134,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710181,
+      "id": 2991771,
       "external_id": "162467",
       "title": "Patient Transporter",
       "department": "Facility Support and Building Maintenance",
@@ -6191,7 +7157,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710202,
+      "id": 2991792,
       "external_id": "161253",
       "title": "Courier PRN",
       "department": "Facility Support and Building Maintenance",
@@ -6214,7 +7180,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710228,
+      "id": 2991818,
       "external_id": "156892",
       "title": "Patient Care Tech",
       "department": "Clinical & Nursing Support",
@@ -6237,7 +7203,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710164,
+      "id": 2991754,
       "external_id": "163050",
       "title": "Barista - Starbucks",
       "department": "Food Services",
@@ -6260,7 +7226,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710183,
+      "id": 2991773,
       "external_id": "162363",
       "title": "Recovery Room Registered Nurse",
       "department": "Nursing",
@@ -6283,7 +7249,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710207,
+      "id": 2991797,
       "external_id": "159955",
       "title": "Respiratory Care Practitioner / RCP / Internal Travel Team",
       "department": "Nursing",
@@ -6306,7 +7272,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710220,
+      "id": 2991810,
       "external_id": "158142",
       "title": "CVOR Surgical Technologist",
       "department": "Clinical & Nursing Support",
@@ -6329,7 +7295,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710221,
+      "id": 2991811,
       "external_id": "158141",
       "title": "CVOR Surgical Technologist",
       "department": "Clinical & Nursing Support",
@@ -6352,7 +7318,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710222,
+      "id": 2991812,
       "external_id": "158140",
       "title": "CVOR Surgical Technologist",
       "department": "Clinical & Nursing Support",
@@ -6375,7 +7341,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710195,
+      "id": 2991785,
       "external_id": "161459",
       "title": "Social Work Care Manager / PRN",
       "department": "Care Management",
@@ -6398,7 +7364,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710224,
+      "id": 2991814,
       "external_id": "157934",
       "title": "CVOR Surgical Technologist",
       "department": "Clinical & Nursing Support",
@@ -6421,7 +7387,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710232,
+      "id": 2991822,
       "external_id": "155953",
       "title": "CVOR Surgical Technologist",
       "department": "Clinical & Nursing Support",
@@ -6444,7 +7410,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710203,
+      "id": 2991793,
       "external_id": "161191",
       "title": "Endoscopy Technician Coordinator",
       "department": "Clinical & Nursing Support",
@@ -6467,7 +7433,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710215,
+      "id": 2991805,
       "external_id": "159086",
       "title": "Care Manager IP",
       "department": "Care Management",
@@ -6490,7 +7456,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710162,
+      "id": 2991752,
       "external_id": "163114",
       "title": "Same Day Surgery Registered Nurse",
       "department": "Nursing",
@@ -6513,7 +7479,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2709530,
+      "id": 2991120,
       "external_id": "163115",
       "title": "Same Day Surgery Registered Nurse",
       "department": "Nursing",
@@ -6536,7 +7502,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710200,
+      "id": 2991790,
       "external_id": "161302",
       "title": "Cardiovascular Operating Room Registered Nurse",
       "department": "Nursing",
@@ -6559,7 +7525,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710199,
+      "id": 2991789,
       "external_id": "161303",
       "title": "Cardiovascular Operating Room Registered Nurse",
       "department": "Nursing",
@@ -6582,7 +7548,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710201,
+      "id": 2991791,
       "external_id": "161264",
       "title": "Corporate Advanced Practice Provider NP / PA",
       "department": "Advanced Practice Providers",
@@ -6605,7 +7571,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710233,
+      "id": 2991823,
       "external_id": "155263",
       "title": "Cardiovascular Operating Room Registered Nurse",
       "department": "Nursing",
@@ -6628,7 +7594,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710205,
+      "id": 2991795,
       "external_id": "160700",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -6651,7 +7617,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710235,
+      "id": 2991825,
       "external_id": "154468",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -6674,7 +7640,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710176,
+      "id": 2991766,
       "external_id": "162563",
       "title": "Nursing Professional Development Practitioner",
       "department": "Nursing",
@@ -6697,7 +7663,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710236,
+      "id": 2991826,
       "external_id": "154466",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -6720,7 +7686,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710237,
+      "id": 2991827,
       "external_id": "154464",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -6743,7 +7709,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710168,
+      "id": 2991758,
       "external_id": "162939",
       "title": "Occupational Therapist",
       "department": "Therapy",
@@ -6766,7 +7732,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710179,
+      "id": 2991769,
       "external_id": "162504",
       "title": "Surgical Tech Education Coordinator",
       "department": "Clinical & Nursing Support",
@@ -6789,7 +7755,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710166,
+      "id": 2991756,
       "external_id": "163017",
       "title": "CVICU Registered Nurse / RN",
       "department": "Nursing",
@@ -6812,7 +7778,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710230,
+      "id": 2991820,
       "external_id": "156517",
       "title": "Radiation Oncology Registered Nurse / RN",
       "department": "Nursing",
@@ -6835,7 +7801,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710174,
+      "id": 2991764,
       "external_id": "162629",
       "title": "Chef",
       "department": "Food Services",
@@ -6858,7 +7824,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710165,
+      "id": 2991755,
       "external_id": "163023",
       "title": "OBGYN Medical Assistant / MA",
       "department": "Clinical & Nursing Support",
@@ -6881,7 +7847,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710234,
+      "id": 2991824,
       "external_id": "154930",
       "title": "Patient Care Tech II",
       "department": "Clinical & Nursing Support",
@@ -6904,7 +7870,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710185,
+      "id": 2991775,
       "external_id": "162246",
       "title": "Supply Chain Technician",
       "department": "",
@@ -6927,7 +7893,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710214,
+      "id": 2991804,
       "external_id": "159193",
       "title": "Patient Care Tech II",
       "department": "Clinical & Nursing Support",
@@ -6950,7 +7916,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710173,
+      "id": 2991763,
       "external_id": "162637",
       "title": "Clinical Transplant Coordinator Registered Nurse / RN",
       "department": "Nursing",
@@ -6973,7 +7939,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710229,
+      "id": 2991819,
       "external_id": "156801",
       "title": "ICU/ Facility Float/ Registered Nurse / RN",
       "department": "Nursing",
@@ -6996,7 +7962,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710186,
+      "id": 2991776,
       "external_id": "162156",
       "title": "Pre Op Holding Area Registered Nurse",
       "department": "Nursing",
@@ -7019,7 +7985,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710241,
+      "id": 2991831,
       "external_id": "150519",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -7042,7 +8008,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710196,
+      "id": 2991786,
       "external_id": "161413",
       "title": "RN Pre Op Holding Area - Orthopedic and Spine/ PRN",
       "department": "Nursing",
@@ -7065,7 +8031,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710197,
+      "id": 2991787,
       "external_id": "161411",
       "title": "Registered Nurse /PACU / Orthopedics & Spine / PRN",
       "department": "Nursing",
@@ -7088,7 +8054,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710169,
+      "id": 2991759,
       "external_id": "162907",
       "title": "Clinical Decision Unit Registered Nurse / 7am - 7:30pm / Part Time",
       "department": "Nursing",
@@ -7111,7 +8077,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710191,
+      "id": 2991781,
       "external_id": "161610",
       "title": "Pre-Op Holding Area Nurse",
       "department": "Nursing",
@@ -7134,7 +8100,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710175,
+      "id": 2991765,
       "external_id": "162582",
       "title": "Emergency Department Registered Nurse / 7pm - 7:30am",
       "department": "Nursing",
@@ -7157,7 +8123,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710172,
+      "id": 2991762,
       "external_id": "162682",
       "title": "Emergency Department Registered Nurse / 1pm -1am",
       "department": "Nursing",
@@ -7180,7 +8146,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710242,
+      "id": 2991832,
       "external_id": "150167",
       "title": "Radiologic Technologist",
       "department": "Imaging & Radiology",
@@ -7203,7 +8169,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710184,
+      "id": 2991774,
       "external_id": "162284",
       "title": "Registry Telemetry Registered Nurse / RN Clinician",
       "department": "Nursing",
@@ -7226,7 +8192,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710226,
+      "id": 2991816,
       "external_id": "157577",
       "title": "RN Clinician",
       "department": "Nursing",
@@ -7249,7 +8215,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710182,
+      "id": 2991772,
       "external_id": "162415",
       "title": "Senior Lab Technical Specialist / POC",
       "department": "Laboratory",
@@ -7272,7 +8238,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710231,
+      "id": 2991821,
       "external_id": "156510",
       "title": "Assistant Director, Clinical Nutrition Services/Director, DI",
       "department": "Business Operations",
@@ -7295,7 +8261,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710217,
+      "id": 2991807,
       "external_id": "158786",
       "title": "Acute Care Registered Nurse / RN",
       "department": "Nursing",
@@ -7318,7 +8284,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710206,
+      "id": 2991796,
       "external_id": "160162",
       "title": "Claim Data Process Manager",
       "department": "Business Operations",
@@ -7341,7 +8307,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710194,
+      "id": 2991784,
       "external_id": "161524",
       "title": "Cardiovascular Specialist",
       "department": "Nursing",
@@ -7364,7 +8330,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710239,
+      "id": 2991829,
       "external_id": "154264",
       "title": "Interventional Vascular Specialist",
       "department": "Therapy",
@@ -7387,7 +8353,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710247,
+      "id": 2991837,
       "external_id": "142125",
       "title": "Cardiovascular Specialist",
       "department": "Clinical & Nursing Support",
@@ -7410,7 +8376,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710212,
+      "id": 2991802,
       "external_id": "159519",
       "title": "Emergency Department Registered Nurse / 7am - 7:30pm",
       "department": "Nursing",
@@ -7433,7 +8399,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710243,
+      "id": 2991833,
       "external_id": "150132",
       "title": "Electrophysiology Registered Nurse / RN",
       "department": "Nursing",
@@ -7456,7 +8422,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710244,
+      "id": 2991834,
       "external_id": "149028",
       "title": "Cardiovascular Specialist",
       "department": "Nursing",
@@ -7479,7 +8445,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710227,
+      "id": 2991817,
       "external_id": "157456",
       "title": "Mammography Technologist",
       "department": "Imaging & Radiology",
@@ -7502,7 +8468,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710210,
+      "id": 2991800,
       "external_id": "159534",
       "title": "Patient Care Coordinator",
       "department": "Clerical & Administrative",
@@ -7525,7 +8491,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710219,
+      "id": 2991809,
       "external_id": "158488",
       "title": "Emergency Department Nursing Professional Development Practitioner / RN",
       "department": "Nursing",
@@ -7548,7 +8514,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710218,
+      "id": 2991808,
       "external_id": "158723",
       "title": "PCT, OU Float, I",
       "department": "Clinical & Nursing Support",
@@ -7571,7 +8537,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710223,
+      "id": 2991813,
       "external_id": "158135",
       "title": "Surgical Oncology Nurse Development Practitioner / RN",
       "department": "Nursing",
@@ -7594,7 +8560,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710225,
+      "id": 2991815,
       "external_id": "157885",
       "title": "Breast GYN and Ortho / RN",
       "department": "Nursing",
@@ -7617,7 +8583,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710213,
+      "id": 2991803,
       "external_id": "159261",
       "title": "Patient Access Engagement Specialist",
       "department": "Clerical & Administrative",
@@ -7640,7 +8606,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710190,
+      "id": 2991780,
       "external_id": "161739",
       "title": "Social Work Inpatient Care Manager",
       "department": "Care Management",
@@ -7663,7 +8629,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710211,
+      "id": 2991801,
       "external_id": "159528",
       "title": "Senior Patient Experience Business Partner",
       "department": "Business Operations",
@@ -7686,7 +8652,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710192,
+      "id": 2991782,
       "external_id": "161602",
       "title": "Emory Winship at Midtown Inpatient Oncology Registered Nurse Virtual Hiring Event",
       "department": "Nursing",
@@ -7709,7 +8675,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710208,
+      "id": 2991798,
       "external_id": "159836",
       "title": "Emory University Hospital Heart & Vascular Registered Nurse Virtual Hiring Event",
       "department": "Nursing",
@@ -7732,7 +8698,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710246,
+      "id": 2991836,
       "external_id": "145606",
       "title": "Physician Liaison",
       "department": "Clinical & Nursing Support",
@@ -7755,7 +8721,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710216,
+      "id": 2991806,
       "external_id": "158924",
       "title": "Operating Room Surgical Tech / Orthopedics & Spine",
       "department": "Clinical & Nursing Support",
@@ -7778,7 +8744,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 2710193,
+      "id": 2991783,
       "external_id": "161551",
       "title": "Info Sec Healthcare Data Privacy and Audit Analyst",
       "department": "Information Technology",

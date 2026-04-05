@@ -1,10 +1,10 @@
 {
   "feed": "All Jobs",
-  "generated_at": "2026-04-04T08:05:13.044830Z",
-  "count": 543,
+  "generated_at": "2026-04-05T08:11:22.542039Z",
+  "count": 545,
   "jobs": [
     {
-      "id": 3593315,
+      "id": 3913916,
       "external_id": "8033",
       "title": "Customer Delivery Driver/Picker",
       "department": "Wiltshire Farm Foods (Drivers)",
@@ -27,7 +27,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594330,
+      "id": 3914931,
       "external_id": "2092",
       "title": "Ing\u00e9nieur S\u00e9curit\u00e9 Cloud GCP ou AWS F/H",
       "department": "",
@@ -50,7 +50,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595197,
+      "id": 3915798,
       "external_id": "2076",
       "title": "Business Manager Performance Energ\u00e9tique F/H",
       "department": "",
@@ -73,7 +73,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597356,
+      "id": 3917957,
       "external_id": "7990",
       "title": "Digital Marketing Manager",
       "department": "Marketing (apetito)",
@@ -96,7 +96,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595201,
+      "id": 3915802,
       "external_id": "2070",
       "title": "Technicien de production H/F",
       "department": "",
@@ -119,7 +119,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596238,
+      "id": 3916839,
       "external_id": "2066",
       "title": "Ing\u00e9nieur Support S\u00e9curit\u00e9 H/F",
       "department": "",
@@ -142,7 +142,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595195,
+      "id": 3915796,
       "external_id": "2081",
       "title": "Expert IoT et R\u00e9seaux H/F",
       "department": "",
@@ -165,7 +165,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596241,
+      "id": 3916842,
       "external_id": "2057",
       "title": "Ing\u00e9nieur Devops",
       "department": "",
@@ -188,7 +188,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596240,
+      "id": 3916841,
       "external_id": "2061",
       "title": "Ing\u00e9nieur Qualit\u00e9 et Affaires R\u00e8glementaires",
       "department": "",
@@ -211,7 +211,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595196,
+      "id": 3915797,
       "external_id": "2079",
       "title": "Ing\u00e9nieur(e) DevSecOps F/H",
       "department": "",
@@ -234,7 +234,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597355,
+      "id": 3917956,
       "external_id": "8020",
       "title": "Senior PR Executive",
       "department": "PR / Internal Comms",
@@ -257,7 +257,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595202,
+      "id": 3915803,
       "external_id": "2067",
       "title": "Ing\u00e9nieur exploitation client F/H",
       "department": "",
@@ -280,7 +280,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595198,
+      "id": 3915799,
       "external_id": "2075",
       "title": "Ing\u00e9nieur D\u00e9veloppeur Confirm\u00e9",
       "department": "",
@@ -303,7 +303,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595199,
+      "id": 3915800,
       "external_id": "2074",
       "title": "Alternant consultant Transformation Organisationnelle F/H",
       "department": "",
@@ -326,7 +326,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595200,
+      "id": 3915801,
       "external_id": "2073",
       "title": "Alternant Business Manager F/H",
       "department": "",
@@ -349,7 +349,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593316,
+      "id": 3913917,
       "external_id": "7851",
       "title": "Quality & Food Safety Auditor",
       "department": "Production",
@@ -372,7 +372,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594321,
+      "id": 3914922,
       "external_id": "8032",
       "title": "Technical Compliance  Manager",
       "department": "Technical",
@@ -395,7 +395,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3551116,
+      "id": 3913053,
       "external_id": "3399",
       "title": "Sr Editorial Writer",
       "department": "Marketing",
@@ -418,7 +418,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509756,
+      "id": 3913029,
       "external_id": "156044",
       "title": "Histotechnologist",
       "department": "Laboratory",
@@ -441,7 +441,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3551117,
+      "id": 3913054,
       "external_id": "3398",
       "title": "Sr Public Relations Manager",
       "department": "Marketing",
@@ -464,7 +464,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509749,
+      "id": 3913022,
       "external_id": "160931",
       "title": "Management Engineer",
       "department": "Business Operations",
@@ -487,7 +487,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509728,
+      "id": 3913001,
       "external_id": "163353",
       "title": "Patient Care Technician / PCT / Moderate Care Unit",
       "department": "Clinical & Nursing Support",
@@ -510,7 +510,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509729,
+      "id": 3913002,
       "external_id": "163351",
       "title": "Patient Care Technician / PCT / Moderate Care Unit",
       "department": "Clinical & Nursing Support",
@@ -533,7 +533,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509730,
+      "id": 3913003,
       "external_id": "163350",
       "title": "Patient Care Technician /PCT / Moderate Care Unit",
       "department": "Clinical & Nursing Support",
@@ -556,7 +556,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509731,
+      "id": 3913004,
       "external_id": "163348",
       "title": "Patient Care Technician /PCT/ Moderate Care Unit",
       "department": "Clinical & Nursing Support",
@@ -579,7 +579,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509736,
+      "id": 3913009,
       "external_id": "163120",
       "title": "Patient Care Technician / PCT / Transplant",
       "department": "Clinical & Nursing Support",
@@ -602,7 +602,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509750,
+      "id": 3913023,
       "external_id": "160366",
       "title": "APP NP / PA \u2013 ESA Anesthesia Community Practice",
       "department": "Advanced Practice Providers",
@@ -625,7 +625,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509751,
+      "id": 3913024,
       "external_id": "160139",
       "title": "Associate Chief Nursing Officer / ACNO",
       "department": "Executive Leadership",
@@ -648,7 +648,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509758,
+      "id": 3913031,
       "external_id": "152452",
       "title": "Quality & Patient Safety Spec.",
       "department": "Business Operations",
@@ -671,7 +671,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509753,
+      "id": 3913026,
       "external_id": "159152",
       "title": "NICU Registered Nurse / RN",
       "department": "Nursing",
@@ -694,7 +694,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509754,
+      "id": 3913027,
       "external_id": "157949",
       "title": "RN Navigator / Neurology Cognitive Clinic",
       "department": "Nursing",
@@ -717,7 +717,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509746,
+      "id": 3913019,
       "external_id": "161161",
       "title": "LPN / Evenings / Telehealth Nursing",
       "department": "Nursing",
@@ -740,7 +740,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509741,
+      "id": 3913014,
       "external_id": "162091",
       "title": "Operating Room Surgical Technologist",
       "department": "Clinical & Nursing Support",
@@ -763,7 +763,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509724,
+      "id": 3912997,
       "external_id": "163568",
       "title": "Orthopedic NP / PA",
       "department": "Advanced Practice Providers",
@@ -786,7 +786,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509718,
+      "id": 3912991,
       "external_id": "163810",
       "title": "Executive Admin Assistant (ETS) | Temporary",
       "department": "Administrative and Business Support",
@@ -809,7 +809,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509755,
+      "id": 3913028,
       "external_id": "156850",
       "title": "Infection Prevention Coordinator, Infection Control",
       "department": "Nursing",
@@ -832,7 +832,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509747,
+      "id": 3913020,
       "external_id": "161150",
       "title": "Anesthesia Perioperative Services - NP / PA",
       "department": "Advanced Practice Providers",
@@ -855,7 +855,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509743,
+      "id": 3913016,
       "external_id": "161535",
       "title": "Phlebotomy Tech",
       "department": "Laboratory",
@@ -878,7 +878,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509744,
+      "id": 3913017,
       "external_id": "161531",
       "title": "Phlebotomy Tech",
       "department": "Laboratory",
@@ -901,7 +901,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509745,
+      "id": 3913018,
       "external_id": "161252",
       "title": "Phlebotomy Coordinator",
       "department": "Laboratory",
@@ -924,7 +924,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509739,
+      "id": 3913012,
       "external_id": "162421",
       "title": "Phlebotomy Tech / PRN",
       "department": "Laboratory",
@@ -947,7 +947,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509738,
+      "id": 3913011,
       "external_id": "162422",
       "title": "Phlebotomy Tech / PRN",
       "department": "Laboratory",
@@ -970,7 +970,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509734,
+      "id": 3913007,
       "external_id": "163269",
       "title": "Pharmacy Technician",
       "department": "Pharmacy",
@@ -993,7 +993,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509742,
+      "id": 3913015,
       "external_id": "161932",
       "title": "Behavioral Health Crisis Care Manager / PRN",
       "department": "Social Work/Behavioral Health",
@@ -1016,7 +1016,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509740,
+      "id": 3913013,
       "external_id": "162310",
       "title": "Cardiac Device Technician / Device Clinic",
       "department": "Clinical & Nursing Support",
@@ -1039,7 +1039,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509752,
+      "id": 3913025,
       "external_id": "159266",
       "title": "Cardiac Device Specialist / Cardiac Device Clinic",
       "department": "Clinical & Nursing Support",
@@ -1062,7 +1062,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509727,
+      "id": 3913000,
       "external_id": "163439",
       "title": "RN Clinician Educator",
       "department": "Nursing",
@@ -1085,7 +1085,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509720,
+      "id": 3912993,
       "external_id": "163767",
       "title": "Physical Therapist / Outpatient",
       "department": "Therapy",
@@ -1108,7 +1108,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509719,
+      "id": 3912992,
       "external_id": "163768",
       "title": "Physical Therapist / PRN / Outpatient",
       "department": "Therapy",
@@ -1131,7 +1131,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509757,
+      "id": 3913030,
       "external_id": "155250",
       "title": "Cardiac Device Nurse / Pacemaker/Defibrillator / RN",
       "department": "Nursing",
@@ -1154,7 +1154,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509748,
+      "id": 3913021,
       "external_id": "160957",
       "title": "Patient Access Representative",
       "department": "Revenue Cycle & Managed Care",
@@ -1177,7 +1177,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509733,
+      "id": 3913006,
       "external_id": "163274",
       "title": "Medical Surgical Registered Nurse / RN",
       "department": "Nursing",
@@ -1200,7 +1200,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509726,
+      "id": 3912999,
       "external_id": "163461",
       "title": "Clinician Educator Medical Surgical / Registered Nurse / RN",
       "department": "Nursing",
@@ -1223,7 +1223,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509737,
+      "id": 3913010,
       "external_id": "162677",
       "title": "Patient Care Technician/ PCT / Acute Rehab",
       "department": "Clinical & Nursing Support",
@@ -1246,7 +1246,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509721,
+      "id": 3912994,
       "external_id": "163628",
       "title": "Clinical Pharmacist",
       "department": "Pharmacy",
@@ -1269,7 +1269,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509722,
+      "id": 3912995,
       "external_id": "163626",
       "title": "Clinical Pharmacist",
       "department": "Pharmacy",
@@ -1292,7 +1292,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509732,
+      "id": 3913005,
       "external_id": "163331",
       "title": "Oncology Registered Nurse / RN",
       "department": "Nursing",
@@ -1315,7 +1315,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509735,
+      "id": 3913008,
       "external_id": "163253",
       "title": "Assistant Nurse Manager / Ortho/Neuro Registered Nurse / RN",
       "department": "Nursing",
@@ -1338,7 +1338,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509723,
+      "id": 3912996,
       "external_id": "163578",
       "title": "Ortho/Neuro Registered Nurse / RN",
       "department": "Nursing",
@@ -1361,7 +1361,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3509725,
+      "id": 3912998,
       "external_id": "163482",
       "title": "PCC - Complex Scheduler",
       "department": "",
@@ -1384,7 +1384,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593246,
+      "id": 3913847,
       "external_id": "162822",
       "title": "Supply Chain Technician",
       "department": "Facility Support and Building Maintenance",
@@ -1407,7 +1407,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593245,
+      "id": 3913846,
       "external_id": "162826",
       "title": "Supply Chain Technician",
       "department": "Facility Support and Building Maintenance",
@@ -1430,7 +1430,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593248,
+      "id": 3913849,
       "external_id": "162740",
       "title": "Supply Chain Technician",
       "department": "Facility Support and Building Maintenance",
@@ -1453,7 +1453,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3364632,
+      "id": 3912581,
       "external_id": "317749",
       "title": "Logistics and Hardware Operations Analyst - Manufacturing and Distribution -9 months contract",
       "department": "",
@@ -1476,7 +1476,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3364631,
+      "id": 3912580,
       "external_id": "330660",
       "title": "Director, Mechanical Engineering  Data Center Design",
       "department": "",
@@ -1499,7 +1499,53 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3593261,
+      "id": 3720078,
+      "external_id": "31146555",
+      "title": "Omnichannel Operation Executive (Tiktok Shop)",
+      "department": "",
+      "location": "Vietnam - Ho Chi Minh City",
+      "state": "",
+      "city": "",
+      "job_type": "Full time",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-03T00:00:00",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Vietnam---Ho-Chi-Minh-City/Omnichannel-Operation-Executive--Tiktok-Shop-_31146555",
+      "description": "JOB DESCRIPTION: GI\u1edaI THI\u1ec6U V\u1ec0 ABBOTT Abbott l\u00e0 c\u00f4ng ty ch\u0103m s\u00f3c s\u1ee9c kh\u1ecfe to\u00e0n c\u1ea7u, ti\u00ean phong trong nghi\u00ean c\u1ee9u khoa h\u1ecdc v\u00e0 t\u1ea1o ra nh\u1eefng \u0111\u1ed9t ph\u00e1 trong c\u00f4ng ngh\u1ec7 ch\u0103m s\u00f3c s\u1ee9c kh\u1ecfe \u0111\u1ec3 gi\u00fap m\u1ecdi ng\u01b0\u1eddi s\u1ed1ng kh\u1ecfe m\u1ea1nh h\u01a1n. Ch\u00fang t\u00f4i lu\u00f4n h\u01b0\u1edbng t\u1edbi t\u01b0\u01a1ng lai, d\u1ef1 \u0111o\u00e1n v\u00e0 \u0111\u00e1p \u1ee9ng nh\u1eefng thay \u0111\u1ed5i trong khoa h\u1ecdc v\u00e0 c\u00f4ng ngh\u1ec7 y khoa. Nh\u1eefng c\u00f4ng ngh\u1ec7 mang t\u00ednh thay \u0111\u1ed5i cu\u1ed9c s\u1ed1ng c\u1ee7a Abbott tr\u1ea3i d\u00e0i nhi\u1ec1u l\u0129nh v\u1ef1c t\u1eeb dinh d\u01b0\u1ee1ng, ch\u1ea9n \u0111o\u00e1n \u0111\u1ebfn thi\u1ebft b\u1ecb y t\u1ebf v\u00e0 d\u01b0\u1ee3c ph\u1ea9m. L\u00c0M VI\u1ec6C T\u1ea0I ABBOTT T\u1ea1i Abbott, b\u1ea1n c\u00f3 th\u1ec3 l\u00e0m c\u00f4ng vi\u1ec7c t\u1ea1o ra gi\u00e1 tr\u1ecb v\u00e0 \u00fd ngh\u0129a cho c\u1ed9ng \u0111\u1ed3ng. B\u1ea1n \u0111\u01b0\u1ee3c trao c\u01a1 h\u1ed9i \u0111\u1ec3 h\u1ecdc h\u1ecfi v\u00e0 ph\u00e1t tri\u1ec3n, ch\u0103m s\u00f3c b\u1ea3n th\u00e2n v\u00e0 gia \u0111\u00ecnh, \u0111\u1ed3ng th\u1eddi th\u1ec3 hi\u1ec7n v\u00e0 ph\u00e1t huy t\u1ed1i \u0111a ti\u1ec1m n\u0103ng c\u1ee7a b\u1ea3n th\u00e2n trong c\u1ea3 s\u1ef1 nghi\u1ec7p v\u00e0 cu\u1ed9c s\u1ed1ng. B\u1ea1n s\u1ebd c\u00f3 c\u01a1 h\u1ed9i: Ph\u00e1t tri\u1ec3n s\u1ef1 nghi\u1ec7p t\u1ea1i m\u1ed9t c\u00f4ng ty to\u00e0n c\u1ea7u, n\u01a1i b\u1ea1n c\u00f3 th\u1ec3 hi\u1ec7n th\u1ef1c h\u00f3a \u01b0\u1edbc m\u01a1 ngh\u1ec1 nghi\u1ec7p c\u1ee7a m\u00ecnh. L\u00e0m vi\u1ec7c t\u1ea1i m\u1ed9t m\u00f4i tr\u01b0\u1eddng \u0111\u01b0\u1ee3c c\u00f4ng nh\u1eadn l\u00e0 \u201cN\u01a1i l\u00e0m vi\u1ec7c t\u1ed1t nh\u1ea5t\u201d t\u1ea1i nhi\u1ec1u qu\u1ed1c gia v\u00e0 \u0111\u01b0\u1ee3c t\u1ea1p ch\u00ed Fortune (M\u1ef9) vinh danh l\u00e0 m\u1ed9t trong nh\u1eefng c\u00f4ng ty \u0111\u01b0\u1ee3c ng\u01b0\u1ee1ng m\u1ed9 nh\u1ea5t th\u1ebf gi\u1edbi. Tr\u1edf th\u00e0nh m\u1ed9t ph\u1ea7n c\u1ee7a doanh nghi\u1ec7p h\u00e0ng \u0111\u1ea7u, \u0111\u01b0\u1ee3c c\u00f4ng nh\u1eadn l\u00e0 n\u01a1i l\u00e0m vi\u1ec7c t\u1ed1t nh\u1ea5t v\u1edbi m\u00f4i tr\u01b0\u1eddng tuy\u1ec7t v\u1eddi cho s\u1ef1 \u0111a d\u1ea1ng v\u00e0 h\u00f2a nh\u1eadp. OVERALL B\u00e1o c\u00e1o cho: O2O Operations Manager (Online to Offline) \u0110\u1ecba \u0111i\u1ec3m: Flemington Tower, 182 Le Dai Hanh, Q11, HCM H\u00ecnh th\u1ee9c h\u1ee3p \u0111\u1ed3ng: D\u1ecbch v\u1ee5 b\u00ean th\u1ee9 ba (Third-party services) Th\u1eddi gian l\u00e0m vi\u1ec7c: Th\u1ee9 Hai \u2013 Th\u1ee9 B\u1ea3y (th\u1eddi gian linh ho\u1ea1t theo t\u00ednh ch\u1ea5t campaign) M\u00d4 T\u1ea2 1. V\u1eadn h\u00e0nh Livestream TikTok Shop Ch\u1ecbu tr\u00e1ch nhi\u1ec7m v\u1eadn h\u00e0nh c\u00e1c phi\u00ean livestream cho nh\u00e3n h\u00e0ng \u0111\u01b0\u1ee3c ph\u00e2n c\u00f4ng Ph\u1ed1i h\u1ee3p v\u1edbi Brand team x\u00e2y d\u1ef1ng k\u1ecbch b\u1ea3n livestream d\u1ef1a tr\u00ean nhu c\u1ea7u kh\u00e1ch h\u00e0ng, guideline th\u01b0\u01a1ng hi\u1ec7u v\u00e0 th\u00f4ng tin s\u1ea3n ph\u1ea9m L\u00e0m vi\u1ec7c c\u00f9ng Host livestream \u0111\u1ec3 \u0111\u1ea3m b\u1ea3o n\u1ed9i dung \u0111\u01b0\u1ee3c truy\u1ec1n t\u1ea3i \u0111\u00fang v\u00e0 hi\u1ec7u qu\u1ea3 Chu\u1ea9n b\u1ecb ph\u00f2ng live, setup thi\u1ebft b\u1ecb (camera, \u0111\u00e8n, mic\u2026) \u0111\u1ea3m b\u1ea3o h\u00ecnh \u1ea3nh th\u01b0\u01a1ng hi\u1ec7u khi l\u00ean s\u00f3ng Tr\u1ef1c v\u00e0 \u0111i\u1ec1u ph\u1ed1i livestream: duy tr\u00ec nh\u1ecbp \u0111\u1ed9, tri\u1ec3n khai combo b\u00e1n h\u00e0ng, minigame, x\u1eed l\u00fd tin nh\u1eafn kh\u00e1ch h\u00e0ng ph\u00e1t sinh Ph\u00e2n t\u00edch hi\u1ec7u su\u1ea5t t\u1eebng phi\u00ean livestream \u0111\u1ec3 t\u1ed1i \u01b0u v\u1eadn h\u00e0nh 2. Qu\u1ea3n l\u00fd b\u00e1n h\u00e0ng & s\u1eafp x\u1ebfp k\u1ebf ho\u1ea1ch Ph\u1ed1i h\u1ee3p Commercial Planner l\u1eadp k\u1ebf ho\u1ea1ch b\u00e1n h\u00e0ng, c\u00e2n \u0111\u1ed1i ng\u00e2n s\u00e1ch v\u00e0 c\u01a1 h\u1ed9i doanh thu Kh\u1ea3o s\u00e1t gi\u00e1, t\u1ed3n kho c\u00f9ng \u0111\u1ed1i t\u00e1c b\u00e1n l\u1ebb \u0111\u1ec3 t\u1ed1i \u01b0u scheme b\u00e1n h\u00e0ng h\u00e0ng th\u00e1ng Theo d\u00f5i ti\u1ebfn \u0111\u1ed9 qu\u00e0 t\u1eb7ng, \u0111\u1ea3m b\u1ea3o \u0111\u1ee7 h\u00e0ng ph\u1ee5c v\u1ee5 b\u00e1n h\u00e0ng Setup t\u1ed3n kho tr\u00ean Seller Center theo scheme, theo d\u00f5i kho v\u00e0 h\u1ea1n ch\u1ebf r\u1ee7i ro thi\u1ebfu h\u00e0ng Ph\u1ed1i h\u1ee3p Influencer Lead x\u00e2y d\u1ef1ng k\u1ecbch b\u1ea3n livestream v\u00e0 deal KOL Ph\u1ee5 tr\u00e1ch ni\u00eam y\u1ebft s\u1ea3n ph\u1ea9m v\u00e0 \u0111\u0103ng k\u00fd c\u00e1c ch\u01b0\u01a1ng tr\u00ecnh tr\u00ean s\u00e0n 3. V\u1eadn h\u00e0nh gian h\u00e0ng (Shop Operation) Theo d\u00f5i v\u00e0 ki\u1ec3m so\u00e1t c\u00e1c ch\u1ec9 s\u1ed1 v\u1eadn h\u00e0nh shop Tr\u1ea3 l\u1eddi tin nh\u1eafn, ch\u0103m s\u00f3c kh\u00e1ch h\u00e0ng X\u1eed l\u00fd khi\u1ebfu n\u1ea1i \u0111\u1ec3 \u0111\u1ea3m b\u1ea3o x\u1ebfp h\u1ea1ng v\u00e0 h\u00ecnh \u1ea3nh shop Ph\u1ed1i h\u1ee3p v\u1edbi \u0111\u1ed1i t\u00e1c v\u1eadn chuy\u1ec3n & b\u1ed9 ph\u1eadn fulfillment \u0111\u1ec3 x\u1eed l\u00fd c\u00e1c v\u1ea5n \u0111\u1ec1 ph\u00e1t sinh Y\u00caU C\u1ea6U Kinh nghi\u1ec7m T\u1ed1i thi\u1ec3u 1 n\u0103m kinh nghi\u1ec7m \u1edf v\u1ecb tr\u00ed t\u01b0\u01a1ng \u0111\u01b0\u01a1ng ho\u1eb7c c\u00f3 li\u00ean quan C\u00f3 kinh nghi\u1ec7m v\u1eadn h\u00e0nh n\u1ec1n t\u1ea3ng TM\u0110T / TikTok Shop l\u00e0 l\u1ee3i th\u1ebf H\u1ecdc v\u1ea5n T\u1ed1t nghi\u1ec7p \u0110\u1ea1i h\u1ecdc K\u1ef9 n\u0103ng K\u1ef9 n\u0103ng v\u1eadn h\u00e0nh chi ti\u1ebft, ph\u00e2n t\u00edch s\u1ed1 li\u1ec7u Kh\u1ea3 n\u0103ng s\u00e1ng t\u1ea1o n\u1ed9i dung L\u00e0m vi\u1ec7c nh\u00f3m t\u1ed1t, ph\u1ed1i h\u1ee3p \u0111a ph\u00f2ng ban Ch\u1ee7 \u0111\u1ed9ng, linh ho\u1ea1t, c\u00f3 tinh th\u1ea7n tr\u00e1ch nhi\u1ec7m Ti\u1ebfng Anh c\u01a1 b\u1ea3n S\u1eed d\u1ee5ng Excel, PowerPoint \u1edf m\u1ee9c c\u01a1 b\u1ea3n The base pay for this position is N/A In specific locations, the pay range may vary from the range posted. JOB FAMILY: Sales Force DIVISION: LOCATION: Vietnam > Ho Chi Minh City > Flemington Tower ADDITIONAL LOCATIONS: WORK SHIFT: Standard TRAVEL: Not specified MEDICAL SURVEILLANCE: Not Applicable SIGNIFICANT WORK ACTIVITIES: Continuous standing for prolonged periods (more than 2 consecutive hours in an 8 hour day)",
+      "qualifications": "",
+      "scraped_at": "2026-04-05T07:25:43.654366",
+      "unique_key": "63ac8c528cfe9eac",
+      "company_name": "ABBOTT",
+      "subdomain": "abbott",
+      "portal_slug": "abbott",
+      "sector": "",
+      "ats_type": "workday"
+    },
+    {
+      "id": 3720077,
+      "external_id": "31146557",
+      "title": "Omnichannel Operation Executive (Facebook)",
+      "department": "",
+      "location": "Vietnam - Ho Chi Minh City",
+      "state": "",
+      "city": "",
+      "job_type": "Full time",
+      "salary_min": null,
+      "salary_max": null,
+      "posted_date": "2026-04-03T00:00:00",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Vietnam---Ho-Chi-Minh-City/Omnichannel-Operation-Executive--Facebook-_31146557",
+      "description": "JOB DESCRIPTION: GI\u1edaI THI\u1ec6U V\u1ec0 ABBOTT Abbott l\u00e0 c\u00f4ng ty ch\u0103m s\u00f3c s\u1ee9c kh\u1ecfe to\u00e0n c\u1ea7u, ti\u00ean phong trong nghi\u00ean c\u1ee9u khoa h\u1ecdc v\u00e0 t\u1ea1o ra nh\u1eefng \u0111\u1ed9t ph\u00e1 trong c\u00f4ng ngh\u1ec7 ch\u0103m s\u00f3c s\u1ee9c kh\u1ecfe \u0111\u1ec3 gi\u00fap m\u1ecdi ng\u01b0\u1eddi s\u1ed1ng kh\u1ecfe m\u1ea1nh h\u01a1n. Ch\u00fang t\u00f4i lu\u00f4n h\u01b0\u1edbng t\u1edbi t\u01b0\u01a1ng lai, d\u1ef1 \u0111o\u00e1n v\u00e0 \u0111\u00e1p \u1ee9ng nh\u1eefng thay \u0111\u1ed5i trong khoa h\u1ecdc v\u00e0 c\u00f4ng ngh\u1ec7 y khoa. Nh\u1eefng c\u00f4ng ngh\u1ec7 mang t\u00ednh thay \u0111\u1ed5i cu\u1ed9c s\u1ed1ng c\u1ee7a Abbott tr\u1ea3i d\u00e0i nhi\u1ec1u l\u0129nh v\u1ef1c t\u1eeb dinh d\u01b0\u1ee1ng, ch\u1ea9n \u0111o\u00e1n \u0111\u1ebfn thi\u1ebft b\u1ecb y t\u1ebf v\u00e0 d\u01b0\u1ee3c ph\u1ea9m. L\u00c0M VI\u1ec6C T\u1ea0I ABBOTT T\u1ea1i Abbott, b\u1ea1n c\u00f3 th\u1ec3 l\u00e0m c\u00f4ng vi\u1ec7c t\u1ea1o ra gi\u00e1 tr\u1ecb v\u00e0 \u00fd ngh\u0129a cho c\u1ed9ng \u0111\u1ed3ng. B\u1ea1n \u0111\u01b0\u1ee3c trao c\u01a1 h\u1ed9i \u0111\u1ec3 h\u1ecdc h\u1ecfi v\u00e0 ph\u00e1t tri\u1ec3n, ch\u0103m s\u00f3c b\u1ea3n th\u00e2n v\u00e0 gia \u0111\u00ecnh, \u0111\u1ed3ng th\u1eddi th\u1ec3 hi\u1ec7n v\u00e0 ph\u00e1t huy t\u1ed1i \u0111a ti\u1ec1m n\u0103ng c\u1ee7a b\u1ea3n th\u00e2n trong c\u1ea3 s\u1ef1 nghi\u1ec7p v\u00e0 cu\u1ed9c s\u1ed1ng. B\u1ea1n s\u1ebd c\u00f3 c\u01a1 h\u1ed9i: Ph\u00e1t tri\u1ec3n s\u1ef1 nghi\u1ec7p t\u1ea1i m\u1ed9t c\u00f4ng ty to\u00e0n c\u1ea7u, n\u01a1i b\u1ea1n c\u00f3 th\u1ec3 hi\u1ec7n th\u1ef1c h\u00f3a \u01b0\u1edbc m\u01a1 ngh\u1ec1 nghi\u1ec7p c\u1ee7a m\u00ecnh. L\u00e0m vi\u1ec7c t\u1ea1i m\u1ed9t m\u00f4i tr\u01b0\u1eddng \u0111\u01b0\u1ee3c c\u00f4ng nh\u1eadn l\u00e0 \u201cN\u01a1i l\u00e0m vi\u1ec7c t\u1ed1t nh\u1ea5t\u201d t\u1ea1i nhi\u1ec1u qu\u1ed1c gia v\u00e0 \u0111\u01b0\u1ee3c t\u1ea1p ch\u00ed Fortune (M\u1ef9) vinh danh l\u00e0 m\u1ed9t trong nh\u1eefng c\u00f4ng ty \u0111\u01b0\u1ee3c ng\u01b0\u1ee1ng m\u1ed9 nh\u1ea5t th\u1ebf gi\u1edbi. Tr\u1edf th\u00e0nh m\u1ed9t ph\u1ea7n c\u1ee7a doanh nghi\u1ec7p h\u00e0ng \u0111\u1ea7u, \u0111\u01b0\u1ee3c c\u00f4ng nh\u1eadn l\u00e0 n\u01a1i l\u00e0m vi\u1ec7c t\u1ed1t nh\u1ea5t v\u1edbi m\u00f4i tr\u01b0\u1eddng tuy\u1ec7t v\u1eddi cho s\u1ef1 \u0111a d\u1ea1ng v\u00e0 h\u00f2a nh\u1eadp. OVERALL B\u00e1o c\u00e1o cho: O2O Operations Manager (Online to Offline) \u0110\u1ecba \u0111i\u1ec3m l\u00e0m vi\u1ec7c: T\u00f2a nh\u00e0 Flemington, 182 L\u00ea \u0110\u1ea1i H\u00e0nh, Qu\u1eadn 11, TP. H\u1ed3 Ch\u00ed Minh H\u00ecnh th\u1ee9c h\u1ee3p \u0111\u1ed3ng: D\u1ecbch v\u1ee5 b\u00ean th\u1ee9 ba (Third-party services) Th\u1eddi gian l\u00e0m vi\u1ec7c: Th\u1ee9 Hai \u2013 Th\u1ee9 B\u1ea3y (th\u1eddi gian linh ho\u1ea1t) M\u00d4 T\u1ea2 C\u00d4NG VI\u1ec6C 1. V\u1eadn h\u00e0nh Livestream Facebook Ch\u1ecbu tr\u00e1ch nhi\u1ec7m v\u1eadn h\u00e0nh c\u00e1c phi\u00ean livestream Facebook theo khu v\u1ef1c \u0111\u01b0\u1ee3c ph\u00e2n c\u00f4ng Ph\u1ed1i h\u1ee3p v\u1edbi team nh\u00e3n h\u00e0ng x\u00e2y d\u1ef1ng k\u1ecbch b\u1ea3n livestream d\u1ef1a tr\u00ean nhu c\u1ea7u kh\u00e1ch h\u00e0ng, brand guideline v\u00e0 th\u00f4ng tin s\u1ea3n ph\u1ea9m Nghi\u00ean c\u1ee9u & \u1ee9ng d\u1ee5ng c\u00e1c k\u1ecbch b\u1ea3n livestream theo h\u01b0\u1edbng gi\u1ea3i tr\u00ed \u0111\u1ec3 t\u1ea1o s\u1ef1 m\u1edbi m\u1ebb cho ng\u01b0\u1eddi xem L\u00e0m vi\u1ec7c ch\u1eb7t ch\u1ebd v\u1edbi streamer/host nh\u1eb1m \u0111\u1ea3m b\u1ea3o n\u1ed9i dung \u0111\u01b0\u1ee3c hi\u1ec3u v\u00e0 truy\u1ec1n t\u1ea3i \u0111\u00fang khi l\u00ean s\u00f3ng Chu\u1ea9n b\u1ecb ph\u00f2ng live v\u00e0 setup thi\u1ebft b\u1ecb (camera, \u0111\u00e8n, mic\u2026) \u0111\u1ea3m b\u1ea3o h\u00ecnh \u1ea3nh th\u01b0\u01a1ng hi\u1ec7u Tr\u1ef1c v\u00e0 \u0111i\u1ec1u ph\u1ed1i livestream: duy tr\u00ec nh\u1ecbp \u0111\u1ed9, tri\u1ec3n khai combo b\u00e1n h\u00e0ng, minigame, x\u1eed l\u00fd tin nh\u1eafn kh\u00e1ch h\u00e0ng ph\u00e1t sinh Ph\u00e2n t\u00edch hi\u1ec7u su\u1ea5t t\u1eebng phi\u00ean livestream \u0111\u1ec3 ch\u1ee7 \u0111\u1ed9ng c\u1ea3i thi\u1ec7n hi\u1ec7u qu\u1ea3 v\u1eadn h\u00e0nh 2. Qu\u1ea3n l\u00fd combo b\u00e1n h\u00e0ng & n\u1ed9i dung Kh\u1ea3o s\u00e1t ti\u1ec1m n\u0103ng b\u00e1n h\u00e0ng theo khu v\u1ef1c, ph\u1ed1i h\u1ee3p Commercial Planner l\u00ean k\u1ebf ho\u1ea1ch b\u00e1n h\u00e0ng Theo d\u00f5i ti\u1ebfn \u0111\u1ed9 qu\u00e0 t\u1eb7ng, \u0111\u1ea3m b\u1ea3o \u0111\u1ee7 t\u1ed3n kho ph\u1ee5c v\u1ee5 b\u00e1n h\u00e0ng Ph\u1ed1i h\u1ee3p c\u00f9ng nh\u00e3n h\u00e0ng v\u00e0 team n\u1ed9i b\u1ed9 x\u00e2y d\u1ef1ng concept h\u00ecnh \u1ea3nh h\u00e0ng th\u00e1ng L\u00e0m m\u1edbi n\u1ed9i dung social post v\u00e0 thumbnail listing s\u1ea3n ph\u1ea9m 3. Ph\u1ed1i h\u1ee3p v\u1eadn h\u00e0nh c\u00f9ng \u0111\u1ea1i l\u00fd / shop Ph\u1ed1i h\u1ee3p v\u1edbi ch\u1ee7 shop h\u01b0\u1edbng d\u1eabn m\u00f4 h\u00ecnh v\u00e0 quy tr\u00ecnh v\u1eadn h\u00e0nh tr\u01b0\u1edbc \u2013 trong \u2013 sau livestream H\u01b0\u1edbng d\u1eabn tri\u1ec3n khai c\u00e1c c\u00f4ng c\u1ee5 c\u00f4ng ngh\u1ec7 ph\u1ee5c v\u1ee5 v\u1eadn h\u00e0nh Ph\u1ed1i h\u1ee3p v\u1edbi team Marketing th\u1eed nghi\u1ec7m c\u00e1c m\u00f4 h\u00ecnh m\u1edbi nh\u1eb1m t\u0103ng traffic v\u00e0 doanh thu (livestream, always-on sales) Trang b\u1ecb cho shop ki\u1ebfn th\u1ee9c v\u1ec1 n\u1ec1n t\u1ea3ng, kinh doanh tr\u00ean n\u1ec1n t\u1ea3ng, s\u00e1ng t\u1ea1o n\u1ed9i dung v\u00e0 qu\u1ea3ng c\u00e1o Y\u00caU C\u1ea6U Kinh nghi\u1ec7m T\u1ed1i thi\u1ec3u 1 n\u0103m kinh nghi\u1ec7m \u1edf v\u1ecb tr\u00ed li\u00ean quan C\u00f3 kinh nghi\u1ec7m livestream, v\u1eadn h\u00e0nh Facebook ho\u1eb7c TM\u0110T l\u00e0 l\u1ee3i th\u1ebf H\u1ecdc v\u1ea5n T\u1ed1t nghi\u1ec7p \u0110\u1ea1i h\u1ecdc K\u1ef9 n\u0103ng K\u1ef9 n\u0103ng v\u1eadn h\u00e0nh chi ti\u1ebft, kh\u1ea3 n\u0103ng ph\u00e2n t\u00edch s\u1ed1 li\u1ec7u S\u00e1ng t\u1ea1o n\u1ed9i dung, hi\u1ec3u h\u00e0nh vi kh\u00e1ch h\u00e0ng tr\u00ean n\u1ec1n t\u1ea3ng social L\u00e0m vi\u1ec7c nh\u00f3m t\u1ed1t, ph\u1ed1i h\u1ee3p \u0111a ph\u00f2ng ban C\u00f3 tinh th\u1ea7n tr\u00e1ch nhi\u1ec7m, linh ho\u1ea1t v\u00e0 ch\u1ee7 \u0111\u1ed9ng Ti\u1ebfng Anh c\u01a1 b\u1ea3n S\u1eed d\u1ee5ng Excel, PowerPoint \u1edf m\u1ee9c c\u01a1 b\u1ea3n The base pay for this position is N/A In specific locations, the pay range may vary from the range posted. JOB FAMILY: Sales Force DIVISION: LOCATION: Vietnam > Ho Chi Minh City > Flemington Tower ADDITIONAL LOCATIONS: WORK SHIFT: Standard TRAVEL: Not specified MEDICAL SURVEILLANCE: Not Applicable SIGNIFICANT WORK ACTIVITIES: Continuous standing for prolonged periods (more than 2 consecutive hours in an 8 hour day)",
+      "qualifications": "",
+      "scraped_at": "2026-04-05T07:25:43.654214",
+      "unique_key": "cc35c7c2fc79d047",
+      "company_name": "ABBOTT",
+      "subdomain": "abbott",
+      "portal_slug": "abbott",
+      "sector": "",
+      "ats_type": "workday"
+    },
+    {
+      "id": 3913862,
       "external_id": "156603",
       "title": "Phlebotomy Tech",
       "department": "Laboratory",
@@ -1522,7 +1568,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593251,
+      "id": 3913852,
       "external_id": "162429",
       "title": "Patient Care Technician / PCT/ WEM Head & Neck Inpt",
       "department": "Clinical & Nursing Support",
@@ -1545,7 +1591,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593233,
+      "id": 3913834,
       "external_id": "163264",
       "title": "Patient Care Technician / PCT / Gen Medicine",
       "department": "Clinical & Nursing Support",
@@ -1568,7 +1614,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593234,
+      "id": 3913835,
       "external_id": "163260",
       "title": "Patient Care Technician / PCT / General Med",
       "department": "Clinical & Nursing Support",
@@ -1591,7 +1637,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593238,
+      "id": 3913839,
       "external_id": "163150",
       "title": "Patient Care Technician / PCT/ Cardiology",
       "department": "Clinical & Nursing Support",
@@ -1614,7 +1660,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593235,
+      "id": 3913836,
       "external_id": "163259",
       "title": "Patient Care Technician / PCT / General Med",
       "department": "Clinical & Nursing Support",
@@ -1637,7 +1683,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593239,
+      "id": 3913840,
       "external_id": "163149",
       "title": "Patient Care Technician / PCT / Cardiology",
       "department": "Clinical & Nursing Support",
@@ -1660,7 +1706,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593240,
+      "id": 3913841,
       "external_id": "163148",
       "title": "Patient Care Technician / PCT / Cardiology",
       "department": "Clinical & Nursing Support",
@@ -1683,7 +1729,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3592580,
+      "id": 3913181,
       "external_id": "54476",
       "title": "AEL Helicopter Pilot - HAA",
       "department": "Pilots",
@@ -1706,7 +1752,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593227,
+      "id": 3913828,
       "external_id": "163710",
       "title": "Patient Care Coordinator",
       "department": "Clinical & Nursing Support",
@@ -1729,7 +1775,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593262,
+      "id": 3913863,
       "external_id": "153395",
       "title": "Patient Care Coordinator",
       "department": "Clerical & Administrative",
@@ -1752,7 +1798,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593254,
+      "id": 3913855,
       "external_id": "161525",
       "title": "Physical Therapist",
       "department": "Therapy",
@@ -1775,7 +1821,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593253,
+      "id": 3913854,
       "external_id": "161530",
       "title": "Occupational Therapist / Part Time",
       "department": "Therapy",
@@ -1798,7 +1844,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593230,
+      "id": 3913831,
       "external_id": "163417",
       "title": "Medical Assistant / Family Medicine",
       "department": "Clinical & Nursing Support",
@@ -1821,7 +1867,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593241,
+      "id": 3913842,
       "external_id": "163135",
       "title": "Medical Assistant / Nephrology",
       "department": "Clinical & Nursing Support",
@@ -1844,7 +1890,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593237,
+      "id": 3913838,
       "external_id": "163228",
       "title": "RN Clinician / Non-Oncology Infusion",
       "department": "Nursing",
@@ -1867,7 +1913,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593228,
+      "id": 3913829,
       "external_id": "163478",
       "title": "Patient Arrival Specialist",
       "department": "",
@@ -1890,7 +1936,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593250,
+      "id": 3913851,
       "external_id": "162632",
       "title": "RN / Outpatient Cardiology",
       "department": "Nursing",
@@ -1913,7 +1959,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593257,
+      "id": 3913858,
       "external_id": "160001",
       "title": "Respiratory Care Practitioner",
       "department": "Therapy",
@@ -1936,7 +1982,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593258,
+      "id": 3913859,
       "external_id": "159877",
       "title": "Respiratory Care Practitioner",
       "department": "Therapy",
@@ -1959,7 +2005,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593236,
+      "id": 3913837,
       "external_id": "163242",
       "title": "Procedural Service Line Coordinator Registered Nurse / RN",
       "department": "Nursing",
@@ -1982,7 +2028,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593260,
+      "id": 3913861,
       "external_id": "158698",
       "title": "Mother Baby Registered Nurse / RN",
       "department": "Nursing",
@@ -2005,7 +2051,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593259,
+      "id": 3913860,
       "external_id": "158817",
       "title": "Patient Care Tech II",
       "department": "Clinical & Nursing Support",
@@ -2028,7 +2074,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593252,
+      "id": 3913853,
       "external_id": "162423",
       "title": "Neurology and General Medicine Acute Care Registered Nurse/RN",
       "department": "Nursing",
@@ -2051,7 +2097,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593255,
+      "id": 3913856,
       "external_id": "161484",
       "title": "Cardiac / Surgical Clinical Nurse Practice Specialist / RN",
       "department": "Nursing",
@@ -2074,7 +2120,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593263,
+      "id": 3913864,
       "external_id": "150904",
       "title": "Supply Chain Technician",
       "department": "Facility Support and Building Maintenance",
@@ -2097,7 +2143,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593249,
+      "id": 3913850,
       "external_id": "162723",
       "title": "MRI Supervisor",
       "department": "Imaging & Radiology",
@@ -2120,7 +2166,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593244,
+      "id": 3913845,
       "external_id": "162926",
       "title": "MRI Technologist / Weekend Only",
       "department": "Imaging & Radiology",
@@ -2143,7 +2189,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593243,
+      "id": 3913844,
       "external_id": "162927",
       "title": "MRI Technologist",
       "department": "Imaging & Radiology",
@@ -2166,7 +2212,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593247,
+      "id": 3913848,
       "external_id": "162768",
       "title": "Clinical Dietitian, Intern Program",
       "department": "Food Services",
@@ -2189,7 +2235,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593256,
+      "id": 3913857,
       "external_id": "161014",
       "title": "Bone Marrow Transplant Unit Registered Nurse / RN",
       "department": "Nursing",
@@ -2212,7 +2258,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593231,
+      "id": 3913832,
       "external_id": "163405",
       "title": "WOC Registered Nurse",
       "department": "Nursing",
@@ -2235,7 +2281,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593242,
+      "id": 3913843,
       "external_id": "162971",
       "title": "Supply Chain Coordinator",
       "department": "Business Operations",
@@ -2258,7 +2304,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593232,
+      "id": 3913833,
       "external_id": "163391",
       "title": "RN / PRN / General Surgery Clinic",
       "department": "Nursing",
@@ -2281,7 +2327,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3593229,
+      "id": 3913830,
       "external_id": "163457",
       "title": "Medical Assistant / Neurology Movement Clinic",
       "department": "Clinical & Nursing Support",
@@ -2304,7 +2350,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3592737,
+      "id": 3913338,
       "external_id": "31146516",
       "title": "High School STEM Intern",
       "department": "",
@@ -2327,7 +2373,7 @@
       "ats_type": "workday"
     },
     {
-      "id": 3592736,
+      "id": 3913337,
       "external_id": "330037",
       "title": "Sr. Data Center Operator - Infrastructure",
       "department": "",
@@ -2350,7 +2396,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3594280,
+      "id": 3914881,
       "external_id": "158373",
       "title": "RN / Outpatient Cardiology",
       "department": "Nursing",
@@ -2373,7 +2419,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594260,
+      "id": 3914861,
       "external_id": "163390",
       "title": "RN / Colorectal Surgery / Outpatient",
       "department": "Nursing",
@@ -2396,7 +2442,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594285,
+      "id": 3914886,
       "external_id": "149039",
       "title": "Project Mgr, Supply Chain",
       "department": "Business Operations",
@@ -2419,7 +2465,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594284,
+      "id": 3914885,
       "external_id": "154326",
       "title": "NICU Registered Nurse / RN",
       "department": "Nursing",
@@ -2442,7 +2488,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594266,
+      "id": 3914867,
       "external_id": "162967",
       "title": "Pre op Charge Nurse",
       "department": "Nursing",
@@ -2465,7 +2511,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594269,
+      "id": 3914870,
       "external_id": "162420",
       "title": "Medical Lab Scientist / Microbiology",
       "department": "Laboratory",
@@ -2488,7 +2534,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594277,
+      "id": 3914878,
       "external_id": "160356",
       "title": "Patient Care Technician / PCT / General Surgical Bar & Ot",
       "department": "Clinical & Nursing Support",
@@ -2511,7 +2557,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594265,
+      "id": 3914866,
       "external_id": "163240",
       "title": "Patient Care Technician / PCT / 3T Prep and Recovery",
       "department": "Clinical & Nursing Support",
@@ -2534,7 +2580,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594261,
+      "id": 3914862,
       "external_id": "163360",
       "title": "Barista - Starbucks",
       "department": "Food Services",
@@ -2557,7 +2603,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594273,
+      "id": 3914874,
       "external_id": "161373",
       "title": "Registered Nurse / Interventional Procedures",
       "department": "Nursing",
@@ -2580,7 +2626,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594258,
+      "id": 3914859,
       "external_id": "163437",
       "title": "Director, Media Strategy",
       "department": "Business Operations",
@@ -2603,7 +2649,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594245,
+      "id": 3914846,
       "external_id": "163746",
       "title": "Respiratory Therapist / RRT",
       "department": "Therapy",
@@ -2626,7 +2672,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594270,
+      "id": 3914871,
       "external_id": "162073",
       "title": "Environmental Services Technician",
       "department": "Facility Support and Building Maintenance",
@@ -2649,7 +2695,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594263,
+      "id": 3914864,
       "external_id": "163322",
       "title": "Registry Soc Work Care Mgr IP",
       "department": "",
@@ -2672,7 +2718,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594282,
+      "id": 3914883,
       "external_id": "156196",
       "title": "Medical Assistant Coordinator / Outpatient Cardiology",
       "department": "Clinical & Nursing Support",
@@ -2695,7 +2741,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594257,
+      "id": 3914858,
       "external_id": "163444",
       "title": "Assistant Director, Patient Care Service",
       "department": "Nursing",
@@ -2718,7 +2764,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594272,
+      "id": 3914873,
       "external_id": "161527",
       "title": "Procedural Service Line Coordinator Registered Nurse / RN",
       "department": "Nursing",
@@ -2741,7 +2787,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594256,
+      "id": 3914857,
       "external_id": "163451",
       "title": "Administrator, Operations",
       "department": "Business Operations",
@@ -2764,7 +2810,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594283,
+      "id": 3914884,
       "external_id": "155353",
       "title": "Medical Lab Scientist / Microbiology",
       "department": "Laboratory",
@@ -2787,7 +2833,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594254,
+      "id": 3914855,
       "external_id": "163487",
       "title": "Radiation Therapy Registered Nurse / RN",
       "department": "Nursing",
@@ -2810,7 +2856,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594286,
+      "id": 3914887,
       "external_id": "139939",
       "title": "Orthopedic & Spine OR Surgical Tech",
       "department": "Clinical & Nursing Support",
@@ -2833,7 +2879,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594279,
+      "id": 3914880,
       "external_id": "159163",
       "title": "Patient Care Technician / PCT / PRN OU Float Pool",
       "department": "Clinical & Nursing Support",
@@ -2856,7 +2902,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594278,
+      "id": 3914879,
       "external_id": "160221",
       "title": "Anesthesia Technologist",
       "department": "Clinical & Nursing Support",
@@ -2879,7 +2925,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594276,
+      "id": 3914877,
       "external_id": "160643",
       "title": "Medical Lab Scientist / Generalist",
       "department": "Laboratory",
@@ -2902,7 +2948,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594268,
+      "id": 3914869,
       "external_id": "162561",
       "title": "Senior Medical Equipment Planner",
       "department": "Business Operations",
@@ -2925,7 +2971,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594267,
+      "id": 3914868,
       "external_id": "162562",
       "title": "Capital Program Manager",
       "department": "Business Operations",
@@ -2948,7 +2994,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594264,
+      "id": 3914865,
       "external_id": "163267",
       "title": "MRI Technologist",
       "department": "Imaging & Radiology",
@@ -2971,7 +3017,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594262,
+      "id": 3914863,
       "external_id": "163340",
       "title": "Patient Care Technician / PCT  / ED",
       "department": "Clinical & Nursing Support",
@@ -2994,7 +3040,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594248,
+      "id": 3914849,
       "external_id": "163721",
       "title": "Patient Care Technician / PCT / OU Float",
       "department": "Clinical & Nursing Support",
@@ -3017,7 +3063,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594281,
+      "id": 3914882,
       "external_id": "157817",
       "title": "Nuclear Medicine Technologist",
       "department": "Imaging & Radiology",
@@ -3040,7 +3086,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594275,
+      "id": 3914876,
       "external_id": "160775",
       "title": "Nuclear Medicine Technologist",
       "department": "Imaging & Radiology",
@@ -3063,7 +3109,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594274,
+      "id": 3914875,
       "external_id": "160884",
       "title": "RN / Outpatient Cardiology",
       "department": "Nursing",
@@ -3086,7 +3132,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594259,
+      "id": 3914860,
       "external_id": "163421",
       "title": "Preoperative and Post Anesthesia Care Unit Registered Nurse",
       "department": "Nursing",
@@ -3109,7 +3155,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594246,
+      "id": 3914847,
       "external_id": "163723",
       "title": "Acute Care Float Pool WEO Registered Nurse / RN",
       "department": "Nursing",
@@ -3132,7 +3178,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594247,
+      "id": 3914848,
       "external_id": "163722",
       "title": "Acute Care Float Pool Registered Nurse / RN",
       "department": "Nursing",
@@ -3155,7 +3201,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594271,
+      "id": 3914872,
       "external_id": "161928",
       "title": "Medical Assistant / Radiology / 9:30pm- 6am",
       "department": "Clinical & Nursing Support",
@@ -3178,7 +3224,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594255,
+      "id": 3914856,
       "external_id": "163486",
       "title": "Coord, Specialty Referral",
       "department": "Clerical & Administrative",
@@ -3201,7 +3247,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594253,
+      "id": 3914854,
       "external_id": "163519",
       "title": "Specialty Referral Coordinator",
       "department": "Clerical & Administrative",
@@ -3224,7 +3270,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594252,
+      "id": 3914853,
       "external_id": "163592",
       "title": "Registry F&N Assoc",
       "department": "Food Services",
@@ -3247,7 +3293,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595116,
+      "id": 3915717,
       "external_id": "162917",
       "title": "RN Nurse Residency Program, Fall 2026 - Acute Care",
       "department": "Nurse Residency",
@@ -3270,7 +3316,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595115,
+      "id": 3915716,
       "external_id": "162919",
       "title": "RN Nurse Residency Program, Fall 2026 - OR",
       "department": "Nurse Residency",
@@ -3293,7 +3339,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595114,
+      "id": 3915715,
       "external_id": "162920",
       "title": "RN Nurse Residency Program, Fall 2026 - Emergency Services",
       "department": "Nurse Residency",
@@ -3316,7 +3362,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595113,
+      "id": 3915714,
       "external_id": "162921",
       "title": "RN Nurse Residency Program, Fall 2026 - Oncology",
       "department": "Nurse Residency",
@@ -3339,7 +3385,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595112,
+      "id": 3915713,
       "external_id": "162922",
       "title": "RN Nurse Residency Program, Fall 2026 - Critical Care",
       "department": "Nurse Residency",
@@ -3362,7 +3408,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595111,
+      "id": 3915712,
       "external_id": "162923",
       "title": "RN Nurse Residency Program, Fall 2026 - Women's Services",
       "department": "Nurse Residency",
@@ -3385,7 +3431,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594705,
+      "id": 3915306,
       "external_id": "31088080",
       "title": "\uff1c\u8a3a\u65ad\u85ac\u30fb\u6a5f\u5668\u4e8b\u696d\u90e8\uff1e Ambassador (\u55b6\u696d\u8077\uff09- \u5317\u6d77\u9053/\u6771\u5317",
       "department": "",
@@ -3408,7 +3454,7 @@
       "ats_type": "workday"
     },
     {
-      "id": 3593647,
+      "id": 3914248,
       "external_id": "31112590",
       "title": "COOP Student - Engineering",
       "department": "",
@@ -3431,7 +3477,7 @@
       "ats_type": "workday"
     },
     {
-      "id": 3593646,
+      "id": 3914247,
       "external_id": "319124",
       "title": "Technical Analyst 1-Radiology/PACS - Columbia, MO",
       "department": "",
@@ -3454,7 +3500,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3593645,
+      "id": 3914246,
       "external_id": "330339",
       "title": "Senior Program Manager - Data Center Facility Operations",
       "department": "",
@@ -3477,7 +3523,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3593644,
+      "id": 3914245,
       "external_id": "330340",
       "title": "Change Management Specialist",
       "department": "",
@@ -3500,7 +3546,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3593643,
+      "id": 3914244,
       "external_id": "328718",
       "title": "Principal Technical Program Manager -ProdDev",
       "department": "",
@@ -3523,7 +3569,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3593642,
+      "id": 3914243,
       "external_id": "357968",
       "title": "Physician, Obstetrics %26 Gynecology (full-time, Fountain Valley)",
       "department": "Physician Group",
@@ -3546,7 +3592,7 @@
       "ats_type": "taleo"
     },
     {
-      "id": 3595142,
+      "id": 3915743,
       "external_id": "154883",
       "title": "RN / Outpatient Cardiology",
       "department": "Nursing",
@@ -3569,7 +3615,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595141,
+      "id": 3915742,
       "external_id": "154886",
       "title": "RN / Vascular Surgery Clinic",
       "department": "Nursing",
@@ -3592,7 +3638,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595135,
+      "id": 3915736,
       "external_id": "159355",
       "title": "Maintenance Mechanic Specialist",
       "department": "Facility Support and Building Maintenance",
@@ -3615,7 +3661,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595103,
+      "id": 3915704,
       "external_id": "163072",
       "title": "Environmental Services Technician",
       "department": "Facility Support and Building Maintenance",
@@ -3638,7 +3684,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595104,
+      "id": 3915705,
       "external_id": "163069",
       "title": "Maintenance Supervisor",
       "department": "Facility Support and Building Maintenance",
@@ -3661,7 +3707,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595099,
+      "id": 3915700,
       "external_id": "163153",
       "title": "Supply Chain Technician",
       "department": "",
@@ -3684,7 +3730,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595100,
+      "id": 3915701,
       "external_id": "163152",
       "title": "Supply Chain Technician",
       "department": "",
@@ -3707,7 +3753,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595130,
+      "id": 3915731,
       "external_id": "161198",
       "title": "Public Safety Supervisor",
       "department": "Public Safety and Security",
@@ -3730,7 +3776,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595117,
+      "id": 3915718,
       "external_id": "162842",
       "title": "Cardiovascular Step Down Registered Nurse / RN",
       "department": "Nursing",
@@ -3753,7 +3799,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594249,
+      "id": 3914850,
       "external_id": "163644",
       "title": "Radiologic Technologist / Days",
       "department": "Imaging & Radiology",
@@ -3776,7 +3822,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595133,
+      "id": 3915734,
       "external_id": "160530",
       "title": "Patient Care Technician / PCT / Transplant 6T",
       "department": "Clinical & Nursing Support",
@@ -3799,7 +3845,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595131,
+      "id": 3915732,
       "external_id": "161166",
       "title": "Guest Services Coordinator (ETS) | Temporary",
       "department": "Customer Service",
@@ -3822,7 +3868,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595093,
+      "id": 3915694,
       "external_id": "163452",
       "title": "Patient Access Representative",
       "department": "Revenue Cycle & Managed Care",
@@ -3845,7 +3891,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595105,
+      "id": 3915706,
       "external_id": "163063",
       "title": "RN Clinician / Primary Care",
       "department": "Nursing",
@@ -3868,7 +3914,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595122,
+      "id": 3915723,
       "external_id": "162670",
       "title": "Neurodiagnostic Tech / WEO",
       "department": "Neurodiagnostics",
@@ -3891,7 +3937,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594251,
+      "id": 3914852,
       "external_id": "163629",
       "title": "Phlebotomy Tech",
       "department": "Laboratory",
@@ -3914,7 +3960,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594250,
+      "id": 3914851,
       "external_id": "163632",
       "title": "Specimen Processing Tech",
       "department": "Laboratory",
@@ -3937,7 +3983,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595098,
+      "id": 3915699,
       "external_id": "163198",
       "title": "PCC - Complex Scheduler",
       "department": "",
@@ -3960,7 +4006,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595121,
+      "id": 3915722,
       "external_id": "162691",
       "title": "Oncology Medical Assistant Proceduralist / MA",
       "department": "Clinical & Nursing Support",
@@ -3983,7 +4029,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595132,
+      "id": 3915733,
       "external_id": "160740",
       "title": "RN Clinician Educator",
       "department": "Nursing",
@@ -4006,7 +4052,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595129,
+      "id": 3915730,
       "external_id": "161477",
       "title": "Patient Arrival Specialist",
       "department": "Clerical & Administrative",
@@ -4029,7 +4075,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595108,
+      "id": 3915709,
       "external_id": "162965",
       "title": "Surgical ICU Registered Nurse / RN",
       "department": "Nursing",
@@ -4052,7 +4098,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595128,
+      "id": 3915729,
       "external_id": "161769",
       "title": "Patient Arrival Specialist",
       "department": "Clerical & Administrative",
@@ -4075,7 +4121,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595087,
+      "id": 3915688,
       "external_id": "163504",
       "title": "Paramedic / Mobile ICU / 7pm - 7:30am",
       "department": "Clinical & Nursing Support",
@@ -4098,7 +4144,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595088,
+      "id": 3915689,
       "external_id": "163502",
       "title": "Paramedic / Mobile ICU / 7am - 7:30pm",
       "department": "Clinical & Nursing Support",
@@ -4121,7 +4167,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595123,
+      "id": 3915724,
       "external_id": "162573",
       "title": "Neuro ICU Registered Nurse / RN",
       "department": "Nursing",
@@ -4144,7 +4190,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595134,
+      "id": 3915735,
       "external_id": "159553",
       "title": "Registered Nurse / Cardiac Observation",
       "department": "Nursing",
@@ -4167,7 +4213,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595125,
+      "id": 3915726,
       "external_id": "162399",
       "title": "CVICU Registered Nurse / RN",
       "department": "Nursing",
@@ -4190,7 +4236,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595124,
+      "id": 3915725,
       "external_id": "162400",
       "title": "CVICU Registered Nurse / RN",
       "department": "Nursing",
@@ -4213,7 +4259,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595106,
+      "id": 3915707,
       "external_id": "163045",
       "title": "Patient Care Technician / PCT / WEM Lung/Hem Onc Inpatient",
       "department": "Clinical & Nursing Support",
@@ -4236,7 +4282,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595107,
+      "id": 3915708,
       "external_id": "163043",
       "title": "Patient Care Technician / PCT / WEM Lung/Hem Onc Inpatient",
       "department": "Clinical & Nursing Support",
@@ -4259,7 +4305,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595145,
+      "id": 3915746,
       "external_id": "150075",
       "title": "Data Analyst II- Supply Chain",
       "department": "Information Technology",
@@ -4282,7 +4328,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595126,
+      "id": 3915727,
       "external_id": "162249",
       "title": "Patient Arrival Specialist",
       "department": "Clerical & Administrative",
@@ -4305,7 +4351,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595092,
+      "id": 3915693,
       "external_id": "163479",
       "title": "Patient Arrival Specialist",
       "department": "",
@@ -4328,7 +4374,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595091,
+      "id": 3915692,
       "external_id": "163480",
       "title": "Patient Arrival Specialist",
       "department": "",
@@ -4351,7 +4397,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595137,
+      "id": 3915738,
       "external_id": "158222",
       "title": "Interventional Radiology Registered Nurse / RN",
       "department": "Nursing",
@@ -4374,7 +4420,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595139,
+      "id": 3915740,
       "external_id": "157170",
       "title": "Cardiovascular Specialist II",
       "department": "Nursing",
@@ -4397,7 +4443,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595140,
+      "id": 3915741,
       "external_id": "156397",
       "title": "Cardiovascular Specialist",
       "department": "Nursing",
@@ -4420,7 +4466,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595143,
+      "id": 3915744,
       "external_id": "154874",
       "title": "Patient Care Coordinator",
       "department": "Clinical & Nursing Support",
@@ -4443,7 +4489,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595144,
+      "id": 3915745,
       "external_id": "153993",
       "title": "Interventional Vascular Specialist",
       "department": "Nursing",
@@ -4466,7 +4512,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595110,
+      "id": 3915711,
       "external_id": "162930",
       "title": "PACU Registered Nurse",
       "department": "Nursing",
@@ -4489,7 +4535,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595109,
+      "id": 3915710,
       "external_id": "162931",
       "title": "PACU Charge Nurse",
       "department": "Nursing",
@@ -4512,7 +4558,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595136,
+      "id": 3915737,
       "external_id": "158264",
       "title": "Surgical Oncology Registered Nurse / RN",
       "department": "Nursing",
@@ -4535,7 +4581,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595119,
+      "id": 3915720,
       "external_id": "162836",
       "title": "Maintenance Mechanic Specialist",
       "department": "Facility Support and Building Maintenance",
@@ -4558,7 +4604,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595120,
+      "id": 3915721,
       "external_id": "162702",
       "title": "Patient Arrival Specialist",
       "department": "",
@@ -4581,7 +4627,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595085,
+      "id": 3915686,
       "external_id": "163529",
       "title": "Patient Arrival Specialist",
       "department": "Clerical & Administrative",
@@ -4604,7 +4650,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595101,
+      "id": 3915702,
       "external_id": "163133",
       "title": "Endoscopy Unit Nurse Educator",
       "department": "Nursing",
@@ -4627,7 +4673,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595138,
+      "id": 3915739,
       "external_id": "158011",
       "title": "Patient Care Coordinator",
       "department": "Clerical & Administrative",
@@ -4650,7 +4696,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595090,
+      "id": 3915691,
       "external_id": "163483",
       "title": "RN / Outpatient Cardiology",
       "department": "Nursing",
@@ -4673,7 +4719,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595089,
+      "id": 3915690,
       "external_id": "163484",
       "title": "RN / CT Surgery Clinic",
       "department": "Nursing",
@@ -4696,7 +4742,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595095,
+      "id": 3915696,
       "external_id": "163295",
       "title": "RN / Vascular Surgery Clinic",
       "department": "Nursing",
@@ -4719,7 +4765,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595127,
+      "id": 3915728,
       "external_id": "161930",
       "title": "Breast,GYN and Ortho Oncology / RN",
       "department": "Nursing",
@@ -4742,7 +4788,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595096,
+      "id": 3915697,
       "external_id": "163256",
       "title": "Patient Care Coordinator",
       "department": "Clinical & Nursing Support",
@@ -4765,7 +4811,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595097,
+      "id": 3915698,
       "external_id": "163216",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -4788,7 +4834,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595146,
+      "id": 3915747,
       "external_id": "146594",
       "title": "Charge Nurse / RN / General Surgery Clinic",
       "department": "Nursing",
@@ -4811,7 +4857,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595102,
+      "id": 3915703,
       "external_id": "163099",
       "title": "Oncology Infusion Registered Nurse / RN",
       "department": "Nursing",
@@ -4834,7 +4880,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595094,
+      "id": 3915695,
       "external_id": "163355",
       "title": "RN / Outpatient Cardiology",
       "department": "Nursing",
@@ -4857,7 +4903,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595147,
+      "id": 3915748,
       "external_id": "145134",
       "title": "Nurse Manager / Cardiac Device / Outpatient Cardiology",
       "department": "Nursing",
@@ -4880,7 +4926,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595086,
+      "id": 3915687,
       "external_id": "163523",
       "title": "Patient Arrival Specialist",
       "department": "",
@@ -4903,7 +4949,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595118,
+      "id": 3915719,
       "external_id": "162840",
       "title": "Unit Clerk",
       "department": "Clerical & Administrative",
@@ -4926,7 +4972,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595203,
+      "id": 3915804,
       "external_id": "1847",
       "title": "Data Engineer F/H",
       "department": "",
@@ -4949,7 +4995,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597353,
+      "id": 3917954,
       "external_id": "8027",
       "title": "Customer Delivery Driver/Picker",
       "department": "Wiltshire Farm Foods (Drivers)",
@@ -4972,7 +5018,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3594704,
+      "id": 3915305,
       "external_id": "319228",
       "title": "Director Data Center Construction",
       "department": "",
@@ -4995,7 +5041,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3594703,
+      "id": 3915304,
       "external_id": "312683",
       "title": "Associate Consultant - FirstNet Implementations",
       "department": "",
@@ -5018,7 +5064,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3594702,
+      "id": 3915303,
       "external_id": "307252",
       "title": "Oracle Health Learning Leader",
       "department": "",
@@ -5041,7 +5087,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3596173,
+      "id": 3916774,
       "external_id": "162749",
       "title": "Medical Surgical Registered Nurse / RN",
       "department": "Nursing",
@@ -5064,7 +5110,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596176,
+      "id": 3916777,
       "external_id": "162664",
       "title": "RN / WEO plus 2 Weekdays / Telehealth Nursing",
       "department": "Nursing",
@@ -5087,7 +5133,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596175,
+      "id": 3916776,
       "external_id": "162696",
       "title": "RN / Outpatient Cardiology",
       "department": "Nursing",
@@ -5110,7 +5156,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596200,
+      "id": 3916801,
       "external_id": "157168",
       "title": "Medical Assistant / PRN / General Surgery Clinic",
       "department": "Clinical & Nursing Support",
@@ -5133,7 +5179,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596203,
+      "id": 3916804,
       "external_id": "153918",
       "title": "Patient Care Tech I",
       "department": "Clinical & Nursing Support",
@@ -5156,7 +5202,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596154,
+      "id": 3916755,
       "external_id": "163277",
       "title": "NICU  Nurse Manager / RN",
       "department": "Nursing",
@@ -5179,7 +5225,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596152,
+      "id": 3916753,
       "external_id": "163362",
       "title": "Enterprise Denials Strategy, Lead",
       "department": "Business Operations",
@@ -5202,7 +5248,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596185,
+      "id": 3916786,
       "external_id": "161550",
       "title": "Pre/Post op RN",
       "department": "Nursing",
@@ -5225,7 +5271,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596198,
+      "id": 3916799,
       "external_id": "157572",
       "title": "Intensive Care Unit / Oncology RN",
       "department": "Nursing",
@@ -5248,7 +5294,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596188,
+      "id": 3916789,
       "external_id": "160644",
       "title": "Hemapheresis Unit Educator Registered Nurse / RN",
       "department": "Nursing",
@@ -5271,7 +5317,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596191,
+      "id": 3916792,
       "external_id": "159705",
       "title": "Ophthalmic Assistant / COA",
       "department": "Clinical & Nursing Support",
@@ -5294,7 +5340,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595084,
+      "id": 3915685,
       "external_id": "163571",
       "title": "Addiction Counselor",
       "department": "Social Work/Behavioral Health",
@@ -5317,7 +5363,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596187,
+      "id": 3916788,
       "external_id": "160980",
       "title": "Barista - Starbucks",
       "department": "Facility Support and Building Maintenance",
@@ -5340,7 +5386,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596172,
+      "id": 3916773,
       "external_id": "162772",
       "title": "Dining Services Associate",
       "department": "Food Services",
@@ -5363,7 +5409,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596197,
+      "id": 3916798,
       "external_id": "157627",
       "title": "Food & Nutrition Associate",
       "department": "Food Services",
@@ -5386,7 +5432,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596195,
+      "id": 3916796,
       "external_id": "158322",
       "title": "Sterile Processing Tech",
       "department": "Clinical & Nursing Support",
@@ -5409,7 +5455,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596179,
+      "id": 3916780,
       "external_id": "162462",
       "title": "Patient Transporter",
       "department": "Facility Support and Building Maintenance",
@@ -5432,7 +5478,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596160,
+      "id": 3916761,
       "external_id": "163116",
       "title": "Patient Access Representative",
       "department": "Revenue Cycle & Managed Care",
@@ -5455,7 +5501,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596161,
+      "id": 3916762,
       "external_id": "163108",
       "title": "Patient Access Representative",
       "department": "Revenue Cycle & Managed Care",
@@ -5478,7 +5524,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596159,
+      "id": 3916760,
       "external_id": "163185",
       "title": "Patient Transporter",
       "department": "Facility Support and Building Maintenance",
@@ -5501,7 +5547,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596174,
+      "id": 3916775,
       "external_id": "162714",
       "title": "Winship Immediate Care Center Registered Nurse / RN",
       "department": "Nursing",
@@ -5524,7 +5570,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596192,
+      "id": 3916793,
       "external_id": "159703",
       "title": "Environmental Services Technician",
       "department": "Facility Support and Building Maintenance",
@@ -5547,7 +5593,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596178,
+      "id": 3916779,
       "external_id": "162476",
       "title": "PRN APP Interventional Radiology",
       "department": "Advanced Practice Providers",
@@ -5570,7 +5616,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596202,
+      "id": 3916803,
       "external_id": "154865",
       "title": "Accreditation Manager",
       "department": "Nursing",
@@ -5593,7 +5639,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596201,
+      "id": 3916802,
       "external_id": "156164",
       "title": "ICU Registered Nurse/ RN",
       "department": "Nursing",
@@ -5616,7 +5662,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596177,
+      "id": 3916778,
       "external_id": "162548",
       "title": "ICU Registered Nurse / RN",
       "department": "Nursing",
@@ -5639,7 +5685,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595152,
+      "id": 3915753,
       "external_id": "117549",
       "title": "CRNA / CAA - Weekdays only, No Call",
       "department": "Advanced Practice Providers",
@@ -5662,7 +5708,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595149,
+      "id": 3915750,
       "external_id": "122547",
       "title": "CRNA / CAA PRN - ESA ASC LaGrange GA",
       "department": "Advanced Practice Providers",
@@ -5685,7 +5731,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595151,
+      "id": 3915752,
       "external_id": "117583",
       "title": "CRNA / CAA - Cardiac Team",
       "department": "Advanced Practice Providers",
@@ -5708,7 +5754,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595150,
+      "id": 3915751,
       "external_id": "118608",
       "title": "CRNA / CAA - Emory University Hospital",
       "department": "Advanced Practice Providers",
@@ -5731,7 +5777,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596196,
+      "id": 3916797,
       "external_id": "158023",
       "title": "Patient Arrival Specialist",
       "department": "Clerical & Administrative",
@@ -5754,7 +5800,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596180,
+      "id": 3916781,
       "external_id": "161999",
       "title": "Oncology Registered Nurse / RN",
       "department": "Nursing",
@@ -5777,7 +5823,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596199,
+      "id": 3916800,
       "external_id": "157356",
       "title": "Director of Oncology Navigation & Support Services",
       "department": "Nursing",
@@ -5800,7 +5846,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596186,
+      "id": 3916787,
       "external_id": "161444",
       "title": "Intermediate Surgical Oncology / RN",
       "department": "Nursing",
@@ -5823,7 +5869,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596162,
+      "id": 3916763,
       "external_id": "163040",
       "title": "Inpatient Oncology Unit Charge Nurse / RN",
       "department": "Nursing",
@@ -5846,7 +5892,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596163,
+      "id": 3916764,
       "external_id": "163038",
       "title": "Inpatient Oncology Unit Charge Nurse / RN",
       "department": "Nursing",
@@ -5869,7 +5915,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596164,
+      "id": 3916765,
       "external_id": "163026",
       "title": "Inpatient Oncology Registered Nurse / RN",
       "department": "Nursing",
@@ -5892,7 +5938,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596183,
+      "id": 3916784,
       "external_id": "161858",
       "title": "Environmental Services Technician",
       "department": "Facility Support and Building Maintenance",
@@ -5915,7 +5961,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596166,
+      "id": 3916767,
       "external_id": "163012",
       "title": "Surgical Oncology Registered Nurse / RN",
       "department": "Nursing",
@@ -5938,7 +5984,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596170,
+      "id": 3916771,
       "external_id": "162876",
       "title": "Unit Educator Medical Oncology / RN",
       "department": "Nursing",
@@ -5961,7 +6007,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596169,
+      "id": 3916770,
       "external_id": "162878",
       "title": "Medical Oncology Registered Nurse / RN",
       "department": "Nursing",
@@ -5984,7 +6030,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596189,
+      "id": 3916790,
       "external_id": "160293",
       "title": "Pharmacy Technician",
       "department": "Pharmacy",
@@ -6007,7 +6053,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596239,
+      "id": 3916840,
       "external_id": "2064",
       "title": "Ing\u00e9nieur commercial senior H/F",
       "department": "",
@@ -6030,7 +6076,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596149,
+      "id": 3916750,
       "external_id": "163528",
       "title": "Administrative Assistant",
       "department": "Clerical & Administrative",
@@ -6053,7 +6099,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596153,
+      "id": 3916754,
       "external_id": "163301",
       "title": "Interventional Radiology Technologist",
       "department": "Imaging & Radiology",
@@ -6076,7 +6122,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596158,
+      "id": 3916759,
       "external_id": "163188",
       "title": "Radiologic Technologist / Nights",
       "department": "Imaging & Radiology",
@@ -6099,7 +6145,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596182,
+      "id": 3916783,
       "external_id": "161908",
       "title": "Physical Therapist / PRN",
       "department": "Therapy",
@@ -6122,7 +6168,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596155,
+      "id": 3916756,
       "external_id": "163263",
       "title": "Medical Oncology Registered Nurse / RN",
       "department": "Nursing",
@@ -6145,7 +6191,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595148,
+      "id": 3915749,
       "external_id": "144553",
       "title": "Medical Assistant Apprentice",
       "department": "Clinical & Nursing Support",
@@ -6168,7 +6214,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596181,
+      "id": 3916782,
       "external_id": "161911",
       "title": "Breast GYN and Ortho Oncology / RN",
       "department": "Nursing",
@@ -6191,7 +6237,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596193,
+      "id": 3916794,
       "external_id": "158798",
       "title": "Patient Care Tech II",
       "department": "Clinical & Nursing Support",
@@ -6214,7 +6260,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596184,
+      "id": 3916785,
       "external_id": "161851",
       "title": "RN / Nights with Rotating Weekends / Telehealth Nursing",
       "department": "Nursing",
@@ -6237,7 +6283,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596157,
+      "id": 3916758,
       "external_id": "163195",
       "title": "RN Clinician / Dermatology",
       "department": "Nursing",
@@ -6260,7 +6306,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596168,
+      "id": 3916769,
       "external_id": "162991",
       "title": "Rehab Therapy Aide / PRN",
       "department": "Therapy",
@@ -6283,7 +6329,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596167,
+      "id": 3916768,
       "external_id": "162992",
       "title": "Physical Therapist / PRN",
       "department": "Therapy",
@@ -6306,7 +6352,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596190,
+      "id": 3916791,
       "external_id": "160096",
       "title": "RN / Vascular Surgery Clinic",
       "department": "Nursing",
@@ -6329,7 +6375,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596150,
+      "id": 3916751,
       "external_id": "163464",
       "title": "Athletic Trainer",
       "department": "Therapy",
@@ -6352,7 +6398,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596151,
+      "id": 3916752,
       "external_id": "163372",
       "title": "NP/PA, Hospital Medicine, Emory Long Term Acute Care",
       "department": "Advanced Practice Providers",
@@ -6375,7 +6421,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596165,
+      "id": 3916766,
       "external_id": "163018",
       "title": "Licensed Practical Nurse",
       "department": "Nursing",
@@ -6398,7 +6444,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596171,
+      "id": 3916772,
       "external_id": "162775",
       "title": "Food & Nutrition Associate, Lead",
       "department": "Food Services",
@@ -6421,7 +6467,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598169,
+      "id": 3918770,
       "external_id": "8019",
       "title": "Technical Manager",
       "department": "Other",
@@ -6444,7 +6490,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597354,
+      "id": 3917955,
       "external_id": "8026",
       "title": "Customer Service Advisor",
       "department": "Wiltshire Farm Foods",
@@ -6467,7 +6513,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3595596,
+      "id": 3916197,
       "external_id": "R-041289",
       "title": "Registered Nurse (RN), Variable Part-Time Day Shift,  PACU",
       "department": "",
@@ -6490,7 +6536,7 @@
       "ats_type": "workday"
     },
     {
-      "id": 3595595,
+      "id": 3916196,
       "external_id": "31142808",
       "title": "PRACTICANTE DE DEMAND PLANNING",
       "department": "",
@@ -6513,7 +6559,7 @@
       "ats_type": "workday"
     },
     {
-      "id": 3595594,
+      "id": 3916195,
       "external_id": "357843",
       "title": "Physician, Obstetrics %26 Gynecology (full-time, Lakewood)",
       "department": "Physician Group",
@@ -6536,7 +6582,7 @@
       "ats_type": "taleo"
     },
     {
-      "id": 3595593,
+      "id": 3916194,
       "external_id": "357737",
       "title": "Physician, Cardiology (Non-Invasive/Advanced Cardiac Imaging)",
       "department": "Physician Group",
@@ -6559,7 +6605,7 @@
       "ats_type": "taleo"
     },
     {
-      "id": 3595592,
+      "id": 3916193,
       "external_id": "357736",
       "title": "Physician, Cardiologist",
       "department": "Physician Group",
@@ -6582,7 +6628,7 @@
       "ats_type": "taleo"
     },
     {
-      "id": 3594701,
+      "id": 3915302,
       "external_id": "330341",
       "title": "Program Manager",
       "department": "",
@@ -6605,7 +6651,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3596194,
+      "id": 3916795,
       "external_id": "158680",
       "title": "Op Excellence Specialist II",
       "department": "Business Operations",
@@ -6628,7 +6674,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596156,
+      "id": 3916757,
       "external_id": "163231",
       "title": "Onboarding Specialist (ETS) | Temporary",
       "department": "Business Operations",
@@ -6651,7 +6697,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596412,
+      "id": 3917013,
       "external_id": "163161",
       "title": "Medical Lab Assistant",
       "department": "Laboratory",
@@ -6674,7 +6720,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596411,
+      "id": 3917012,
       "external_id": "163172",
       "title": "Phlebotomy Tech",
       "department": "Laboratory",
@@ -6697,7 +6743,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596410,
+      "id": 3917011,
       "external_id": "163174",
       "title": "Phlebotomy Tech",
       "department": "Laboratory",
@@ -6720,7 +6766,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598170,
+      "id": 3918771,
       "external_id": "8018",
       "title": "Customer Delivery Driver/Picker",
       "department": "Wiltshire Farm Foods (Drivers)",
@@ -6743,7 +6789,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596677,
+      "id": 3917278,
       "external_id": "162427",
       "title": "Patient Care Technician / PCT / ICU",
       "department": "Clinical & Nursing Support",
@@ -6766,7 +6812,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596676,
+      "id": 3917277,
       "external_id": "162428",
       "title": "Patient Care Technician / PCT / ICU",
       "department": "Clinical & Nursing Support",
@@ -6789,7 +6835,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596679,
+      "id": 3917280,
       "external_id": "162424",
       "title": "Patient Care Technician / PCT / ICU",
       "department": "Clinical & Nursing Support",
@@ -6812,7 +6858,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596678,
+      "id": 3917279,
       "external_id": "162425",
       "title": "Patient Care Technician / PCT / ICU",
       "department": "Clinical & Nursing Support",
@@ -6835,7 +6881,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596667,
+      "id": 3917268,
       "external_id": "162984",
       "title": "Patient Care Technician / PCT / Cardiology",
       "department": "Clinical & Nursing Support",
@@ -6858,7 +6904,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596666,
+      "id": 3917267,
       "external_id": "162985",
       "title": "Patient Care Technician / PCT / Cardiology",
       "department": "Clinical & Nursing Support",
@@ -6881,7 +6927,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596668,
+      "id": 3917269,
       "external_id": "162983",
       "title": "Patient Care Technician / PCT / Cardiology",
       "department": "Clinical & Nursing Support",
@@ -6904,7 +6950,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596672,
+      "id": 3917273,
       "external_id": "162934",
       "title": "Patient Care Technician / PCT / PACU",
       "department": "Clinical & Nursing Support",
@@ -6927,7 +6973,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596669,
+      "id": 3917270,
       "external_id": "162973",
       "title": "Patient Care Technician / Complex Med 6G",
       "department": "Clinical & Nursing Support",
@@ -6950,7 +6996,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596670,
+      "id": 3917271,
       "external_id": "162972",
       "title": "Patient Care Technician / PCT / Complex Med 6G",
       "department": "Clinical & Nursing Support",
@@ -6973,7 +7019,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596673,
+      "id": 3917274,
       "external_id": "162479",
       "title": "Patient Care Technician / PCT / Moderate Care Unit",
       "department": "Clinical & Nursing Support",
@@ -6996,7 +7042,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596674,
+      "id": 3917275,
       "external_id": "162478",
       "title": "Patient Care Technician / PCT / Moderate Care Unit",
       "department": "Clinical & Nursing Support",
@@ -7019,7 +7065,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596675,
+      "id": 3917276,
       "external_id": "162477",
       "title": "Patient Care Technician / PCT / Moderate Care Unit",
       "department": "Clinical & Nursing Support",
@@ -7042,7 +7088,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596680,
+      "id": 3917281,
       "external_id": "162374",
       "title": "Patient Care Technician /PCT/ Neuro- Neuro/Surgery",
       "department": "Clinical & Nursing Support",
@@ -7065,7 +7111,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596681,
+      "id": 3917282,
       "external_id": "162372",
       "title": "Patient Care Technician / PCT / Neuro -Neuro/ Surgery",
       "department": "Clinical & Nursing Support",
@@ -7088,7 +7134,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3596671,
+      "id": 3917272,
       "external_id": "162959",
       "title": "Patient Care Technician / PCT / Cardiology",
       "department": "Clinical & Nursing Support",
@@ -7111,7 +7157,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597321,
+      "id": 3917922,
       "external_id": "162941",
       "title": "Clinical Risk Manager",
       "department": "Nursing",
@@ -7134,7 +7180,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597330,
+      "id": 3917931,
       "external_id": "161419",
       "title": "Data Analyst III - Transplant",
       "department": "Information Technology",
@@ -7157,7 +7203,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597322,
+      "id": 3917923,
       "external_id": "162937",
       "title": "Pharmacy Technician",
       "department": "Pharmacy",
@@ -7180,7 +7226,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597316,
+      "id": 3917917,
       "external_id": "163142",
       "title": "Director, Patient Care Service / Physician Division",
       "department": "Nursing",
@@ -7203,7 +7249,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597357,
+      "id": 3917958,
       "external_id": "3397",
       "title": "Project Architect",
       "department": "Architecture",
@@ -7226,7 +7272,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597358,
+      "id": 3917959,
       "external_id": "3395",
       "title": "Project Manager",
       "department": "Architecture",
@@ -7249,7 +7295,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597320,
+      "id": 3917921,
       "external_id": "162944",
       "title": "Administrative Assistant",
       "department": "Clerical & Administrative",
@@ -7272,7 +7318,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597327,
+      "id": 3917928,
       "external_id": "161968",
       "title": "Food & Nutrition Associate Sanitation",
       "department": "Food Services",
@@ -7295,7 +7341,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597328,
+      "id": 3917929,
       "external_id": "161966",
       "title": "Food & Nutrition Associate (sanitation)",
       "department": "Food Services",
@@ -7318,7 +7364,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597329,
+      "id": 3917930,
       "external_id": "161641",
       "title": "Phlebotomy Tech",
       "department": "Laboratory",
@@ -7341,7 +7387,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597323,
+      "id": 3917924,
       "external_id": "162915",
       "title": "Patient Access Specialist",
       "department": "Clerical & Administrative",
@@ -7364,7 +7410,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597325,
+      "id": 3917926,
       "external_id": "162865",
       "title": "Supervisor, Operations",
       "department": "Clerical & Administrative",
@@ -7387,7 +7433,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597324,
+      "id": 3917925,
       "external_id": "162880",
       "title": "Patient Services Coordinator One",
       "department": "Clerical & Administrative",
@@ -7410,7 +7456,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597319,
+      "id": 3917920,
       "external_id": "163004",
       "title": "Unit Clerk",
       "department": "Clerical & Administrative",
@@ -7433,7 +7479,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597318,
+      "id": 3917919,
       "external_id": "163071",
       "title": "Call Center Associate",
       "department": "Food Services",
@@ -7456,7 +7502,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597326,
+      "id": 3917927,
       "external_id": "162442",
       "title": "Dining Services Associate",
       "department": "Food Services",
@@ -7479,7 +7525,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597317,
+      "id": 3917918,
       "external_id": "163105",
       "title": "Food & Nutrition Associate",
       "department": "Food Services",
@@ -7502,7 +7548,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598167,
+      "id": 3918768,
       "external_id": "330314",
       "title": "Senior Software Developer - Data Analytics - US Citizenship Required",
       "department": "",
@@ -7525,7 +7571,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3596949,
+      "id": 3917550,
       "external_id": "329964",
       "title": "Software Developer 5",
       "department": "",
@@ -7548,7 +7594,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3596948,
+      "id": 3917549,
       "external_id": "329957",
       "title": "Software Developer 4",
       "department": "",
@@ -7571,7 +7617,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3596947,
+      "id": 3917548,
       "external_id": "329956",
       "title": "Software Developer 3",
       "department": "",
@@ -7594,7 +7640,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3596946,
+      "id": 3917547,
       "external_id": "329955",
       "title": "Software Developer 3",
       "department": "",
@@ -7617,7 +7663,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3596433,
+      "id": 3917034,
       "external_id": "31146016",
       "title": "Practicante de Supply / Atenci\u00f3n al cliente",
       "department": "",
@@ -7640,7 +7686,7 @@
       "ats_type": "workday"
     },
     {
-      "id": 3596432,
+      "id": 3917033,
       "external_id": "31146028",
       "title": "RTR Manager",
       "department": "",
@@ -7663,7 +7709,7 @@
       "ats_type": "workday"
     },
     {
-      "id": 3597531,
+      "id": 3918132,
       "external_id": "162825",
       "title": "Maintenance Mechanic",
       "department": "Facility Support and Building Maintenance",
@@ -7686,7 +7732,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597530,
+      "id": 3918131,
       "external_id": "162829",
       "title": "Maintenance Mechanic Specialist",
       "department": "Facility Support and Building Maintenance",
@@ -7709,7 +7755,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597529,
+      "id": 3918130,
       "external_id": "162833",
       "title": "Maintenance Mechanic Specialist",
       "department": "Facility Support and Building Maintenance",
@@ -7732,7 +7778,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597528,
+      "id": 3918129,
       "external_id": "162834",
       "title": "Maintenance Mechanic Specialist",
       "department": "Facility Support and Building Maintenance",
@@ -7755,7 +7801,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597527,
+      "id": 3918128,
       "external_id": "162835",
       "title": "Maintenance Mechanic Specialist",
       "department": "Facility Support and Building Maintenance",
@@ -7778,7 +7824,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597535,
+      "id": 3918136,
       "external_id": "162657",
       "title": "Maintenance Supervisor",
       "department": "Facility Support and Building Maintenance",
@@ -7801,7 +7847,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597592,
+      "id": 3918193,
       "external_id": "152782",
       "title": "Medical Physicist Assistant",
       "department": "Business Operations",
@@ -7824,7 +7870,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597539,
+      "id": 3918140,
       "external_id": "162458",
       "title": "Anesthesia Technologist / PRN",
       "department": "Clinical & Nursing Support",
@@ -7847,7 +7893,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597536,
+      "id": 3918137,
       "external_id": "162580",
       "title": "Sterile Processing Technician / Evenings",
       "department": "Clinical & Nursing Support",
@@ -7870,7 +7916,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597532,
+      "id": 3918133,
       "external_id": "162720",
       "title": "Endoscopy Technician / PRN",
       "department": "Clinical & Nursing Support",
@@ -7893,7 +7939,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597533,
+      "id": 3918134,
       "external_id": "162686",
       "title": "Endoscopy Technician",
       "department": "Clinical & Nursing Support",
@@ -7916,7 +7962,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597557,
+      "id": 3918158,
       "external_id": "160329",
       "title": "Endoscopy Technician",
       "department": "Clinical & Nursing Support",
@@ -7939,7 +7985,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598182,
+      "id": 3918783,
       "external_id": "1887",
       "title": "Analyste CYberSOC sp\u00e9cialis\u00e9 SPLUNK",
       "department": "",
@@ -7962,7 +8008,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598181,
+      "id": 3918782,
       "external_id": "2039",
       "title": "Manager de l\u2019\u00e9quipe Plateform & Databrain (F/H)",
       "department": "",
@@ -7985,7 +8031,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597601,
+      "id": 3918202,
       "external_id": "115834",
       "title": "Orthopedic and Spine OR First Assistant",
       "department": "Nursing",
@@ -8008,7 +8054,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597570,
+      "id": 3918171,
       "external_id": "157514",
       "title": "RN / General GI Surgery Clinic",
       "department": "Nursing",
@@ -8031,7 +8077,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597534,
+      "id": 3918135,
       "external_id": "162659",
       "title": "Medical Lab Scientist / Weekends",
       "department": "Laboratory",
@@ -8054,7 +8100,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597541,
+      "id": 3918142,
       "external_id": "162351",
       "title": "Medical ICU Registered Nurse / RN",
       "department": "Nursing",
@@ -8077,7 +8123,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597540,
+      "id": 3918141,
       "external_id": "162412",
       "title": "Medical Lab Scientist / Generalist",
       "department": "Laboratory",
@@ -8100,7 +8146,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597526,
+      "id": 3918127,
       "external_id": "162859",
       "title": "Medical Lab Scientist",
       "department": "Laboratory",
@@ -8123,7 +8169,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597575,
+      "id": 3918176,
       "external_id": "156973",
       "title": "Occupational Therapist",
       "department": "Therapy",
@@ -8146,7 +8192,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597555,
+      "id": 3918156,
       "external_id": "160659",
       "title": "Clinical Assistant Manager / Athletic Training",
       "department": "Therapy",
@@ -8169,7 +8215,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597556,
+      "id": 3918157,
       "external_id": "160612",
       "title": "Occupational Therapist / Outpatient",
       "department": "Therapy",
@@ -8192,7 +8238,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597574,
+      "id": 3918175,
       "external_id": "157054",
       "title": "Certified Hand Specialist",
       "department": "Therapy",
@@ -8215,7 +8261,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597595,
+      "id": 3918196,
       "external_id": "151369",
       "title": "Physical Therapist / PRN / Outpatient",
       "department": "Therapy",
@@ -8238,7 +8284,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597594,
+      "id": 3918195,
       "external_id": "151370",
       "title": "Physical Therapist Assistant / Outpatient",
       "department": "Therapy",
@@ -8261,7 +8307,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597587,
+      "id": 3918188,
       "external_id": "154955",
       "title": "Physical Therapist / PRN",
       "department": "Therapy",
@@ -8284,7 +8330,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597593,
+      "id": 3918194,
       "external_id": "151435",
       "title": "Occupational Therapist / PRN",
       "department": "Therapy",
@@ -8307,7 +8353,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597591,
+      "id": 3918192,
       "external_id": "153156",
       "title": "Speech Pathologist / PRN",
       "department": "Therapy",
@@ -8330,7 +8376,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597561,
+      "id": 3918162,
       "external_id": "159533",
       "title": "Physical Therapist / PRN",
       "department": "Therapy",
@@ -8353,7 +8399,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597552,
+      "id": 3918153,
       "external_id": "161473",
       "title": "Occupational Therapist / Part Time",
       "department": "Therapy",
@@ -8376,7 +8422,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597551,
+      "id": 3918152,
       "external_id": "161599",
       "title": "Speech Pathologist / PRN",
       "department": "Therapy",
@@ -8399,7 +8445,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597558,
+      "id": 3918159,
       "external_id": "160016",
       "title": "Speech Pathologist / Weekends",
       "department": "Therapy",
@@ -8422,7 +8468,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597580,
+      "id": 3918181,
       "external_id": "155676",
       "title": "Occupational Therapist / PRN",
       "department": "Therapy",
@@ -8445,7 +8491,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597545,
+      "id": 3918146,
       "external_id": "162017",
       "title": "Mental Health Associate / Nights",
       "department": "Clinical & Nursing Support",
@@ -8468,7 +8514,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597581,
+      "id": 3918182,
       "external_id": "155675",
       "title": "Physical Therapist / PRN",
       "department": "Therapy",
@@ -8491,7 +8537,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597568,
+      "id": 3918169,
       "external_id": "157875",
       "title": "Occupational Therapist / Outpatient",
       "department": "Therapy",
@@ -8514,7 +8560,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597567,
+      "id": 3918168,
       "external_id": "158070",
       "title": "Rehab Clinic Manager / Physical Therapy",
       "department": "Therapy",
@@ -8537,7 +8583,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597584,
+      "id": 3918185,
       "external_id": "155326",
       "title": "Physical Therapist / PRN / Outpatient",
       "department": "Therapy",
@@ -8560,7 +8606,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597583,
+      "id": 3918184,
       "external_id": "155333",
       "title": "Occupational Therapist / Outpatient",
       "department": "Therapy",
@@ -8583,7 +8629,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597585,
+      "id": 3918186,
       "external_id": "155156",
       "title": "Addiction Counselor",
       "department": "Social Work/Behavioral Health",
@@ -8606,7 +8652,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597548,
+      "id": 3918149,
       "external_id": "161705",
       "title": "Athletic Trainer / Surgical",
       "department": "Therapy",
@@ -8629,7 +8675,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597582,
+      "id": 3918183,
       "external_id": "155516",
       "title": "Athletic Trainer",
       "department": "Therapy",
@@ -8652,7 +8698,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597599,
+      "id": 3918200,
       "external_id": "147792",
       "title": "Occupational Therapist / PRN",
       "department": "Therapy",
@@ -8675,7 +8721,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597597,
+      "id": 3918198,
       "external_id": "150159",
       "title": "Speech Pathologist / PRN",
       "department": "Therapy",
@@ -8698,7 +8744,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597596,
+      "id": 3918197,
       "external_id": "151100",
       "title": "Occupational Therapist / PRN",
       "department": "Therapy",
@@ -8721,7 +8767,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597566,
+      "id": 3918167,
       "external_id": "158282",
       "title": "Speech Pathologist / PRN",
       "department": "Therapy",
@@ -8744,7 +8790,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597600,
+      "id": 3918201,
       "external_id": "147459",
       "title": "Occupational Therapist / PRN",
       "department": "Therapy",
@@ -8767,7 +8813,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597537,
+      "id": 3918138,
       "external_id": "162527",
       "title": "Senior Manager, Operations",
       "department": "Business Operations",
@@ -8790,7 +8836,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597572,
+      "id": 3918173,
       "external_id": "157360",
       "title": "Exercise Physiologist",
       "department": "Therapy",
@@ -8813,7 +8859,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597563,
+      "id": 3918164,
       "external_id": "159149",
       "title": "Speech Pathologist / PRN",
       "department": "Therapy",
@@ -8836,7 +8882,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597553,
+      "id": 3918154,
       "external_id": "161377",
       "title": "Physical Therapist / Outpatient",
       "department": "Therapy",
@@ -8859,7 +8905,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597565,
+      "id": 3918166,
       "external_id": "159137",
       "title": "Physical Therapist / PRN",
       "department": "Therapy",
@@ -8882,7 +8928,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597564,
+      "id": 3918165,
       "external_id": "159138",
       "title": "Physical Therapist / PRN",
       "department": "Therapy",
@@ -8905,7 +8951,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597569,
+      "id": 3918170,
       "external_id": "157674",
       "title": "Occupational Therapist / Outpatient",
       "department": "Therapy",
@@ -8928,7 +8974,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597554,
+      "id": 3918155,
       "external_id": "161376",
       "title": "Physical Therapist / PRN / Outpatient",
       "department": "Therapy",
@@ -8951,7 +8997,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597577,
+      "id": 3918178,
       "external_id": "156958",
       "title": "Physical Therapist / PRN / Outpatient",
       "department": "Therapy",
@@ -8974,7 +9020,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597576,
+      "id": 3918177,
       "external_id": "156959",
       "title": "Physical Therapist / Outpatient / PRN",
       "department": "Therapy",
@@ -8997,7 +9043,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597589,
+      "id": 3918190,
       "external_id": "154115",
       "title": "Physical Therapist / PRN / Outpatient",
       "department": "Therapy",
@@ -9020,7 +9066,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598175,
+      "id": 3918776,
       "external_id": "3394",
       "title": "Plumbing Designer",
       "department": "Engineering - Mechanical",
@@ -9043,7 +9089,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597573,
+      "id": 3918174,
       "external_id": "157173",
       "title": "Critical Care Stepdown LTAC Registered Nurse / RN",
       "department": "Nursing",
@@ -9066,7 +9112,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597598,
+      "id": 3918199,
       "external_id": "148840",
       "title": "Critical Care Stepdown LTAC Charge Nurse / RN",
       "department": "Nursing",
@@ -9089,7 +9135,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597550,
+      "id": 3918151,
       "external_id": "161614",
       "title": "Critical Care Stepdown Registered Nurse / RN",
       "department": "Nursing",
@@ -9112,7 +9158,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597590,
+      "id": 3918191,
       "external_id": "153278",
       "title": "Unit Charge Nurse Critical Care Stepdown / RN",
       "department": "Nursing",
@@ -9135,7 +9181,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597549,
+      "id": 3918150,
       "external_id": "161634",
       "title": "Unit Charge Nurse Critical Care Stepdown / RN",
       "department": "Nursing",
@@ -9158,7 +9204,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598176,
+      "id": 3918777,
       "external_id": "3393",
       "title": "Plumbing Designer",
       "department": "Engineering - Mechanical",
@@ -9181,7 +9227,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597579,
+      "id": 3918180,
       "external_id": "156140",
       "title": "Allergy, Asthma, Immunology NP / PA",
       "department": "Advanced Practice Providers",
@@ -9204,7 +9250,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597578,
+      "id": 3918179,
       "external_id": "156588",
       "title": "Nephrology Advanced Practice Provider ACNP / PA",
       "department": "Advanced Practice Providers",
@@ -9227,7 +9273,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597538,
+      "id": 3918139,
       "external_id": "162526",
       "title": "Patient Arrival Specialist",
       "department": "Clerical & Administrative",
@@ -9250,7 +9296,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597544,
+      "id": 3918145,
       "external_id": "162096",
       "title": "Patient Arrival Specialist",
       "department": "Clerical & Administrative",
@@ -9273,7 +9319,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597562,
+      "id": 3918163,
       "external_id": "159268",
       "title": "Supervisor, Priority Access",
       "department": "Clerical & Administrative",
@@ -9296,7 +9342,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597560,
+      "id": 3918161,
       "external_id": "159806",
       "title": "Patient Access Engagement Liaison - MyChart",
       "department": "Clerical & Administrative",
@@ -9319,7 +9365,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597543,
+      "id": 3918144,
       "external_id": "162103",
       "title": "Patient Access Priority Engagement Specialist Lead",
       "department": "Clerical & Administrative",
@@ -9342,7 +9388,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597571,
+      "id": 3918172,
       "external_id": "157447",
       "title": "Patient Access Engagement Liaison",
       "department": "Clerical & Administrative",
@@ -9365,7 +9411,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597588,
+      "id": 3918189,
       "external_id": "154570",
       "title": "Lead Orthopedic APP Ambulatory Clinic - NP / PA",
       "department": "Advanced Practice Providers",
@@ -9388,7 +9434,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597546,
+      "id": 3918147,
       "external_id": "161890",
       "title": "Infusion Registered Nurse / PRN",
       "department": "Nursing",
@@ -9411,7 +9457,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597559,
+      "id": 3918160,
       "external_id": "159820",
       "title": "RN / Outpatient Cardiology",
       "department": "Nursing",
@@ -9434,7 +9480,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597547,
+      "id": 3918148,
       "external_id": "161715",
       "title": "Patient Access Consultant",
       "department": "Business Operations",
@@ -9457,7 +9503,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597542,
+      "id": 3918143,
       "external_id": "162222",
       "title": "Maintenance Mechanic",
       "department": "Facility Support and Building Maintenance",
@@ -9480,7 +9526,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3597586,
+      "id": 3918187,
       "external_id": "155049",
       "title": "Imaging Services Assistant",
       "department": "Imaging & Radiology",
@@ -9503,7 +9549,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598656,
+      "id": 3919257,
       "external_id": "31145850",
       "title": "(Sr.) Financial Planning & Analysis Manager",
       "department": "",
@@ -9526,7 +9572,7 @@
       "ats_type": "workday"
     },
     {
-      "id": 3598220,
+      "id": 3918821,
       "external_id": "R-041255",
       "title": "Pharmacy Tech (Tech I), 6-Week Training Program, Rotating Shift, Pharmacy",
       "department": "",
@@ -9549,7 +9595,7 @@
       "ats_type": "workday"
     },
     {
-      "id": 3598219,
+      "id": 3918820,
       "external_id": "R-041257",
       "title": "Student Pharmacy Intern, Variable Part-Time,  Pharmacy",
       "department": "",
@@ -9572,7 +9618,7 @@
       "ats_type": "workday"
     },
     {
-      "id": 3598168,
+      "id": 3918769,
       "external_id": "330394",
       "title": "Federal Project Manager III - Oracle Health (EHR Pre & Post Go-live Readiness)",
       "department": "",
@@ -9595,7 +9641,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3598166,
+      "id": 3918767,
       "external_id": "357706",
       "title": "Physician, Cardiac Surgery",
       "department": "Physician Group",
@@ -9618,7 +9664,7 @@
       "ats_type": "taleo"
     },
     {
-      "id": 3596950,
+      "id": 3917551,
       "external_id": "330321",
       "title": "Oracle Health Lead Organizational Change Consultant",
       "department": "",
@@ -9641,7 +9687,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3598985,
+      "id": 3919586,
       "external_id": "162689",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -9664,7 +9710,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598992,
+      "id": 3919593,
       "external_id": "161633",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -9687,7 +9733,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598996,
+      "id": 3919597,
       "external_id": "159239",
       "title": "CVOR Registered Nurse",
       "department": "Nursing",
@@ -9710,7 +9756,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598990,
+      "id": 3919591,
       "external_id": "162386",
       "title": "Manager, Language Access Services",
       "department": "Clerical & Administrative",
@@ -9733,7 +9779,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598999,
+      "id": 3919600,
       "external_id": "146085",
       "title": "Patient Care Tech / Float Pool",
       "department": "Clinical & Nursing Support",
@@ -9756,7 +9802,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598995,
+      "id": 3919596,
       "external_id": "159452",
       "title": "Medical Lab Technician/ Blood Bank",
       "department": "Laboratory",
@@ -9779,7 +9825,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598984,
+      "id": 3919585,
       "external_id": "162916",
       "title": "Patient Care Technician / PCT / Acute Rehab",
       "department": "Clinical & Nursing Support",
@@ -9802,7 +9848,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598982,
+      "id": 3919583,
       "external_id": "163055",
       "title": "Occupational Therapist / Outpatient / Part Time",
       "department": "Therapy",
@@ -9825,7 +9871,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598998,
+      "id": 3919599,
       "external_id": "158054",
       "title": "Phlebotomy Tech Float",
       "department": "Laboratory",
@@ -9848,7 +9894,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598989,
+      "id": 3919590,
       "external_id": "162406",
       "title": "Phlebotomy Tech",
       "department": "Laboratory",
@@ -9871,7 +9917,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598993,
+      "id": 3919594,
       "external_id": "161537",
       "title": "Part Time Phlebotomist",
       "department": "Laboratory",
@@ -9894,7 +9940,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598997,
+      "id": 3919598,
       "external_id": "159080",
       "title": "PRN Phlebotomy Tech",
       "department": "Laboratory",
@@ -9917,7 +9963,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598994,
+      "id": 3919595,
       "external_id": "160257",
       "title": "Phlebotomy Tech",
       "department": "Laboratory",
@@ -9940,7 +9986,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598991,
+      "id": 3919592,
       "external_id": "161789",
       "title": "PRN Phlebotomy Tech",
       "department": "Laboratory",
@@ -9963,7 +10009,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598983,
+      "id": 3919584,
       "external_id": "162957",
       "title": "Radiologic Technologist Outpatient / Part-Time Days",
       "department": "Imaging & Radiology",
@@ -9986,7 +10032,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598986,
+      "id": 3919587,
       "external_id": "162673",
       "title": "Neurodiagnostic Tech / WEO",
       "department": "Neurodiagnostics",
@@ -10009,7 +10055,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598987,
+      "id": 3919588,
       "external_id": "162669",
       "title": "Neurodiagnostic Specialist",
       "department": "Clinical & Nursing Support",
@@ -10032,7 +10078,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598988,
+      "id": 3919589,
       "external_id": "162633",
       "title": "Phlebotomy Tech / PRN",
       "department": "Laboratory",
@@ -10055,7 +10101,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599660,
+      "id": 3920261,
       "external_id": "159702",
       "title": "PCC - Complex Scheduler",
       "department": "Clerical & Administrative",
@@ -10078,7 +10124,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599026,
+      "id": 3919627,
       "external_id": "3334",
       "title": "Sr Interior Designer",
       "department": "Interior Design",
@@ -10101,7 +10147,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599638,
+      "id": 3920239,
       "external_id": "161898",
       "title": "Pharmacy Intern",
       "department": "Pharmacy",
@@ -10124,7 +10170,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599631,
+      "id": 3920232,
       "external_id": "162494",
       "title": "Guest Services Associate",
       "department": "Clerical & Administrative",
@@ -10147,7 +10193,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599629,
+      "id": 3920230,
       "external_id": "162530",
       "title": "Guest Services Associate",
       "department": "Clerical & Administrative",
@@ -10170,7 +10216,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599628,
+      "id": 3920229,
       "external_id": "162532",
       "title": "Guest Services Associate",
       "department": "Clerical & Administrative",
@@ -10193,7 +10239,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599696,
+      "id": 3920297,
       "external_id": "148884",
       "title": "Guest Services Associate",
       "department": "Clerical & Administrative",
@@ -10216,7 +10262,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599691,
+      "id": 3920292,
       "external_id": "153340",
       "title": "Guest Services Associate",
       "department": "Clerical & Administrative",
@@ -10239,7 +10285,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599618,
+      "id": 3920219,
       "external_id": "162976",
       "title": "LPN / Primary Care",
       "department": "Nursing",
@@ -10262,7 +10308,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599621,
+      "id": 3920222,
       "external_id": "162869",
       "title": "RN Clinician / Ortho",
       "department": "Nursing",
@@ -10285,7 +10331,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599614,
+      "id": 3920215,
       "external_id": "163052",
       "title": "Emergency Medical Tech / Delta",
       "department": "Clinical & Nursing Support",
@@ -10308,7 +10354,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599689,
+      "id": 3920290,
       "external_id": "154292",
       "title": "Sterile Processing Tech III",
       "department": "Clinical & Nursing Support",
@@ -10331,7 +10377,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599649,
+      "id": 3920250,
       "external_id": "161317",
       "title": "RN Care Coordinator / Infectious Disease",
       "department": "Nursing",
@@ -10354,7 +10400,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599655,
+      "id": 3920256,
       "external_id": "161036",
       "title": "Medical Assistant / Nephrology",
       "department": "Clinical & Nursing Support",
@@ -10377,7 +10423,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599622,
+      "id": 3920223,
       "external_id": "162739",
       "title": "Medical Assistant / Primary Care",
       "department": "Clinical & Nursing Support",
@@ -10400,7 +10446,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599639,
+      "id": 3920240,
       "external_id": "161857",
       "title": "LPN Patient Navigator / Transplant",
       "department": "Nursing",
@@ -10423,7 +10469,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599640,
+      "id": 3920241,
       "external_id": "161856",
       "title": "LPN Patient Navigator / Transplant",
       "department": "Nursing",
@@ -10446,7 +10492,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599632,
+      "id": 3920233,
       "external_id": "162467",
       "title": "Patient Transporter",
       "department": "Facility Support and Building Maintenance",
@@ -10469,7 +10515,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599653,
+      "id": 3920254,
       "external_id": "161253",
       "title": "Courier PRN",
       "department": "Facility Support and Building Maintenance",
@@ -10492,7 +10538,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599679,
+      "id": 3920280,
       "external_id": "156892",
       "title": "Patient Care Tech",
       "department": "Clinical & Nursing Support",
@@ -10515,7 +10561,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599615,
+      "id": 3920216,
       "external_id": "163050",
       "title": "Barista - Starbucks",
       "department": "Food Services",
@@ -10538,7 +10584,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599634,
+      "id": 3920235,
       "external_id": "162363",
       "title": "Recovery Room Registered Nurse",
       "department": "Nursing",
@@ -10561,7 +10607,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599658,
+      "id": 3920259,
       "external_id": "159955",
       "title": "Respiratory Care Practitioner / RCP / Internal Travel Team",
       "department": "Nursing",
@@ -10584,7 +10630,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599671,
+      "id": 3920272,
       "external_id": "158142",
       "title": "CVOR Surgical Technologist",
       "department": "Clinical & Nursing Support",
@@ -10607,7 +10653,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599672,
+      "id": 3920273,
       "external_id": "158141",
       "title": "CVOR Surgical Technologist",
       "department": "Clinical & Nursing Support",
@@ -10630,7 +10676,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599673,
+      "id": 3920274,
       "external_id": "158140",
       "title": "CVOR Surgical Technologist",
       "department": "Clinical & Nursing Support",
@@ -10653,7 +10699,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599646,
+      "id": 3920247,
       "external_id": "161459",
       "title": "Social Work Care Manager / PRN",
       "department": "Care Management",
@@ -10676,7 +10722,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599675,
+      "id": 3920276,
       "external_id": "157934",
       "title": "CVOR Surgical Technologist",
       "department": "Clinical & Nursing Support",
@@ -10699,7 +10745,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599683,
+      "id": 3920284,
       "external_id": "155953",
       "title": "CVOR Surgical Technologist",
       "department": "Clinical & Nursing Support",
@@ -10722,7 +10768,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599654,
+      "id": 3920255,
       "external_id": "161191",
       "title": "Endoscopy Technician Coordinator",
       "department": "Clinical & Nursing Support",
@@ -10745,7 +10791,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599666,
+      "id": 3920267,
       "external_id": "159086",
       "title": "Care Manager IP",
       "department": "Care Management",
@@ -10768,7 +10814,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599613,
+      "id": 3920214,
       "external_id": "163114",
       "title": "Same Day Surgery Registered Nurse",
       "department": "Nursing",
@@ -10791,7 +10837,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3598981,
+      "id": 3919582,
       "external_id": "163115",
       "title": "Same Day Surgery Registered Nurse",
       "department": "Nursing",
@@ -10814,7 +10860,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599651,
+      "id": 3920252,
       "external_id": "161302",
       "title": "Cardiovascular Operating Room Registered Nurse",
       "department": "Nursing",
@@ -10837,7 +10883,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599650,
+      "id": 3920251,
       "external_id": "161303",
       "title": "Cardiovascular Operating Room Registered Nurse",
       "department": "Nursing",
@@ -10860,7 +10906,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599652,
+      "id": 3920253,
       "external_id": "161264",
       "title": "Corporate Advanced Practice Provider NP / PA",
       "department": "Advanced Practice Providers",
@@ -10883,7 +10929,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599684,
+      "id": 3920285,
       "external_id": "155263",
       "title": "Cardiovascular Operating Room Registered Nurse",
       "department": "Nursing",
@@ -10906,7 +10952,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599656,
+      "id": 3920257,
       "external_id": "160700",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -10929,7 +10975,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599686,
+      "id": 3920287,
       "external_id": "154468",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -10952,7 +10998,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599627,
+      "id": 3920228,
       "external_id": "162563",
       "title": "Nursing Professional Development Practitioner",
       "department": "Nursing",
@@ -10975,7 +11021,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599687,
+      "id": 3920288,
       "external_id": "154466",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -10998,7 +11044,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599688,
+      "id": 3920289,
       "external_id": "154464",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -11021,7 +11067,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599619,
+      "id": 3920220,
       "external_id": "162939",
       "title": "Occupational Therapist",
       "department": "Therapy",
@@ -11044,7 +11090,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599630,
+      "id": 3920231,
       "external_id": "162504",
       "title": "Surgical Tech Education Coordinator",
       "department": "Clinical & Nursing Support",
@@ -11067,7 +11113,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599617,
+      "id": 3920218,
       "external_id": "163017",
       "title": "CVICU Registered Nurse / RN",
       "department": "Nursing",
@@ -11090,7 +11136,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599681,
+      "id": 3920282,
       "external_id": "156517",
       "title": "Radiation Oncology Registered Nurse / RN",
       "department": "Nursing",
@@ -11113,7 +11159,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599625,
+      "id": 3920226,
       "external_id": "162629",
       "title": "Chef",
       "department": "Food Services",
@@ -11136,7 +11182,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3601269,
+      "id": 3921870,
       "external_id": "31106618",
       "title": "\uff1c\u8a3a\u65ad\u85ac\u30fb\u6a5f\u5668\u4e8b\u696d\u90e8\uff1e Field Service Engineer\uff08\u5168\u56fd\u30aa\u30fc\u30d7\u30f3\u30dd\u30b8\u30b7\u30e7\u30f3\uff09",
       "department": "",
@@ -11159,7 +11205,7 @@
       "ats_type": "workday"
     },
     {
-      "id": 3600257,
+      "id": 3920858,
       "external_id": "31145704",
       "title": "Senior TA Manager",
       "department": "",
@@ -11182,7 +11228,7 @@
       "ats_type": "workday"
     },
     {
-      "id": 3600256,
+      "id": 3920857,
       "external_id": "31134789",
       "title": "CRM Operations Manager I Head of Telesales",
       "department": "",
@@ -11205,7 +11251,7 @@
       "ats_type": "workday"
     },
     {
-      "id": 3599616,
+      "id": 3920217,
       "external_id": "163023",
       "title": "OBGYN Medical Assistant / MA",
       "department": "Clinical & Nursing Support",
@@ -11228,7 +11274,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599685,
+      "id": 3920286,
       "external_id": "154930",
       "title": "Patient Care Tech II",
       "department": "Clinical & Nursing Support",
@@ -11251,7 +11297,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599636,
+      "id": 3920237,
       "external_id": "162246",
       "title": "Supply Chain Technician",
       "department": "",
@@ -11274,7 +11320,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599665,
+      "id": 3920266,
       "external_id": "159193",
       "title": "Patient Care Tech II",
       "department": "Clinical & Nursing Support",
@@ -11297,7 +11343,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599624,
+      "id": 3920225,
       "external_id": "162637",
       "title": "Clinical Transplant Coordinator Registered Nurse / RN",
       "department": "Nursing",
@@ -11320,7 +11366,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599680,
+      "id": 3920281,
       "external_id": "156801",
       "title": "ICU/ Facility Float/ Registered Nurse / RN",
       "department": "Nursing",
@@ -11343,7 +11389,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599637,
+      "id": 3920238,
       "external_id": "162156",
       "title": "Pre Op Holding Area Registered Nurse",
       "department": "Nursing",
@@ -11366,7 +11412,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599692,
+      "id": 3920293,
       "external_id": "150519",
       "title": "Operating Room Registered Nurse",
       "department": "Nursing",
@@ -11389,7 +11435,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599647,
+      "id": 3920248,
       "external_id": "161413",
       "title": "RN Pre Op Holding Area - Orthopedic and Spine/ PRN",
       "department": "Nursing",
@@ -11412,7 +11458,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599648,
+      "id": 3920249,
       "external_id": "161411",
       "title": "Registered Nurse /PACU / Orthopedics & Spine / PRN",
       "department": "Nursing",
@@ -11435,7 +11481,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599620,
+      "id": 3920221,
       "external_id": "162907",
       "title": "Clinical Decision Unit Registered Nurse / 7am - 7:30pm / Part Time",
       "department": "Nursing",
@@ -11458,7 +11504,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599642,
+      "id": 3920243,
       "external_id": "161610",
       "title": "Pre-Op Holding Area Nurse",
       "department": "Nursing",
@@ -11481,7 +11527,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599626,
+      "id": 3920227,
       "external_id": "162582",
       "title": "Emergency Department Registered Nurse / 7pm - 7:30am",
       "department": "Nursing",
@@ -11504,7 +11550,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599623,
+      "id": 3920224,
       "external_id": "162682",
       "title": "Emergency Department Registered Nurse / 1pm -1am",
       "department": "Nursing",
@@ -11527,7 +11573,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599693,
+      "id": 3920294,
       "external_id": "150167",
       "title": "Radiologic Technologist",
       "department": "Imaging & Radiology",
@@ -11550,7 +11596,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599635,
+      "id": 3920236,
       "external_id": "162284",
       "title": "Registry Telemetry Registered Nurse / RN Clinician",
       "department": "Nursing",
@@ -11573,7 +11619,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599677,
+      "id": 3920278,
       "external_id": "157577",
       "title": "RN Clinician",
       "department": "Nursing",
@@ -11596,7 +11642,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599633,
+      "id": 3920234,
       "external_id": "162415",
       "title": "Senior Lab Technical Specialist / POC",
       "department": "Laboratory",
@@ -11619,7 +11665,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599682,
+      "id": 3920283,
       "external_id": "156510",
       "title": "Assistant Director, Clinical Nutrition Services/Director, DI",
       "department": "Business Operations",
@@ -11642,7 +11688,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599668,
+      "id": 3920269,
       "external_id": "158786",
       "title": "Acute Care Registered Nurse / RN",
       "department": "Nursing",
@@ -11665,7 +11711,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599657,
+      "id": 3920258,
       "external_id": "160162",
       "title": "Claim Data Process Manager",
       "department": "Business Operations",
@@ -11688,7 +11734,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599645,
+      "id": 3920246,
       "external_id": "161524",
       "title": "Cardiovascular Specialist",
       "department": "Nursing",
@@ -11711,7 +11757,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599690,
+      "id": 3920291,
       "external_id": "154264",
       "title": "Interventional Vascular Specialist",
       "department": "Therapy",
@@ -11734,7 +11780,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599698,
+      "id": 3920299,
       "external_id": "142125",
       "title": "Cardiovascular Specialist",
       "department": "Clinical & Nursing Support",
@@ -11757,7 +11803,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599663,
+      "id": 3920264,
       "external_id": "159519",
       "title": "Emergency Department Registered Nurse / 7am - 7:30pm",
       "department": "Nursing",
@@ -11780,7 +11826,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599694,
+      "id": 3920295,
       "external_id": "150132",
       "title": "Electrophysiology Registered Nurse / RN",
       "department": "Nursing",
@@ -11803,7 +11849,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599695,
+      "id": 3920296,
       "external_id": "149028",
       "title": "Cardiovascular Specialist",
       "department": "Nursing",
@@ -11826,7 +11872,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599678,
+      "id": 3920279,
       "external_id": "157456",
       "title": "Mammography Technologist",
       "department": "Imaging & Radiology",
@@ -11849,7 +11895,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599661,
+      "id": 3920262,
       "external_id": "159534",
       "title": "Patient Care Coordinator",
       "department": "Clerical & Administrative",
@@ -11872,7 +11918,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599670,
+      "id": 3920271,
       "external_id": "158488",
       "title": "Emergency Department Nursing Professional Development Practitioner / RN",
       "department": "Nursing",
@@ -11895,7 +11941,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599669,
+      "id": 3920270,
       "external_id": "158723",
       "title": "PCT, OU Float, I",
       "department": "Clinical & Nursing Support",
@@ -11918,7 +11964,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599674,
+      "id": 3920275,
       "external_id": "158135",
       "title": "Surgical Oncology Nurse Development Practitioner / RN",
       "department": "Nursing",
@@ -11941,7 +11987,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599676,
+      "id": 3920277,
       "external_id": "157885",
       "title": "Breast GYN and Ortho / RN",
       "department": "Nursing",
@@ -11964,7 +12010,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599664,
+      "id": 3920265,
       "external_id": "159261",
       "title": "Patient Access Engagement Specialist",
       "department": "Clerical & Administrative",
@@ -11987,7 +12033,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3601268,
+      "id": 3921869,
       "external_id": "330203",
       "title": "Director, Hyperscale Data Center Security Operations",
       "department": "",
@@ -12010,7 +12056,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3601267,
+      "id": 3921868,
       "external_id": "330124",
       "title": "Principal Member of Technical Staff - US Citizenship Required",
       "department": "",
@@ -12033,7 +12079,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3601266,
+      "id": 3921867,
       "external_id": "330119",
       "title": "Senior Software Engineer (IC3) - US Citizenship Required",
       "department": "",
@@ -12056,7 +12102,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3601264,
+      "id": 3921865,
       "external_id": "330114",
       "title": "Senior Clinical Consultant - Cerner Millennium",
       "department": "",
@@ -12079,7 +12125,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3601263,
+      "id": 3921864,
       "external_id": "330113",
       "title": "Federal Project Manager II - Oracle Health (EHR Pre & Post Go-live Readiness)",
       "department": "",
@@ -12102,7 +12148,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3601261,
+      "id": 3921862,
       "external_id": "329816",
       "title": "Federal Program Cost Control Analyst I - Oracle Health Government Services -  Must work in office Arlington VA",
       "department": "",
@@ -12125,7 +12171,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3601260,
+      "id": 3921861,
       "external_id": "325964",
       "title": "Electrical Engineer - Power Systems Engineer",
       "department": "",
@@ -12148,7 +12194,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3601259,
+      "id": 3921860,
       "external_id": "325963",
       "title": "Electrical Engineer - Power Systems Engineer",
       "department": "",
@@ -12171,7 +12217,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3601258,
+      "id": 3921859,
       "external_id": "321285",
       "title": "Physician, Pediatric Cardiac Intensivist (Full-Time)",
       "department": "Physician Group",
@@ -12194,7 +12240,7 @@
       "ats_type": "taleo"
     },
     {
-      "id": 3601257,
+      "id": 3921858,
       "external_id": "357609",
       "title": "Physician, Family Medicine (F/T) - Anaheim, CA",
       "department": "Physician Group",
@@ -12217,7 +12263,7 @@
       "ats_type": "taleo"
     },
     {
-      "id": 3601256,
+      "id": 3921857,
       "external_id": "357675",
       "title": "Physician, Gastroenterology (Advanced Endoscopy)",
       "department": "Physician Group",
@@ -12240,7 +12286,7 @@
       "ats_type": "taleo"
     },
     {
-      "id": 3601255,
+      "id": 3921856,
       "external_id": "350228",
       "title": "Physician, Aortic Surgery Fellow",
       "department": "Physician Group",
@@ -12263,7 +12309,7 @@
       "ats_type": "taleo"
     },
     {
-      "id": 3599641,
+      "id": 3920242,
       "external_id": "161739",
       "title": "Social Work Inpatient Care Manager",
       "department": "Care Management",
@@ -12286,7 +12332,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599662,
+      "id": 3920263,
       "external_id": "159528",
       "title": "Senior Patient Experience Business Partner",
       "department": "Business Operations",
@@ -12309,7 +12355,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599643,
+      "id": 3920244,
       "external_id": "161602",
       "title": "Emory Winship at Midtown Inpatient Oncology Registered Nurse Virtual Hiring Event",
       "department": "Nursing",
@@ -12332,7 +12378,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599659,
+      "id": 3920260,
       "external_id": "159836",
       "title": "Emory University Hospital Heart & Vascular Registered Nurse Virtual Hiring Event",
       "department": "Nursing",
@@ -12355,7 +12401,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599697,
+      "id": 3920298,
       "external_id": "145606",
       "title": "Physician Liaison",
       "department": "Clinical & Nursing Support",
@@ -12378,7 +12424,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599667,
+      "id": 3920268,
       "external_id": "158924",
       "title": "Operating Room Surgical Tech / Orthopedics & Spine",
       "department": "Clinical & Nursing Support",
@@ -12401,7 +12447,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3599644,
+      "id": 3920245,
       "external_id": "161551",
       "title": "Info Sec Healthcare Data Privacy and Audit Analyst",
       "department": "Information Technology",
@@ -12424,7 +12470,7 @@
       "ats_type": "icims"
     },
     {
-      "id": 3612206,
+      "id": 3932807,
       "external_id": "31145443",
       "title": "Regulatory Affairs Executive",
       "department": "",
@@ -12447,7 +12493,7 @@
       "ats_type": "workday"
     },
     {
-      "id": 3601265,
+      "id": 3921866,
       "external_id": "330118",
       "title": "Senior Software Engineer (IC3) - US Citizenship Required",
       "department": "",
@@ -12470,7 +12516,7 @@
       "ats_type": "oracle"
     },
     {
-      "id": 3601262,
+      "id": 3921863,
       "external_id": "330126",
       "title": "Principal Software Engineer",
       "department": "",
